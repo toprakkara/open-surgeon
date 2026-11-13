@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e3-734c-7ab2-8ff7-66ca17d99380"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits preserve shared wording, replace whole words and phrases, and insert new requirements at natural clause boundaries. The revised approval and deemed-consent provisions remain readable without needless deletion and reinsertion.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":8079,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":78,"reasoning_output_tokens":28}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-382e-7d51-acea-c898380aa144"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits unnecessarily delete and reinsert shared language, including “by written notice,” “during the final,” and “in reduction of the loan.” The timing changes could be targeted replacements, and the new termination condition could be a separate insertion.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7711,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":58,"reasoning_output_tokens":0}}

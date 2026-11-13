@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e3-2f42-7793-bdda-1bbb546d0d69"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement needlessly deletes and retypes “exclusive to Sponsor” and the entire original prohibition, which survives at the end. Targeted insertions would preserve that shared text and make the additions easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7566,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":52,"reasoning_output_tokens":0}}

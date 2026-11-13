@@ -1,0 +1,58 @@
+{
+  "note": "Files pinned by a protocol.json whose release copy differs from the pinned hash. Rewritten files are reports, READMEs and scripts whose text was rewritten in English for release; their behaviour and every data file are unchanged. Not-included files are part of the development repository only.",
+  "rewritten": {
+    "datasets/attorney-surgical-agent-v0.52/README.md": {
+      "original_sha256": "15486e572a7a035cf1329f9bb4bd99e3808f6a63b7a204d61f12ba50029e08de",
+      "release_sha256": "bcec33aef615b1f1e46010ee60c034476963e795cfa40b12c941a174ec16628d"
+    },
+    "datasets/attorney-surgical-verifier-v0.51/README.md": {
+      "original_sha256": "a892a6d3f221996efae1203edc4a78d3145ccda2b97b86517c30666895ec2c46",
+      "release_sha256": "2c7038c42049fe8040e65baaac6ef90b05add9e4376bf3333208232d81fc71bc"
+    },
+    "datasets/attorney-surgical-wide-fewshot-control-v0.53/README.md": {
+      "original_sha256": "302cb9a433520444bee2906d5bef78d99b9db982d37ba0500e4a328d41103550",
+      "release_sha256": "eca47492904c02aff0887c1a58d5bfe9947172dd6827fcaa405abd656972f631"
+    },
+    "datasets/attorney-surgical-wide-v0.53/README.md": {
+      "original_sha256": "aa2fcc7c4f64b13c11b2091814a5fa0ad81e05f1292e1363764c6eea64c37602",
+      "release_sha256": "34345d843aa9ba3c2755dd87a944eaa878226bc58b7cb247c3c45990d1c2ef48"
+    },
+    "scripts/agent_redlines_v052.py": {
+      "original_sha256": "27eb700bac325cf09647086b00c2278fa7385390ec2ccd276affd87378be7d3d",
+      "release_sha256": "6ce3b77651fd38a7d0235e6f7738e7532760501422e3a601f2cf4f7d9df20b98"
+    },
+    "scripts/fewshot_control_v053.py": {
+      "original_sha256": "9a25eb583fcbf56659f772ad21bd27ea6356c996afe76a1820dad55388a4a2a4",
+      "release_sha256": "59db133e828e97b467418abb1ee740d122edb60532239a72ff49c3c104e139ba"
+    },
+    "scripts/prepare_attorney_choice_folds_v050.py": {
+      "original_sha256": "9e4a1c4e6ca36a3d43e41287a377e593ada23df4a6f13b1faaf47e16a7217b20",
+      "release_sha256": "a30705aaaaef5b29d0382e7893a757c046f586545dadfb1286d486d31ffe1f85"
+    },
+    "scripts/prepare_attorney_choice_sft_v049.py": {
+      "original_sha256": "c67d4dbf437896388fcbbdc76e804ad8eedd45941e162329a03a87ba53287082",
+      "release_sha256": "42119c194bd6f74c1222263f61f5c694382254d8ddb9aa4c9a60bc55aa024347"
+    },
+    "scripts/prepare_attorney_choice_v046.py": {
+      "original_sha256": "23d80a9128e289fee0e31e8a9e6cef0a4023af299a55cdd0e841ed629c7f2654",
+      "release_sha256": "63efb17cf50eef37b77e7c578406cc6babe00922e450931de35b09b070c00b13"
+    },
+    "scripts/prepare_surgical_verifier_v051.py": {
+      "original_sha256": "ae379b344fc4abfc36a43a17d5560ab58ad0be84818750a3892bfe7e22c8d883",
+      "release_sha256": "fa4f3bf9a24a457030b8adf54fa8cd0ccb3d821631e8503989df9d8932ef7855"
+    },
+    "scripts/score_surgical_agent_v052.py": {
+      "original_sha256": "ac0a57bb5ca4c557eedb0fc5e7917d11f4aa280fa3409a1e0f56944d64a45d02",
+      "release_sha256": "3f6a046c3a845f2dd7a0daddf5d4485390eb99017addaa9e00561e6c0ef208f1"
+    },
+    "scripts/score_surgical_verifier_v051.py": {
+      "original_sha256": "f7f1288080c06392f21bfe7fe48ebf1d7dc06a6078959dbcdc662cf335e7a3b7",
+      "release_sha256": "9266a7e01ad974bc0f37046bc650e1a5c755f8d1055ef438566d4f5593f9abf5"
+    },
+    "scripts/wide_redlines_v053.py": {
+      "original_sha256": "e4cc6608a28a60e9163c27664ed702a6212d18380cd6ebea2bf5ba27320858aa",
+      "release_sha256": "f945dd66ab30a9754871f40adc5bd474b91ef89d68963f766748303489080be4"
+    }
+  },
+  "not_included": []
+}

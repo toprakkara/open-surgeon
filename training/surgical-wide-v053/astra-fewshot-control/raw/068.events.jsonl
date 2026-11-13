@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5df-b468-71d3-9ae4-37d2c257ba4e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement changes a complete clause at a natural word boundary, preserves the surrounding text, and maintains spacing and punctuation without needless retyping.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7517,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":37,"reasoning_output_tokens":0}}

@@ -1,0 +1,6 @@
+{
+  "method": "open_surgeon.core.measure score >= threshold",
+  "threshold": 81,
+  "train_balanced_accuracy": 0.7306133039908851,
+  "dataset_protocol_sha256": "19acf03af6de171e1a4a177232017f45d1088ae5b7498388c57a9a851d268ce1"
+}

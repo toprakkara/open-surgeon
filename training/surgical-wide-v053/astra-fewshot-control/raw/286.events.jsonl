@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-e21f-7272-9aca-5ea832ca5ca2"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edit replaces an entire passage while retyping shared language about plans and specifications, the consent standard, response timing, and structural work. Preserving those phrases and separately marking the new requirements would make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7761,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":55,"reasoning_output_tokens":0}}

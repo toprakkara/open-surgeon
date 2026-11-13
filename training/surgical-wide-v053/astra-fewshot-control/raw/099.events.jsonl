@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e1-5ea5-7792-aafb-51983ee38e57"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"Both replacements delete and retype substantial shared language, including “maintain and repair” and the existing damage-responsibility clause. Targeted insertions could preserve that text and make the added obligations easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7640,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":53,"reasoning_output_tokens":0}}

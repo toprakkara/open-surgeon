@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e1-3ea9-7990-9876-a6ff5dc23efc"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared text, including “likeness,” “no third party,” and “such grant.” Targeted deletions and separate insertions would preserve those words and make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7634,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":55,"reasoning_output_tokens":0}}

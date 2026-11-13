@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c55e-7191-7ab0-9b7c-b5ff0b0bc8ae"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The wholesale replacement needlessly deletes and reinserts shared text, including “Tenant shall” and “and at Tenant's cost.” More targeted edits would make the changes easier to review.\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":5008,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":65,"reasoning_output_tokens":17}}

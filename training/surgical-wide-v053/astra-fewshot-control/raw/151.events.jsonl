@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e4-3f5b-7251-9b86-56954c1034a4"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits preserve shared text, replace whole words and phrases, and insert the exception and deemed-consent sentence at natural boundaries. No surviving language is needlessly deleted and reinserted.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7656,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":47,"reasoning_output_tokens":0}}

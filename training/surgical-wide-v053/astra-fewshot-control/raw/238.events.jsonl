@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e9-7f93-7ee0-a989-38fe4f7e0d29"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits replace whole phrases and clauses, preserve the shared patent-delay language, and insert the single-period limit at a natural boundary. The rewritten ending avoids fragmentary changes and preserves the sentence flow.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7683,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":84,"reasoning_output_tokens":33}}

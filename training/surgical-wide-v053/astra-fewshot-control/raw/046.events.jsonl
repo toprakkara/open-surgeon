@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5de-676a-75d0-bdd1-fc8613cad9ae"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits preserve shared text, replace whole words and the complete time period, and add new provisions at natural clause boundaries. The liability phrase and “sole” are removed cleanly without unnecessary retyping.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7844,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":50,"reasoning_output_tokens":0}}

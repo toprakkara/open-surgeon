@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5de-8b14-7fa2-a7f6-35e7f93c7277"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement unnecessarily deletes and retypes shared language, including the request-and-supporting-information requirement and substantial portions of the recapture and consideration clauses. Targeted edits would make the changed deadline, consent process, and economic terms easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7686,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":58,"reasoning_output_tokens":0}}

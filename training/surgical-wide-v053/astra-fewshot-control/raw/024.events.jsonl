@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dd-34d9-7522-9610-74d3457e7816"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared language, including “Tenant,” “from and against all claims,” and “the common areas.” Targeted insertions and narrower replacements would make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7591,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":52,"reasoning_output_tokens":0}}

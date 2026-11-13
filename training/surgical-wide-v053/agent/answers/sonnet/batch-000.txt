@@ -1,0 +1,183 @@
+### ad38c7e717413b278b5bb7145d02f578c2b87172fa19e06c298dbddedd848cd8
+{"old": "November 1, 2026", "new": "The earlier of (a) the date Tenant opens for business at the Premises, or (b) the date that is two hundred forty (240) days after Landlord delivers possession of the Premises to Tenant in the Delivery Condition (as defined in Section 2.2)"}
+### 4bffc833d9989c476b9bb0b19d1aeb8b5d4925bec33af38b7ff4538449c7f9a4
+{"old": "only if, and to the extent that, the holder of such mortgage first enters into", "new": "and Tenant shall execute"}
+{"old": " with Tenant, in form reasonably acceptable to Tenant and in recordable form,", "new": " on the holder’s then-current commercially reasonable form,"}
+{"old": "Landlord shall use commercially reasonable efforts to obtain", "new": "Tenant shall attorn to the holder of such mortgage or any purchaser at foreclosure. Landlord may request"}
+{"old": "within sixty (60) days after the Effective Date.", "new": "at Tenant’s request and sole cost and expense, including the current mortgage holder’s and Landlord’s reasonable legal fees, within sixty (60) days after the date of this Lease. Landlord shall have no liability if the current mortgage holder declines to provide such agreement."}
+### c295010a035360ac143cb9324b8108550543a3df7fae94b789a8be6690fe5a7a
+{"old": "including natural", "new": "and limited to acts of God, natural"}
+{"old": "labor disputes, or internet outages", "new": "and government orders"}
+{"old": "resume performance. If", "new": "resume performance. During a Force Majeure Event, payment obligations for Services already rendered are not excused, and Client shall be entitled to a pro-rata credit for documented periods of actual non-performance by Agency. If"}
+### ebd1d87869d3ea96fdcd07cb9c56a18601549269c2e337134bad7d7a47f7656f
+{"old": "lesser", "new": "greater"}
+{"old": " In no event shall the monthly Base Rent for a Renewal Term exceed the amount set forth in clause (a) of this Section 2.", "new": ""}
+### 65260bc6eacf2f19ad46997dd0cbd25c1b58c55e7ac39c8f400c4e2d686988bb
+{"old": ", in its sole discretion, withhold the corresponding milestone payment,", "new": ""}
+{"old": ", or terminate this Agreement under Article 16.", "new": " and a reasonable period to perform it, and may exercise its other remedies under this Agreement only if the plan is not agreed or not performed."}
+### 1591227935f94bcec2bf6418effbf9b4dbe76b76cd50cd1e130b42b51720655a
+{"old": "Section 7", "new": "Section 6"}
+### 89f62771b2b834e62202861aaf94473c81483fe7831a7a99bc0a56b6375cdf82
+{"old": "directly from Ee", "new": "directly from (i) Ee"}
+{"old": "gross negligence.", "new": "gross negligence, or (ii) a defect, error, or failure in the Services, the Software, or the Ee L. Kew Technology, including any failure of the Services to generate or render customer-facing components in a manner that conforms to the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA, in each case where Customer has implemented the accessibility features and configuration options made available by Ee L. Kew."}
+### b840c7c65a679da2a0c93fa2d4c97c5706fea2b9087fef089840ac87bd536001
+{"old": "Sections 5(d) and 5(f) (post-termination use and no transfer of ownership)", "new": "Article 4 (Fees and Expenses, as to any amount accrued or payable as of expiration or termination), Article 5 (Use of Names, Trademarks, and Marketing Materials) other than the licenses granted in Sections 5(a), 5(b), and 5(e)"}
+{"old": "Limitation of Liability), Section 13(e)", "new": "Limitation of Liability), provided that the Ambassador's indemnification obligations under Section 12(b) shall expire twenty-four (24) months following expiration or termination, Section 13(e)"}
+### edca65d7489e7f39ea12387d36a48d989e9c1412572ace6ffbbee3dfdee82281
+{"old": "All Foreground IP is hereby assigned, and will upon creation be deemed assigned, to Sponsor.", "new": "Calloway owns all right, title, and interest in and to the Foreground IP. Calloway grants Sponsor an exclusive license under the Foreground IP, within the Field of Use, for five (5) years commencing on first commercial deployment, with full rights to commercialize and sublicense within the Field of Use during that period and without further consent from or payment to Calloway beyond the Program Funds. On expiry the license automatically converts to non-exclusive, and Calloway may thereafter license, apply, and further develop the Foreground IP for any application, including within the Field of Use, and use it in research funded by any other sponsor. If first commercial deployment has not occurred within three (3) years after completion of the Research Program, the license converts to non-exclusive on that date."}
+{"old": "execute and will cause", "new": "execute, and will cause"}
+{"old": "any assignment or other documents", "new": "any documents"}
+{"old": "Sponsor's ownership", "new": "Calloway’s ownership"}
+### ef1f4daf0d736e126c8842bf17c8a944531f9978b28b7043c4079f355eb9223f
+{"old": "first month of this Lease shall", "new": "first month of this Lease containing the Rent Commencement Date shall"}
+### a2ebcdaec94daa024af3f435a3691495db11229986cc5e65b8ab28e50e5d59e2
+{"old": "Landlord shall not be liable", "new": "Except as expressly set forth in this Section 4.2, Landlord shall not be liable"}
+{"old": "by the date which is sixty (60) days from the Lease Commencement Date,", "new": "in the Delivery Condition on or before November 1, 2026 (the “Outside Delivery Date”),"}
+{"old": "Landlord shall have thirty (30) days after Landlord’s receipt of the Delay Notice, to tender possession of the Premises to Tenant, and in the event that Landlord is still unable to deliver possession of the Premises to Tenant within such time, then upon the thirty-first (31st)", "new": "This Lease shall terminate on the tenth (10th)"}
+{"old": ", this Lease shall be deemed terminated, and of no further force or effect, with Landlord and Tenant thereafter being relieved of any further obligations to one another under this Lease.", "new": ", and Landlord shall, within ten (10) days thereafter, refund to Tenant the Security Deposit and all prepaid Base Rent, Direct Costs, and other amounts paid by Tenant, and reimburse Tenant for its documented out-of-pocket architectural, engineering, permitting, and outside legal costs incurred in reliance on this Lease."}
+{"old": "number of days that work on the Premises is delayed due to no fault of Landlord, or the", "new": "number of days, not to exceed thirty (30) days in the aggregate, that work on the Premises is delayed by the"}
+{"old": "remain unaffected, and this Lease shall terminate on the Lease Termination Date.", "new": "not commence until the date Landlord delivers possession of the Premises in the Delivery Condition, and the Lease Termination Date shall be extended day-for-day accordingly."}
+### e69fa30127231e5a0909aba1057d496b724a381c87a50f088b6a66231bc0604c
+{"old": "(non-binding)", "new": "(Committed Turnaround)"}
+### 45ce0c59cbdbba81cc3a3f6a6d0638fe8fc2a99c2d254c587eb0e5538779bc46
+{"old": "Landlord shall not be required to sub-meter or provide separate meter for any utility service serving the Premises but shall have the right to do so if Landlord so chooses.  Landlord shall not be liable, under any circumstances and however occurring, for injury to person, inconvenience, damage to or loss of business or damage to or loss of use of property which are related to any utility service to the Premises, and Tenant shall not be entitled to any abatement or reduction of Rentals or other sums, and shall not be entitled to terminate the Lease by reason of any failure to furnish, or interruption in, any or all utility services.", "new": "Landlord shall separately meter the Premises at Landlord’s cost. If any service remains master metered, charges to Tenant shall be based on documented, verifiable consumption, not square footage, and Tenant shall have access to the supporting records and a right to audit the allocation. If any utility service to the Premises is interrupted for more than twenty-four (24) consecutive hours for any reason within Landlord’s reasonable control, Base Rent and Direct Costs shall abate in proportion to the resulting loss of use from the first hour of the interruption until service is restored. If the interruption continues beyond fifteen (15) consecutive days, Tenant may terminate this Lease by written notice. Nothing in this Lease waives Tenant’s claims for spoilage caused by Landlord’s intentional interruption of service."}
+### 55e16ee4069db7cf401402c8581dfe2911ff32ab5c7fd0c406a31f18fde38c21
+{"old": "provided that once in any twelve (12) month period Tenant is entitled to written notice and a further five (5) day cure period", "new": "provided Tenant is entitled to written notice in each instance"}
+### 2e226615ec6f84fb9f5abf18f3e104d09c6e5739367731f960b262e6c2a1db96
+{"old": ", in its sole discretion, withhold the corresponding milestone payment,", "new": ""}
+{"old": ", or terminate this Agreement under Article 16.", "new": " and a reasonable period to perform it, and may withhold the corresponding milestone payment or terminate this Agreement under Article 16 only if the corrective action plan is not agreed or not performed. Amounts withheld under this Section 6.4 are deferred and not forfeited. Failure to achieve a Phase milestone, or to meet an acceptance criterion set forth in Exhibit A, is a milestone matter addressed under this Article 6 and is not a breach of warranty or a default under Article 16."}
+### b9c372360e7fa762b9b0e003f436f13f6a870a798f769b276dc59d2dd08f5df1
+{"old": "five (5) business", "new": "two (2) business"}
+{"old": "scheduled posting date.", "new": "scheduled posting date, it being understood that Company comments will be limited to two revisions per post.  A failure of Company to respond to a request for an approval shall be deemed an approval."}
+### fffe192de540ee844a14983658b402e964537fedd3c985b9d495463ae4ac403c
+{"old": "shall promptly report", "new": "shall report"}
+{"old": "any Adverse Events, Serious Adverse Events (SAEs), and unexpected", "new": "any Serious Adverse Events (SAEs) and unexpected"}
+{"old": "Research Program, within the timeframes required by applicable regulations and the SDEA.", "new": "Research Program within twenty-four (24) hours after becoming aware of them, and any other Adverse Events within five (5) business days after becoming aware of them, or within any shorter timeframes required by applicable regulations or the SDEA."}
+### 1cefe0955e718cbc2ba76ac7d56f0f2618205cc6fe342c249d3c0a0811734eb1
+{"old": " by Calloway", "new": ""}
+{"old": "Calloway may terminate", "new": "either Party may terminate"}
+{"old": "to Licensee.", "new": "to the other Party. Upon any termination under this Section 13.2, Calloway will provide transition assistance as reasonably requested by Licensee, including delivery of all Improvements included in the Licensed Technology during the Enhancement Window, for a period of sixty (60) days following the effective date of termination."}
+### 8428035bdfa343ebd64ea7ca2d4190076c386e1a147e124df805f35d6e1afd24
+{"old": "hereunder (collectively", "new": "hereunder, in each case meaning the Posts approved by Company and excluding raw footage, outtakes, unused takes, Contractor’s pre-existing materials, templates and editing tools, and any material independently developed by Contractor (collectively"}
+### 3e3a5e8899e9428379ea5fe66c9b3af8b68b1e79d0742cc7872f5fe75eb9d274
+{"old": "corresponding deadline.", "new": "corresponding deadline. Any milestone deadline is automatically extended by the length of any delay in obtaining a required regulatory approval, including FAA authorization, to the extent that delay is outside Licensee's reasonable control."}
+### b4b58845fd24c792e6c67fee95744dc88da82258c1641fb97404fcb75682360d
+{"old": "this Agreement and provide", "new": "Company’s licence or subscription to the affected SaaS Systems, or terminate the affected SOW or Services, and provide"}
+{"old": "of prepaid Fees.", "new": "of all prepaid Fees for the period after termination."}
+### 278464b023350883ed7ebbd1e7ca3965855feeed0e87c9ba3c8308b0948dcda4
+{"old": "a perpetual, royalty free, non-exclusive license to use", "new": "the right to use"}
+{"old": "internal, non-commercial research and teaching purposes,", "new": "research, teaching, and publication purposes, and in research funded by other sponsors outside the Field of Use,"}
+### 7a32285e205190fe2f7a17628695f1cf6145d8772432726f34042f668551080b
+{"old": "Reasonable participation", "new": "Participation"}
+{"old": "per year.", "new": "per year, each of which the Ambassador may decline in her sole discretion."}
+### f86cee9ca5520b2a57d382c959ef05e5247314f6d80d7c813f4615b534f18e05
+{"old": "Section 3.", "new": "Section 2."}
+### 7dbee0fbc41b66f9a3b67a8a8cad7bcec35c051d70f964abd56b4108af213161
+{"old": "all Services in accordance", "new": "all Services in a first class manner consistent with industry best practices and in accordance"}
+{"old": "Order Form.", "new": "Order Form. Ee L. Kew shall make the Services available for Customer’s production use no later than eight (8) weeks after the Effective Date, subject to Customer’s performance of its dependencies under the applicable statement of work."}
+### 4f0b0fb9ca0bb74601c355ad1fd9d631753f45d1b88512483362614d8fe86cae
+{"old": "nothing contained in this Section shall limit Landlord’s right to reimbursement from Tenant for maintenance, repair costs and replacement costs conferred in connection with the foregoing or elsewhere in this Lease.", "new": "any reimbursement by Tenant for Landlord’s work under this Section shall be solely through Direct Costs and subject to the exclusions and cap in Article 6."}
+### 07298dd9dd1d113f2d545e6767f95799cad28a094a1de46e88f13aba2a68f37f
+{"old": "SUCH DAMAGES.", "new": "SUCH DAMAGES. The exclusion set forth in this Section 10.2 shall not apply to (i) either Party’s breach of Section 6 (Confidentiality), (ii) IP misappropriation, (iii) either Party’s indemnification obligations under Section 11, or (iv) either Party’s gross negligence or willful misconduct."}
+### fccfbe358a6c7cf695ed421ce776b2e1b99e73a8ac0e715eab143b6a2ce4217a
+{"old": "the maximum rate permitted by law.", "new": "the rate specified in Section 18.6(b)."}
+### c3aa752299e4e61f93ff58f8e2f6019426cdd75f45f5e173475551a780765410
+{"old": "Subordination. This", "new": "Subordination and Non-Disturbance. This"}
+{"old": "the Property. Tenant", "new": "the Property, provided that the holder of each such instrument delivers to Tenant a subordination, non-disturbance and attornment agreement in a commercially reasonable form, providing that (i) Tenant’s possession will not be disturbed so long as no Event of Default is continuing, and (ii) the successor in interest recognizes this Lease including the Allowance, the renewal options and any expansion rights. Landlord shall obtain such agreement from the existing mortgagee on or before the Effective Date, at Landlord’s cost. Tenant"}
+{"old": "or similar instrument a mortgagee requests within ten (10)", "new": "or non-disturbance instrument reasonably requested within fifteen (15)"}
+### 58697665c27a1c3ca739cdeaf3b212b795fb2c7f89d73734bd930a33a10901b1
+{"old": "No Data Portability. Client acknowledges that the Test Methodology used to perform Certification Services, including test fixtures, calibration protocols, and pass or fail thresholds developed specifically for Client's drone geometry, is Platinum's proprietary work product. Except as set forth in Section 9.3, Platinum has no obligation to transfer, license, or otherwise make available to Client the underlying Test Methodology, raw sensor data, or fixture specifications used to generate any Deliverable.", "new": "Data Portability and Exit Package. Upon expiration or termination of this Agreement for any reason, or upon Client’s written request at any time, Platinum will deliver to Client within thirty (30) days (a) all Deliverables and certification reports previously issued to Client, (b) copies of all Client Testing Data, including raw sensor data, test logs, and calibration data, in the native formats in which Platinum maintains them, and (c) the Client-Specific Methodology, including fixture specifications, calibration protocols, and pass or fail thresholds developed or adapted for Client’s drone geometry, together with methodology documentation sufficient to enable a replacement accredited laboratory to reproduce the Certification Services (collectively, the \"Exit Package\"), and Platinum hereby grants Client a perpetual, irrevocable, royalty free license under Platinum’s Test Methodology to use, and to permit any replacement laboratory to use, the Client-Specific Methodology for the certification of Client’s products. Platinum may charge a methodology transfer fee for preparing the Exit Package not exceeding the lesser of fifteen percent (15%) of the fees paid under this Agreement in the trailing twelve (12) months or seventy-five thousand dollars ($75,000), except that no fee applies where delivery follows termination by Client for Platinum’s breach, a lapse of accreditation under Section 9, or a Change of Control of Platinum."}
+### d8230ad2e663b1270eeb033e6dee36f725148b70a8cd813c90939731ff9b9bcf
+{"old": "Influencer agrees", "new": "The parties agree"}
+{"old": "Influencer hereby", "new": "Each party hereby"}
+### b2589c3778ed1482e720de3f964649548a99602d31590d879db5bb34e827843c
+{"old": " subject to the cap in Section 4 of Article IV.", "new": ". "}
+### f15e2f9f7648e9756f4fcd962bf4146a8191651f71a480fe5152067356c6e8fd
+{"old": " by Calloway. Calloway may", "new": ". Either Party may"}
+{"old": "thirty (30)", "new": "sixty (60)"}
+{"old": "to Client.", "new": "to the other Party. Upon any termination by Calloway, Calloway shall complete any Certification Services in progress under an accepted Work Order at the time of notice, deliver all Deliverables for completed testing, and cooperate in the methodology transfer described in Section 5.4."}
+### e1ff73276b934287d9aaa3256b4cb57211710a1845fe8ceaa3081b08607d55bd
+{"old": ", approximately", "new": ""}
+### d0f9bbe37317590b57aac09bdabf68c49afc7ebbd3d143db6ce305757943df66
+{"old": "Article 7", "new": "Section 7.2"}
+{"old": "Sponsor, and Calloway will not", "new": "Sponsor within the Field of Use for the exclusive period stated in that Section, and during that period Calloway will not"}
+{"old": "license under, or assign any interest in, the Foreground IP.", "new": "license under the Foreground IP within the Field of Use."}
+### 61539abc55159f05fbb5198578414f916a4deef51d87a174f46da024234a8235
+{"old": "Party B shall be responsible for, and shall indemnify Party A against, losses, damages, costs and expenses reasonably incurred by Party A arising from any material error, omission or deficiency in the Combined Dataset caused by Party B’s performance of the data combination, reconciliation, processing or related services, subject to the indemnification procedures set forth in Section 13 of the Agreement.", "new": "Nothing in this Appendix A expands Party B’s indemnification obligations beyond Section 13."}
+### 35ca013583993a7690e77e851f32f39baae2a964f8bdf60451df91bd97099c20
+{"old": "two hundred percent (200%) of the Rent", "new": "one hundred twenty-five percent (125%) of the Base Rent"}
+{"old": "two hundred fifty percent (250%)", "new": "one hundred fifty percent (150%)"}
+{"old": "Tenant is also liable for all damages Landlord incurs by reason of the holdover, including any claim by a succeeding tenant.", "new": "Tenant is not liable for consequential damages arising from a holdover of less than sixty (60) days. Any holdover with Landlord’s written consent creates a month-to-month tenancy terminable by either Party on thirty (30) days’ written notice."}
+### 25c7a7e92ee81b206ec781b5a8001e1ec00f73d8a284573a343198967688b12f
+{"old": "requirements. Tenant shall pay", "new": "requirements. The cost of Landlord’s approval of preliminary plans related to Tenant’s initial build-out have been incorporated into the Rent (without any additional cost payable by Tenant in connection with the same). Landlord’s approvals shall be reasonable, and not unreasonably withheld, conditioned, or delayed.  Tenant shall pay"}
+{"old": "five percent (5%) of the hard costs of the work.", "new": "two percent (2%) of the hard costs of any work performed by Landlord or Landlord’s contractor, for which Landlord provides actual and direct supervision which is not already factored into the cost of the same by Landlord’s contractor."}
+### 378f4afa5a58369cf4768cb37bcf9f423197271d78011fc5846717a5353ac44c
+{"old": "“Lease Term”).", "new": "“Lease Term”); provided, however, that the Lease Term shall not commence, and the Lease Commencement Date shall not occur, until Landlord has delivered possession of the Premises to Tenant in the Delivery Condition, and the Lease Termination Date shall be extended day-for-day by the number of days between the date set forth in Section 1.8 and the date of such delivery."}
+### 69e8cd7b09075e9634635353e23b3af63b05819711ebc7183a9c2e56c2d46d91
+{"old": "Commercial licensing is not permitted.", "new": "Party B shall bear its expenses in marketing and delivering Combined Dataset licenses it grants and shall retain all amounts received from those licenses."}
+### 9ac73143e8f304f0f27c39bef7f03dd8eebb5e9b2cc36d79cc0a1df48b16b8e0
+{"old": "commercially reasonable", "new": " best-in-class"}
+### f2a35401f80db5aeffcf246c91c89bb4daf544d6ebba99b02a5a53cf52626357
+{"old": "Sponsor's sole remaining payment obligation is to pay", "new": "Sponsor will pay"}
+{"old": "any Phase milestone achieved and accepted under Section 6.3 before the effective date of termination.", "new": "work performed through the effective date of termination on a percentage of completion basis, together with any non-cancellable commitment Calloway has incurred for the Research Program, including graduate researcher appointments committed for the then-current academic term."}
+### 998c9db00735e1e4a53093a721df3f563f77fb7586dcaed06f568918e2ec5366
+{"old": "may be denied, conditioned, or withheld by Landlord in Landlord’s sole and absolute discretion.  Landlord may,", "new": "shall not be unreasonably withheld for signage conforming to the Center’s published sign criteria. The parties shall attach Tenant’s prototype storefront signage to Exhibit “B” before execution, and Landlord’s execution of this Lease shall constitute approval of that signage.  After written notice and expiration of applicable cure periods, Landlord may,"}
+{"old": "such removal. ", "new": "such removal. Landlord shall provide Tenant with one panel on the Center’s monument sign and shall not obstruct Tenant’s storefront signage for more than thirty (30) consecutive days. Landlord shall not require removal or replacement of conforming signage at Tenant’s cost during the Lease Term; any replacement required by a Center-wide re-signage or façade program shall be at Landlord’s cost. These signage rights shall pass to any transferee permitted under Article 12."}
+### 990addf52ba8537abdca60d0c1b8fb80faae2cf6e17fd88cc74a62aacf16a6ad
+{"old": "the English courts.", "new": "the English courts.  Injunctive relieve shall be available to all Parties in any court of competent jurisdiction, specifically for breaches of confidentiality, intellectual property matters and data obligations, excluding CISG."}
+### 024aa53c4005e64bc77c76ac6d3d7347b660fc19f6cf4dc0c6d31944d3f6de2c
+{"old": "Release on Assignment.  Upon any assignment permitted under Section 1(c)", "new": "No Release on Assignment.  No assignment or sublease, whether permitted under Section 1"}
+{"old": ", Tenant shall be automatically released from all obligations under this Lease arising after the Commencement date of such assignment, provided the assignee has a net worth or, in the case of an experienced production company, demonstrated operating capacity reasonably comparable to that of Tenant as of the Commencement Date.", "new": " or consented to under Section 2 of this Article XVI, shall release Tenant from any obligation under this Lease, and Tenant shall remain fully liable for the performance of all obligations of the tenant under this Lease for the remainder of the Term."}
+### 0f22119270e79c458dd054d207ba6f846634d4eb727abfc8e69c9aac1e0e3cb0
+{"old": "unless such claim arises directly from Ee", "new": "unless and to the extent such claim arises from (a) Ee"}
+{"old": "gross negligence.", "new": "gross negligence, or (b) a flaw, defect, or failure of the Ee L. Kew system, the Services, or the Ee L. Kew Technology (including any failure of the Services to perform in accordance with the Documentation), in which case Ee L. Kew shall defend, indemnify, and hold harmless Customer in accordance with Section 11.1.."}
+### 2dd5050c4fe2d38bca2e590dcd2a111f8d2ae8a19014f47a679c4f4860f79eef
+{"old": "this Section 6.", "new": "this Section 5 for so long as it is retained."}
+### be64e374f44d7661c654fd666251a25b4d766582d294851469e4075993477f7f
+{"old": "display and reference the Deliverables (and describe the Services performed for Client)", "new": "reference Client by name as a client"}
+{"old": ", unless Client notifies Agency in writing that specific Deliverables are to be excluded.", "new": ". Agency shall not display the Deliverables or describe the Services performed for Client without Client's prior written consent in each instance."}
+### 40d06d420e565740565f63796ba7418a5181f9309e6360aaaaa26feed0f76201
+{"old": "one hundred eighty (180) days", "new": "sixty (60) days"}
+{"old": "presentation date.", "new": "presentation date. Neither the review period under this Section 11.1 nor any extension under Section 11.2 applies to a thesis or dissertation submitted to satisfy a degree requirement."}
+### 72f6df8d53ef238d1381612d87c522e34f5097b857bd1e6ade7202c3924916ef
+{"old": "health plans. ", "new": "health plans. At no time will Company disparage Influencer or otherwise say anything that might tend to injure the success of the same."}
+### 7f93f3f92f4947732cdd3cf62b89df25dc78c1916b21fa18e33e51911f88a7b3
+{"old": "Landlord shall not be required to sub-meter or provide separate meter for any utility service serving the Premises but shall have the right to do so if Landlord so chooses.  Landlord shall not be liable, under any circumstances and however occurring, for injury to person, inconvenience, damage to or loss of business or damage to or loss of use of property which are related to any utility service to the Premises, and Tenant shall not be entitled to any abatement or reduction of Rentals or other sums, and shall not be entitled to terminate the Lease by reason of any failure to furnish, or interruption in, any or all utility services. ", "new": "Landlord shall be required to separately meter the Lease Premises, or if master metered, to allocate consumption based on a documented, verifiable basis with Tenant audit rights. If any utility service to the Premises is interrupted for more than twenty-four (24) consecutive hours for any reason within Landlord’s reasonable control, Base Rent and Direct Costs shall be abated proportionally from the first hour of such interruption.  If the interruption continues beyond fifteen (15) consecutive days, Tenant may terminate this Lease for breach."}
+### 8420c937c30aba60791303cd9f2035010bf18acf9bd52646364f29c6a7931664
+{"old": "within ten (10) days after Landlord’s failure to perform.", "new": "promptly after Tenant becomes aware of such failure."}
+{"old": "Tenant’s timely notice.", "new": "Tenant’s notice, or within forty-eight (48) hours after receipt of Tenant’s notice in the case of an emergency or of a condition affecting access to the Premises, utility service to the Premises, or the safety of persons or property."}
+{"old": "and thereafter reasonably pursues the same to completion.", "new": "and Landlord thereafter diligently pursues the same to completion, provided that such extension shall not exceed ninety (90) days in the aggregate."}
+{"old": "Tenant waives any right to terminate this Lease based on a default by Landlord and hereby agrees to limit its right of recovery to a lawsuit for monetary damages, without the right to withhold Rentals.", "new": "If Landlord fails to perform any of its obligations under Section 10.3 within the applicable cure period, Tenant may perform that obligation on Landlord’s behalf, and Landlord shall reimburse Tenant for the actual, reasonable, and documented cost of such performance within thirty (30) days after Tenant’s invoice.  If Landlord fails either to reimburse Tenant or to dispute the invoice in writing within that thirty (30) day period, Tenant may offset the amount of the invoice against the next installments of Base Rent.  If a default by Landlord renders the Premises untenantable for more than ninety (90) consecutive days, Tenant may terminate this Lease upon written notice to Landlord."}
+### 03c6ea434bd41f8dbe050c17e87789ed9693eff57eebb1d82b438b86b8cf00c4
+{"old": "a form reasonably acceptable to Sponsor,", "new": "the form attached as exhibit to this Agreement,"}
+{"old": "work on the Research Program.", "new": "work on the Research Program. That undertaking assigns inventions to Calloway, which holds ownership of the Foreground IP under Section 7.2 and is no broader than the allocation of ownership under this Agreement."}
+### dab5fe71174846fa36c5e52205acac5a71c20af9332b683c44a31876f88d9c9e
+{"old": "a single archival copy Calloway may retain solely as permitted", "new": "laboratory notebooks, the primary research record, any material underlying a published or submitted work, and copies Calloway may retain as permitted"}
+### 336327640fa3c0f8135b7bcdac0fe355faa0452e47e2999c524dcbc39255ff92
+{"old": "Invoices shall", "new": "Invoices for fees, expenses, or any other amounts to be paid by Client, shall"}
+{"old": "services rendered and any pre-approved expenses.", "new": "details for all line items."}
+### 7aa64bf186d64451128c25bf58ce6d6a40fb6973dbb3fd93b4dfa704a2f6092f
+{"old": "this Agreement if the other Party breaches or is in default of any material obligation hereunder, which breach, or default, has not been cured within sixty (60) days after receipt of written notice of such default (or such additional cure period as the non-breaching Party may authorise).", "new": "this Agreement immediately by written notice if the other Party commits a material breach that is incapable of remedy or, if the breach is capable of remedy, fails to cure it within thirty (30) days after receiving written notice."}
+{"old": "If Company terminates for any other reason except as described in this clause, or Darkside terminates pursuant to this clause, any remaining, unpaid Fees for the then-current Term will become due and must be paid within thirty (30) days of such termination.", "new": "On termination under this clause, Company shall pay only undisputed Fees properly due for Services performed up to the effective termination date; no unearned Fees or lost profits shall be payable."}
+### 4d893f6767677cefc8eb456c56098e515c47fd6a5548fa3baead55419561ac62
+{"old": "by Calloway. Calloway may", "new": "by Client. Client may"}
+{"old": "thirty (30)", "new": "sixty (60)"}
+{"old": "to Client.", "new": "to Calloway."}
+### 05763544dab40874a9acc1b8ebd429555610c85e457d11b764b2dbb6b5fdc1df
+{"old": "paid when due.", "new": "paid when due. Notwithstanding the foregoing, the parties acknowledge Producer’s right to immediate Use upon the signing of this agreement, and Producer shall not be deemed to have breached this Agreement before the Fee is due pursuant to Section 6. Additionally, no breach shall be deemed material until Licensor provides Producer with written notice specifying the breach and thirty (30) days to cure, and where Licensor has been paid in full, Licensor’s remedies shall be limited to damages in an action at law with no right to rescind, terminate or enjoin distribution of the Program."}
+### 603f18d0e13be11bd540ba378099e6881d7113e383d4f10ad264b17166e9798b
+{"old": "Tenant may, without waiving any other remedy, cure such default on Landlord’s behalf and deduct the reasonable, documented cost thereof, together with interest at the rate of one and one-half percent (1.5%) per month, from the next installment(s) of Base Rent due under this Lease, in addition to Tenant’s emergency self-help rights under", "new": "Tenant’s sole remedy shall be an action against Landlord for damages, and Tenant shall have no right to cure such default on Landlord’s behalf or to deduct or offset any amount against Base Rent or Additional Rent, except as expressly permitted by"}
+### 59422abe2ab47ecb73830594cc77d0a29c28d0af97eb0c7f2ceb3d1d5f355e83
+{"old": "THE LESSER OF (A) THE TOTAL", "new": "THE GREATER OF (A) THREE TIMES (3X) THE TOTAL"}
+{"old": "TWENTY-FIVE THOUSAND DOLLARS ($25,000)", "new": "FIVE HUNDRED THOUSAND DOLLARS ($500,000)"}
+{"old": " THIS LIMITATION APPLIES ON A COMPANY WIDE BASIS ACROSS ALL OF PLATINUM'S CUSTOMER RELATIONSHIPS AND IS NOT CALIBRATED TO THE RISK PROFILE OF ANY INDIVIDUAL WORK ORDER, DEPLOYMENT ENVIRONMENT, OR INDUSTRY.", "new": ""}
+### 84bb83617d4ee69ab3280c3d0184cc574a3d05ecfc6ec75442e1ee525a7354bc
+{"old": "four percent (4%) of gross revenues", "new": "three percent (3%) of gross revenues"}
+{"old": "Landlord's cost of funds.", "new": "Landlord's cost of funds. Operating Expenses shall not include: (i) capital expenditures other than those required by a law enacted after the Commencement Date or that reduce Operating Expenses, in each case amortized over the useful life at Landlord’s actual cost of funds; (ii) costs of financing, ground rent and debt service; (iii) leasing commissions, marketing and tenant improvement costs; (iv) Landlord’s overhead and general corporate administration; (v) costs recovered from insurance, warranties or another tenant; (vi) costs arising from Landlord’s negligence or breach; (vii) costs of remediating hazardous materials not introduced by Tenant; and (viii) penalties or interest arising from Landlord’s late payment. Controllable Operating Expenses (being all Operating Expenses other than Taxes, Insurance Costs and utilities) shall not increase by more than four percent (4%) per annum on a cumulative and compounding basis over the Base Year."}
+### ef2da8bb4c3601b91792779621519d4e403e6e2a9294f3ecaca301da8facf627
+{"old": ", whitelisting and paid-amplification rights", "new": ""}
+### 9f2d9aac093d524123931ec0325c7da7f1cc4b2a1548adef66c8cadcc07c46dd
+{"old": "During such time that Tenant fails to comply with Section 22.2, Tenant’s Base Rent shall be increased by one hundred and fifty percent (150%) of the amount otherwise payable, until such time that Tenant has fully complied. Landlord and Tenant hereby agree that given the difficulty of calculating actual damages to be suffered by Landlord, the above increase in the Base Rent shall constitute liquidated damages for the failure to timely deliver the required statement, and not a penalty. Therefore, Landlord and Tenant hereby agree that the above increase in Base Rent is a fair and reasonable estimation of the damages that Landlord would suffer.", "new": "Intentionally omitted."}
+### ebcb4b06338a4e5b8627bf40f741c2cd86a5cc292c471597bbdd2377f1350ea7
+{"old": "to the common areas (", "new": "to the common areas, elevators, and all other areas leading to the Premises ("}
+{"old": "\"Landlord's Work\").", "new": "\"Landlord's Work\").  Within sixty (60) days after Landlord’s delivery of the Premises, Tenant shall provide Landlord with a punch-list of items (if any) related to any additional work which may be needed in order to ensure that Landlord’s Work is complete."}

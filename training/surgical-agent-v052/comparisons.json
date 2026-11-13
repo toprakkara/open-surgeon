@@ -1,0 +1,41 @@
+{
+  "note": "Paired paragraph bootstrap, 2000 draws, seed 42 (scripts/score_surgical_agent_v052.py --compare). Claim threshold from plan.json: 0.975.",
+  "comparisons": [
+    {
+      "first": "training/surgical-agent-v052/trained-27b",
+      "second": "training/surgical-agent-v052/astra",
+      "first_minus_second": -0.027843050321436413,
+      "share_of_draws_first_higher": 0.03
+    },
+    {
+      "first": "training/surgical-agent-v052/astra",
+      "second": "training/surgical-agent-v052/trained-27b",
+      "first_minus_second": 0.027843050321436413,
+      "share_of_draws_first_higher": 0.97
+    },
+    {
+      "first": "training/surgical-agent-v052/trained-27b",
+      "second": "training/surgical-agent-v052/heuristic",
+      "first_minus_second": 0.023520283750831372,
+      "share_of_draws_first_higher": 0.9525
+    },
+    {
+      "first": "training/surgical-agent-v052/trained-27b",
+      "second": "training/surgical-agent-v052/v051-model",
+      "first_minus_second": 0.036976280203945944,
+      "share_of_draws_first_higher": 1.0
+    },
+    {
+      "first": "training/surgical-agent-v052/astra",
+      "second": "training/surgical-agent-v052/heuristic",
+      "first_minus_second": 0.051363334072267786,
+      "share_of_draws_first_higher": 0.9995
+    },
+    {
+      "first": "training/surgical-agent-v052/astra",
+      "second": "training/surgical-agent-v052/v051-model",
+      "first_minus_second": 0.06481933052538236,
+      "share_of_draws_first_higher": 1.0
+    }
+  ]
+}

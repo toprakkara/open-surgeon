@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e3-015b-7662-ad3b-0dd1bda87bb6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement needlessly deletes and reinserts “at least” and “days before the intended submission or presentation date.” Only the notice period should be replaced, with the new exception added separately.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7511,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":48,"reasoning_output_tokens":0}}

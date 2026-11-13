@@ -1,0 +1,53 @@
+{
+  "version": "attorney-surgical-verifier-v0.51",
+  "registered_on": "2026-11-09",
+  "user_decision": "On 2026-11-09 the user asked to build the open-source version of Crosby's Surgeon and to follow Crosby's method: reasoning, then a yes/no verdict. The user chose Claude as the reasoning teacher after being told that Anthropic's terms restrict using outputs to train competing models; the release must say the traces were written by Claude. This sets aside, for this experiment only, the difficulty-gate wait and the rule against training on ContractBench. The gate record is not changed.",
+  "reference": "https://crosby.ai/blog/how-to-train-your-surgeon",
+  "task": "One redline per prompt. The model writes brief reasoning about the tracked changes, then ends with {\"surgical\":\"yes\"} or {\"surgical\":\"no\"}.",
+  "measure_name": "attorney-match surgicality, as in Crosby's training labels; not attorney-reviewed surgicality",
+  "labels": "yes when the tracked changes are exactly the attorney's; no when an automatic diff produced a different markup of the same edit",
+  "data": {
+    "dataset": "datasets/attorney-surgical-verifier-v0.51",
+    "test": "216 items from fold 2 of v0.46 and v0.47 (109 yes, 107 no; no items are the targeted diff). Fold 2 has never been used for a model decision.",
+    "train": "1019 items from fold 0 and fold 1 scenarios (452 yes, 567 no; no items are word, character and whole diffs)"
+  },
+  "teacher": {
+    "model": "Claude, through subagents in Claude Code",
+    "blind": "The teacher sees only the system prompt and one redline at a time, never the label, the source or the paired item. Both items from the same source paragraph never share a batch.",
+    "samples": "One per training item",
+    "rejection_sampling": "Keep a trace only when its verdict equals the label, as Crosby did. Traces with an invalid format are dropped.",
+    "pilot": "20 training items, one source paragraph each, run by Opus and by Sonnet. Use the one with more correct verdicts; on a tie use Sonnet. Pilot traces from the chosen teacher count as its traces for those items.",
+    "style": "60 to 150 words; walk through the tracked changes; no mention of who made the redline",
+    "pilot_result": "Opus 15 of 20 (yes 6/10, no 9/10); Sonnet 15 of 20 (yes 5/10, no 10/10). Tie, so Sonnet is the teacher.",
+    "teacher_slips": "One answer in batch-013 carried an id with one wrong character; it sits in the same position as its item and is mapped back in scripts/teacher_traces_v051.py. One item in batch-017 got no answer and has no trace.",
+    "class_balance":"Added after the pilot and before the remaining traces, with no test output seen: the teacher finds about half of the yes items, so kept traces would lean heavily to no. After rejection sampling, keep every kept yes trace and the same number of kept no traces, chosen in salted hash order. If no traces are fewer, keep them all and trim yes the same way."
+  },
+  "student": {
+    "model": "Qwen/Qwen3.8-27B at revision 37561816e66b5b9153b1b64c10968c18c1e6f4a0",
+    "method": "LoRA SFT on the kept traces with scripts/modal_attorney_choice_v050.py's training loop; loss on the assistant reply and end-of-turn token only",
+    "r": 16, "lora_alpha": 32, "lora_dropout": 0.0, "learning_rate": 5e-05, "epochs": 2, "batch_size": 8,
+    "warmup_ratio": 0.03, "scheduler": "cosine to zero", "seed": 42,
+    "adapter_used": "Final epoch only. No selection by test results.",
+    "not_done": "Crosby's second stage, GRPO with an LLM-judge reward, is left to a later version."
+  },
+  "scoring": {
+    "metric": "Balanced accuracy on the 216 test items, Crosby's metric. Invalid outputs are wrong.",
+    "uncertainty": "Bootstrap standard deviation resampling whole source paragraphs, 2000 draws, seed 42",
+    "comparisons": {
+      "astra": "Same system prompt and items through scripts/run_astra_parallel.py on the ChatGPT subscription",
+      "heuristic": "open_surgeon.core measure score; the threshold that maximizes balanced accuracy on the training items is fixed before scoring the test",
+      "untrained_student": "Same base model without the adapter, if Modal credit allows"
+    },
+    "generation": "Temperature 0, thinking off, 512 new tokens at most, left-padded batches of 8 for every model measured on Modal. On an 8-item check with the untrained model, verdicts matched one-at-a-time generation 8 of 8 while the reasoning text matched 1 of 8, a known effect of batched bf16 decoding.",
+    "after_outputs": "No relabeling, item removal, prompt change or adapter selection based on test results"
+  },
+  "claims_fixed_before_outputs": {
+    "beats_astra": "Say the model beats Astra on this test only if its balanced accuracy is higher and the paired bootstrap difference, resampling source paragraphs, is above zero in at least 97.5% of draws.",
+    "otherwise": "Report the numbers and say no difference was shown.",
+    "wording": "Every claim says attorney-match labels, names the test, says the traces were written by Claude and says the numbers are not comparable with Crosby's attorney-relabelled benchmark."
+  },
+  "budget": {
+    "modal": "The remaining monthly free credit, about $18; training timeout 2 hours",
+    "together": "Not used"
+  }
+}

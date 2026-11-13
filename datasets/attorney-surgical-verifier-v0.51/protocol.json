@@ -1,0 +1,22 @@
+{
+  "version": "attorney-surgical-verifier-v0.51",
+  "frozen_at": "2026-11-09T17:37:11.081225+00:00",
+  "n_inputs": 216,
+  "frozen_sha256": {
+    "README.md": "a892a6d3f221996efae1203edc4a78d3145ccda2b97b86517c30666895ec2c46",
+    "system-prompt.txt": "7567f3aef2b56f24a52168656f6ba5163c23955f61a059a380738f3261e36e66",
+    "extraction.json": "f8db42e1e26f54b62abb25ba8bad588cf7c53d2fa087468892585336f948230d",
+    "development/inputs.jsonl": "aaf99901cd35685d0991c2e3fa81117372151baa4ad1683122e5ff1d49363175",
+    "test/annotations.jsonl": "750282c065c733483c0e32ef14f6e36377655e9bc2d54fb688e0229517bebaad",
+    "train/prompts.jsonl": "2ee45bb098b190d2988fe600a9c7f3f04215b53508d7d58c614eafaacec9ea9d",
+    "train/labels.jsonl": "af4d69fddbd84a8313e19479c1b706a1564b3c5d923a7a66cf1caef45ed43cf4",
+    "../../scripts/surgical_verifier_v051.py": "2b9145afe0d5fedbd01bf2b45d8e2077c26d8638cc056924e65d9c363f5acf26",
+    "../../scripts/prepare_surgical_verifier_v051.py": "ae379b344fc4abfc36a43a17d5560ab58ad0be84818750a3892bfe7e22c8d883",
+    "../../scripts/prepare_attorney_choice_folds_v050.py": "9e4a1c4e6ca36a3d43e41287a377e593ada23df4a6f13b1faaf47e16a7217b20",
+    "../../scripts/prepare_attorney_choice_sft_v049.py": "c67d4dbf437896388fcbbdc76e804ad8eedd45941e162329a03a87ba53287082",
+    "../../scripts/attorney_choice_v046.py": "bffff1d2e14aac68180528ccf432156a83fde025184a4c37eaa3e4c067a305a8",
+    "../../scripts/attorney_choice_sft_v049.py": "c04dc9e5289098d6b8e2be0fb3de9e8781db41872bad62363f02ca13a1cc175e"
+  },
+  "model_calls_at_freeze": 0,
+  "difficulty_gate_round": false
+}

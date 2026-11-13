@@ -1,0 +1,87 @@
+### 91ccbc21e440b7539e85574fdf12946ed5ccc6f90c7e630e0f78a19fa557d11d
+{"old": "in accordance with this Section.", "new": "in accordance with this Section, provided that Company has requested in writing Influencer’s prior written approval, no less than ten (10) business days prior to such proposed whitelisting and/or amplification and promotion.  Influencer shall respond, in writing, to such a request within five (5) business days and shall reasonably cooperate with Company to agree to a whitelisting and/or amplification and promotion rollout."}
+### 69d45d9a4b2a96a4ce0e9f532f40e733a13db550b4584c32387865874f3e94d1
+{"old": "The User consents", "new": "The Licensee consents"}
+### 64001367338929ef4a9e39ac9faf1a1a1703afe6542da569a0f7424b924d9215
+{"old": "excluded.", "new": "excluded by Agreement between parties."}
+### ed7ce5f7d2fa299b5dadc5070b5b1f785d14f444a6ec9ce7342e2fddfcae6532
+{"old": "commercially reasonable encryption", "new": "encryption"}
+{"old": "appropriate to the sensitivity of the information and consistent with", "new": "that comply with Section 5.5 and"}
+{"old": " and in accordance with Section 5.5;", "new": ";"}
+### 21eb4fd1a736f48f7ff5fd3e77766f33b5d23726c30182738bcf8e09c9d32e67
+{"old": "by a Party is", "new": "by a Party (other than commercial licensing of the Combined Dataset by Party B) is"}
+### 2fb72f1c55b23dba971077cbad319028d67e3e98723bfd275f455f7c3e325c26
+{"old": "INDEMNITY OBLIGATIONS,", "new": ""}
+### f62d5b9b1b2625f0d5cf8586fe93b5e2695bc3ffe95d417563d60450fce58683
+{"old": "Ee L. Kew may assign", "new": "either party may assign"}
+{"old": "its entirety in connection with a merger, consolidation, or", "new": "its entirety to an Affiliate or in connection with a merger, consolidation, reorganization, change of control, or"}
+{"old": "Ee L. Kew's assets and the assignment does not materially reduce Customer’s rights", "new": "that party's assets, provided the assignment does not materially reduce the other party's rights"}
+{"old": "under this Agreement.", "new": "under this Agreement. Any purported assignment in violation of this Section is void."}
+### 1cb7c05ba719d46bf99ae2759d615e1e04ed343c05976ac9abeafe6a7a3ea41c
+{"old": "soundtrack of the Program.", "new": "soundtrack of the Program. Producer’s inadvertent failure to accord such credit shall not be deemed a breach of this Agreement; provided, however, that Producer shall use commercially reasonable efforts to cure or cause the cure of any such failure on a prospective basis, and Producer shall have no obligation to recall or re-version any copies of the Program already distributed."}
+### bda405d46791bd5f10304eb694603bb1a9c2bd858b5269186d4f38931f22ae19
+{"old": "Notice. ", "new": "Notice. Platinum represents that the Facility holds current ISO/IEC 17025 accreditation covering each Certification Service performed under each Work Order. "}
+{"old": "Client within a commercially reasonable time of", "new": "Client in writing within five (5) business days of"}
+{"old": "suspension or revocation of its laboratory accreditation that Platinum determines, in its reasonable discretion, is material", "new": "suspension, revocation, lapse, expiration or material limitation of that accreditation, whether or not Platinum determines it to be material"}
+### 0876073baec323e643a0ee8c6afbfb7bcb76d11781b0c83489d2060dde239baf
+{"old": "Licensee may request permission to assume", "new": "Licensee may, at Licensee’s election, assume"}
+{"old": ", but Calloway's approval of such a request is not automatic and may be withheld in Calloway's reasonable discretion.", "new": ", and Calloway will assign the abandoned Licensed Patent to Licensee at no additional cost."}
+### 9640c023e20532f29947822785eb4d0117d5e95f38030a2367b1174ebe829987
+{"old": "This Agreement sets forth", "new": "Neither party may assign or transfer this Agreement, or any rights granted herein, without the other party’s prior written consent, except that Agency may assign this Agreement to Company. All notices required hereunder shall be in writing and shall be deemed given when sent by email with confirmation of receipt or by nationally recognized overnight courier, to such addresses as the parties may designate in writing. Neither party shall be liable for any delay or failure to perform (other than an obligation to pay money) to the extent caused by circumstances beyond its reasonable control, including illness, acts of God and the unavailability or material change of any social media platform; provided that if any such event prevents Influencer from posting Content on a scheduled date, the parties shall reschedule such posting in good faith. Each party shall keep confidential, and shall not disclose to any third party, any non-public information regarding the other party or its business, plans or products disclosed in connection with this Agreement or the negotiation hereof, except as required by law. This Agreement sets forth"}
+### 61d17a32db543f4e0c9f6df5b710f5dd596c499c90f2ef9412f7fe0ba4b75d5c
+{"old": "use Customer’s name, trademarks, logos, and identify Customer as a customer.", "new": "identify Customer as a customer and use Customer’s name, trademarks, and logos in its marketing materials and on its website, in each case only with Customer’s prior written approval of the specific proposed use. If Customer does not respond to a written request for approval within five (5) business days, the request is deemed approved. Customer may withdraw approval for any future use on written notice."}
+### ae01cbcd9b2ee47a45ed7a46fd298168316f74422c021f0c14ea6d7c4e8b958a
+{"old": "however, in no event will Ee L. Kew be liable for any indirect, special, incidental, exemplary punitive", "new": "however, that except with respect to amounts payable to a third party in connection with a Claim indemnified under this Section 11, in no event will either Party be liable to the other for any indirect, special, incidental, exemplary, punitive"}
+### a812778a7d817bea029f8e6f5ce47b79a88ec800274becfbd25ff7ea24105b3b
+{"old": "platform code.", "new": "platform code.  This Publisher owned IP specifically excludes any pre-existing Licensor IP and any IP related to the Licensor’s puzzle generation engine."}
+### e0fd1c32e8f265c2a10cae3ec8ff0fe3780126173146d98d2a64516b5f3d7507
+{"old": "Section 11 shall be", "new": "Section 10 shall be"}
+{"old": "Section 11 shall not", "new": "Section 10 shall not"}
+### df0737286ba79c4512d7446c960c216f46ce477c786d591ca3e3ac3572830b5b
+{"old": "automatically renewing", "new": "renewing"}
+{"old": "unless either Party provides written notice of non-renewal at least ninety (90) days before the end of the then current term.", "new": "upon mutual written consent."}
+### d6fb183613a21116ce12e07fbc79f78eceddc3862b7403f0506c040954f62481
+{"old": "twelve (12) months from the date of Influencer’s first posting of Content.", "new": "November 2, 2026 to November 1, 2027."}
+### 773e07633a233cc21fce48218e032d787b2182a7555c849ce4692e09dbe1164a
+{"old": "one hundred percent (100%)", "new": "fifty percent (50%)"}
+{"old": "Fees are non-refundable once invoiced, regardless of whether Client's products ultimately pass or fail certification.", "new": "The remaining fifty percent (50%) shall be invoiced upon delivery of the applicable Deliverable. Client may cancel any accepted Work Order before the scheduled testing date and receive a pro-rated refund of unearned fees, less a documented mobilization fee not exceeding fifteen percent (15%) of the applicable Work Order fees."}
+### 2f8108a040dbdfe26fd7c3f103902fb3bddad94788beba617eb4dd0c8ddd3536
+{"old": "perpetual, royalty-free,", "new": ""}
+{"old": "display and reference the Deliverables (and describe the Services performed for Client) in Agency's portfolio, pitches, and marketing materials, unless Client notifies Agency in writing that specific Deliverables are to be excluded.", "new": "identify Client by name, and to display Client Marks solely for that purpose, in order to list Client as a client of Agency. Agency shall not display, reproduce, or reference any Deliverable, describe the Services or any campaign performed for Client, or disclose any campaign strategy, performance data, audience targeting information, or budget information, in Agency’s portfolio, pitches, case studies, or marketing materials, without Client’s prior written consent to each such use. Agency shall not use any content bearing the name, image, likeness, voice, or persona of any Client founder, officer, or employee for any purpose other than performing the Services."}
+### f72c5bf96bc1c1ccae26ba4e6ba039160231c5b3cab80993ebecea5ad4961d38
+{"old": "8.2", "new": "8.4"}
+### 7b640f6526c187b20e7d73dd1aef5bb85938d28d047994b1f0f25669ffc67d4d
+{"old": "hold harmless Landlord from", "new": "hold harmless Landlord, its members, managers, officers, employees, property manager, asset manager, and lender from"}
+{"old": "damages, and expenses", "new": "damages, liabilities, and expenses"}
+{"old": "bodily injury, death, or property damage occurring within the Leased Premises, or arising from Tenant’s clinical operations, to the extent, and only to the extent, caused by the negligence or willful misconduct of Tenant or its employees, agents, or contractors.", "new": "Tenant’s clinical operations, including any patient claim, Tenant’s use or occupancy of the Leased Premises, any act or omission of Tenant or its employees, agents, contractors, licensees, or invitees, any claim by any such person, Tenant’s breach of this Lease, or Tenant’s violation of applicable law, except to the extent finally determined to have resulted from Landlord’s negligence or willful misconduct. Tenant’s obligation to defend shall arise upon tender, and Tenant shall fund the defense in the first instance, subject to reimbursement of defense costs to the extent Landlord is finally determined to have been comparatively at fault. Tenant’s obligations under this Section shall survive expiration or earlier termination of this Lease."}
+### fb2370daff110c6ee92f8445f1a054b7a6dfe055bddf0033de4341051e63d087
+{"old": "shall not be required to sub-meter or provide separate meter for any utility service serving the Premises but shall have the right to do so if Landlord so chooses.  Landlord shall not be liable, under any circumstances and however occurring, for injury", "new": "shall, at Landlord’s sole cost and expense, cause the Premises to be separately metered for electrical, water, and gas service on or before the date Landlord delivers possession of the Premises in the Delivery Condition, and if any such service is master metered, Landlord shall allocate consumption to the Premises on a documented and verifiable basis, subject to Tenant’s audit right under Section 6.2.  Except as expressly set forth in this Section 8.2, and except to the extent arising from the negligence or willful misconduct of Landlord or from Landlord’s breach of this Lease, Landlord shall not be liable for injury"}
+{"old": "and Tenant shall not be entitled to any abatement or reduction of Rentals or other sums, and shall not be entitled to terminate the Lease by reason of", "new": "and, except as expressly set forth in this Section 8.2, Tenant shall not be entitled to any abatement or reduction of Rentals or other sums, or to terminate this Lease, by reason of"}
+{"old": "any or all utility services.", "new": "any or all utility services.  Notwithstanding the foregoing, if any utility service to the Premises is interrupted for more than twenty-four (24) consecutive hours for any reason within Landlord’s reasonable control, Base Rent and Direct Costs shall abate proportionally from the first hour of such interruption until the service is restored, and if such interruption continues for more than fifteen (15) consecutive days, Tenant may terminate this Lease upon written notice to Landlord.  Landlord shall not intentionally interrupt any utility service to the Premises except in an emergency or in connection with work permitted under this Lease, and in the latter case only upon reasonable prior written notice to Tenant."}
+### dcce801ce922244a7eecd61bbc6082d1df86a602f3a6656f290e543869f4419a
+{"old": "ninety (90)", "new": "forty-five (45)"}
+### 5f35a4d76173aa7f2b209fb7faace9e01211afc8c1bbe52a3110c91e4bae194e
+{"old": "the attorney’s fees and", "new": "the outside attorneys’ fees and"}
+{"old": "filing fees, court and court reporter costs, investigative costs, expert witness fees, and the cost of any bonds, whether", "new": "filing fees, and court and court reporter costs, whether"}
+### aa0837f13d3b6904ead941991e3f625ac1fb482f9073c3b5f96c2fb423d8786f
+{"old": "three (3) years", "new": "five (5) years"}
+### 7ed01119ecc4e0c112b340dc480eea7a5b34b6c1274682eef66feadbd7175a03
+{"old": "public disclosure.", "new": "public disclosure. No publication, presentation or other public disclosure that discloses or is derived from the Combined Dataset or the Party B Dataset may be submitted or made by Party A without the prior written approval of the Board of Trustees of Party B."}
+### 8ee9dfdbcb7ef18cd4161c4ba44c478923763b1adb44e2c2102498d0683052be
+{"old": "Time is of the essence", "new": "Company shall approve or disapprove each deliverable in writing, with specifics, within five (5) business days of delivery, and any deliverable that Company has not disapproved within that period shall be deemed approved.  Time is of the essence"}
+{"old": "no cost to Company.  Company may, at Company’s expense and subject to mutual agreement with regard to timing, send Company personnel to Contractor’s place of business upon reasonable notice during normal business hours for consultation with respect to the services being provided under this Agreement.", "new": "no cost to Company, provided that Contractor shall not be required to provide more than two (2) rounds of changes per Post at no cost, and further rounds, and any change that is not the correction of a deficiency against the materials Company approved, shall be at Company’s expense."}
+{"old": "deliverables; acceptance", "new": "deliverables; except as expressly provided above, acceptance"}
+### 1e313f9053875633a5d6989602fa14a33dfbcfc70aea2a33fa98d64af6e55824
+{"old": "indemnify Client solely to the extent a third-party claim arises directly from Calloway's gross negligence or willful", "new": "indemnify defend, and hold harmless Client from and against any third-party claim to the extent arising from (a) a certification error or nonconforming Deliverable in a discipline covered by Calloway’s accreditation, (b) Calloway’s negligence, gross negligence, or willful"}
+{"old": ", subject in all cases to the limitation of liability in Section 10.", "new": ", or (c) Calloway’s breach of Section 6."}
+### 04499f8cc778ed833f4c08501724088345a4c7e64f42d34f6fd360c3509ad261
+{"old": "general liability insurance customarily carried by nonprofit research institutions of similar size and makes no representation that such coverage is equivalent to commercial vendor coverage.", "new": "general liability and professional liability insurance with limits of not less than two million dollars ($2,000,000) per occurrence, and not less than five million dollars ($5,000,000) per occurrence for any Work Order covering structure-fire or firefighting deployment testing, will name Client as an additional insured as its interests appear, and will provide a certificate of insurance within thirty (30) days of the Effective Date and annually thereafter. Client’s recovery under this Agreement is not limited to Calloway’s insurance limits."}
+### 2ed21d15e94a0eabde15c0ce95691ae024951974af890c9f2724a8c7b9101162
+{"old": "throughout the Term.", "new": "throughout the Term. Calloway will maintain commercial general liability insurance with limits of not less than two million dollars ($2,000,000) per occurrence and will name Licensee as an additional insured, beginning no later than the Effective Date and continuing throughout the Term."}
+### a20c9fe9981085c26a91d051d1e42bcead4a4f7d04e7af93102994bbb5a1c874
+{"old": "all intellectual property rights in and to the DAILY", "new": "the digital version of the DAILY"}
+{"old": ", including all trademarks, copyrights, game mechanics, puzzles, software and related intellectual property rights, owned or controlled by Licensor.", "new": ", as delivered by Licensor, for use on Publisher’s named platform(s).  EXPRESSLY EXCLUDES Licensor’s puzzle-generation engine, source code, tooling, back-end catalogue and any IP and work-product developed after the effective date of this agreement, including but not limited to future versions and derivative works,."}
+### 604e70e31f2896fcaae63de9a9e16c3d0a2257a217886621df16ad4ca88c7bdc
+{"old": "be consistent with Publisher's quality, reputation, and prestige and shall comply with", "new": "materially conform to the written specifications and to"}
+{"old": "editorial guidelines.", "new": "editorial guidelines provided to Licensor in advance."}
+{"old": "any Puzzle that does not meet these standards, in Publisher's sole discretion.", "new": "a Puzzle only upon a reasonable, good-faith determination that the Puzzle materially fails to conform to those specifications or guidelines, and Publisher shall identify the basis for rejection in reasonable detail."}

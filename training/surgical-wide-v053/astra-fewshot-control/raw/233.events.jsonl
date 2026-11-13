@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e9-439a-72d2-a55e-f4e4c52f29a1"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The markup needlessly deletes and reinserts “non-exclusive,” “license,” “during the Term,” and “Platform.” The added restrictions and termination sentence could be marked separately while preserving that shared text.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7713,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":50,"reasoning_output_tokens":0}}

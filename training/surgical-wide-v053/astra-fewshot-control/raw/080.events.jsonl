@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e0-5575-7ad1-9dce-780d5d761ae0"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is deleted and reinserted even though only the notice language changes. A surgical redline would preserve the shared text and target that phrase. The insertion also merges “thethen-current” into one word.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7719,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":54,"reasoning_output_tokens":0}}

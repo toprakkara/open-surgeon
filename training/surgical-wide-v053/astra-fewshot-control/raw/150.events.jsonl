@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e4-3f2b-7f12-ba74-409db8a10ae7"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The first replacement needlessly deletes and retypes the shared use descriptions and defined term. The second likewise retypes “causes a nuisance, exceeds” instead of simply deleting the insurance-premium restriction. These are block replacements rather than targeted edits.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7664,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":59,"reasoning_output_tokens":0}}

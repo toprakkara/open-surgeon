@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e6-6d95-7013-817d-09d627db7dfb"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The redline replaces large blocks while retyping shared language, including “prior condition, at Tenant's cost, at the end of the Term.” Targeted edits to ownership timing and removal rights, followed by a separate sentence insertion, would make the changes clearer.\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7626,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":62,"reasoning_output_tokens":0}}

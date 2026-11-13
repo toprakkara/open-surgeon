@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e1-a4a4-7462-9f31-3e58bab12991"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement needlessly deletes and reinserts the heading and shared wording, including “Each Party shall” and “correspondence, inquiry, or other communication.” Targeted edits could show the new deadlines and FDA-specific scope while preserving that text.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7535,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":59,"reasoning_output_tokens":0}}

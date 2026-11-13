@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, data or model, please cite it as below."
+title: "Open Surgeon: an open replication of a redline surgicality verifier"
+type: software
+version: "0.53"
+license: MIT
+repository-code: "https://github.com/toprakkara/open-surgeon"
+url: "https://huggingface.co/toprakkara/open-surgeon-v0.53-qwen3.8-27b-lora"
+authors:
+  - family-names: Kara
+    given-names: Toprak
+keywords:
+  - contracts
+  - redlines
+  - tracked changes
+  - legal AI
+  - evaluation
+references:
+  - type: article
+    title: "How to Train your Surgeon"
+    authors:
+      - family-names: Viret
+        given-names: Julian
+      - family-names: Ramjee
+        given-names: Sharan
+    url: "https://crosby.ai/blog/how-to-train-your-surgeon"
+    year: 2026
+  - type: dataset
+    title: "ContractBench"
+    authors:
+      - name: "micro1"
+    url: "https://huggingface.co/datasets/micro1-inc/ContractBench"

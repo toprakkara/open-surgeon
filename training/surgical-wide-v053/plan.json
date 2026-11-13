@@ -1,0 +1,133 @@
+{
+  "version": "attorney-surgical-wide-v0.53",
+  "registered_on": "2026-11-10",
+  "registered_before": "Any agent redline of this version and any verifier output on its items.",
+  "user_decision": "On 2026-11-10 the user approved rebuilding the test so that 'no' means a redline that is visibly wider than needed and 'yes' means the attorney's own markup. No attorneys take part. The gate record is not changed.",
+  "reference": "https://crosby.ai/blog/how-to-train-your-surgeon",
+  "why_a_new_version": {
+    "disclosed": "This design was chosen after the v0.52 results were seen.",
+    "v052_problem": "v0.52 labelled the test by exact attorney match. In Crosby's validation data exact match gave 2% 'no'; attorneys then read the redlines and 38% became 'no'. So Crosby's test asks whether an attorney finds the redline non-surgical, not whether it differs from the attorney's. In v0.52 73% were 'no', and the post-hoc diagnostic showed most of them only differ in small boundary choices.",
+    "v052_untouched": "No v0.52 label, score or file is changed."
+  },
+  "test_design": {
+    "clauses": "The same clause pool as v0.52 (scripts.agent_redlines_v052.clause_pairs, ContractBench). Fold 2 is the test; folds 0 and 1 are for training. No model has been trained on fold 2.",
+    "yes": "Every attorney markup of a test clause that has a 'no' item. An attorney sent it out, which is Crosby's training label 1.",
+    "no": "An AI agent's redline of the same clause, with exactly the same original and final text, that is clearly wider than every attorney markup of that clause: it strikes and retypes at least 40 characters that the attorney left untouched, and at least a quarter of all the text the attorney left untouched (measured against the attorney markup that keeps the least).",
+    "left_out": "Agent redlines that equal an attorney markup, or differ without meeting the rule, give no item. Without attorney review they cannot be labelled, which is what went wrong in v0.52. Their counts are reported. Clauses without a 'no' item are not in the test, so every 'no' has a 'yes' with the same texts.",
+    "one_redline_per_question": "As in v0.51 and v0.52, the verifier sees one redline at a time.",
+    "secondary_table": "Recall of 'no' by the share of the attorney's untouched text that the agent retyped: 25 to 50%, 50 to 75%, 75% or more."
+  },
+  "agent": {
+    "who": "Claude Sonnet and Claude Haiku through Claude Code subagents, as two separate agents with the same instruction. Each sees the current and the final clause, never an attorney markup. A clause can give a 'no' item from each agent.",
+    "how": "It edits with a find-and-replace tool, as document and coding agents do. Each replaced span is shown as deleted and its replacement as inserted, with no diffing afterwards. This is where needlessly wide redlines come from.",
+    "instruction": "scripts/wide_redlines_v053.py AGENT_TASK",
+    "validity": "A redline is used only if every old text occurs exactly once in the clause, the spans do not overlap and the result is exactly the final clause.",
+    "pilot": "64 training clauses first, to check that the output format works and that the agent produces some clearly wider redlines. The instruction may be revised once after the pilot; the pilot result and any revision are recorded here before the main run. Test clauses are not used for the pilot.",
+    "not_tuned_to_a_score": "The instruction and the rule are not changed to move any verifier's score, and no verifier is run before the dataset is frozen."
+  },
+  "measurements": {
+    "metric": "Balanced accuracy, invalid outputs wrong, paragraph bootstrap standard deviation (2000 draws, seed 42)",
+    "prompt": "The v0.51 system prompt, unchanged",
+    "astra": "scripts/run_astra_parallel.py on the ChatGPT subscription",
+    "heuristic": "core.measure with the threshold fixed in v0.51 (81), applied unchanged",
+    "own_models": "On 2026-11-10 the user approved training a new model and measuring it on Modal (about $5; Modal was at $24.34 of the $30 monthly cap). The existing v0.51 and v0.52 adapters are not measured on this test this month, for cost.",
+    "training_data": "See training_data below."
+  },
+  "claims_fixed_before_outputs": {
+    "beats_astra": "A model beats Astra on this test only if its balanced accuracy is higher and the paired paragraph bootstrap shows it higher in at least 97.5% of draws.",
+    "otherwise": "Report the numbers and say no difference was shown.",
+    "no_target_band": "Whatever Astra scores is reported. The test is not adjusted toward Crosby's 83%.",
+    "wording": "Say that 'no' is decided by a width rule against the attorney's markup instead of by attorney review, that only clear cases are in the test, that the agent is Claude, and that the numbers are not comparable with Crosby's."
+  },
+  "known_limits": [
+    "A label defined by a width rule can be partly recovered by a width heuristic. If the heuristic scores high, the test says little about judgement and that is reported as such.",
+    "Attorney markups in ContractBench are large (median 282 changed characters in a 422-character clause). Only clauses where an agent retyped a good part of what the attorney left untouched are in the test; about a quarter of the clauses in the pilot.",
+    "'Yes' items are attorney markups that also appeared in the v0.51 or v0.52 tests; the count is in extraction.json."
+  ],
+  "pilot_record": {
+    "recorded_at": "2026-11-10T14:50+0300",
+    "recorded_before": "Any agent redline of a test clause and any verifier output.",
+    "clauses": "64 training clauses (scripts/wide_redlines_v053.py pilot_ids), both agents.",
+    "format": "Sonnet 64 of 64 valid, Haiku 63 of 64 valid. No subagent ran code on the clauses.",
+    "instruction": "Unchanged. The pilot answers are kept as the answers for those 64 training clauses.",
+    "rule_revision": {
+      "first_rule": "Changed characters at least 2 times the widest attorney markup and at least 40 more.",
+      "why_it_failed": "ContractBench attorney markups already cover a median 69% of the clause, so twice as much is rarely possible: 3 of 64 Sonnet redlines met it, although redlines that struck and retyped whole sentences the attorney had left alone did not.",
+      "new_rule": "Retyped text (text the attorney left untouched that the agent deleted and reinserted) at least 40 characters and at least 25% of the attorney's untouched text.",
+      "how_chosen": "From the size distributions of the Sonnet pilot redlines and a reading of the three pilot cases closest to the new threshold, all on training clauses. Fixed before the Haiku pilot result was seen.",
+      "pilot_counts_under_new_rule": {
+        "sonnet": {
+          "clearly_wider": 8,
+          "same_as_attorney": 7,
+          "unclear": 49
+        },
+        "haiku": {
+          "clearly_wider": 17,
+          "same_as_attorney": 5,
+          "unclear": 41,
+          "invalid": 1
+        },
+        "clauses_with_a_no_item": 17
+      }
+    },
+    "second_agent": "Haiku was added after the Sonnet pilot because Sonnet alone would give a test of about 60 'no' items. This was decided for test size, before any verifier output."
+  },
+  "training_data": {
+    "recorded_at": "2026-11-10T15:55+0300",
+    "recorded_before": "Any output of a model trained on this data. The Astra and heuristic scores on the test were known.",
+    "teacher": "Claude Sonnet through Claude Code subagents, blind to the label, one sample per item, same instruction as v0.51 and v0.52. 147 of the 418 training items (126 yes, 21 no) had already been put to the teacher in v0.51 or v0.52 with the same text and are not asked again; their earlier answer stands. The other 271 were asked in 10 batches; items from one paragraph never share a batch.",
+    "teacher_missing": "The teacher skipped one item of batch-004 (4147abb2..., a no). It is left out, not asked again.",
+    "teacher_verdicts": {
+      "answers": 270,
+      "yes_correct": "27/56",
+      "no_correct": "196/214",
+      "note": "The teacher rejected about half of the attorney markups it had not seen before, as Astra does on the test. Labels were not changed."
+    },
+    "pooling": "scripts/combine_traces_v053.py over the v0.51, v0.52 and v0.53 kept traces, in that order. Every kept yes trace is used. A kept no trace is used only if its redline meets the v0.53 rule against the attorney markup of the same clause, so no training label is of the kind v0.53 calls unreliable: this keeps the whole-clause replacements of v0.51 and drops its word and character diffs and almost all v0.52 agent redlines. Repeated redlines are used once. Then equal yes and no in salted hash order.",
+    "result": {
+      "examples": 812,
+      "yes": 406,
+      "no": 406,
+      "used_after_balance": {
+        "v051-kept-unbalanced.jsonl|no": 207,
+        "v051-kept-unbalanced.jsonl|yes": 266,
+        "v052-kept-unbalanced.jsonl|no": 3,
+        "v052-kept-unbalanced.jsonl|yes": 114,
+        "v053-kept-unbalanced.jsonl|no": 196,
+        "v053-kept-unbalanced.jsonl|yes": 26
+      },
+      "before_balance": {
+        "v051-kept-unbalanced.jsonl|no": 207,
+        "v051-kept-unbalanced.jsonl|yes": 308,
+        "v052-kept-unbalanced.jsonl|no": 3,
+        "v052-kept-unbalanced.jsonl|yes": 133,
+        "v053-kept-unbalanced.jsonl|no": 196,
+        "v053-kept-unbalanced.jsonl|yes": 27
+      },
+      "dropped": {
+        "v051-kept-unbalanced.jsonl|no|clause_in_test": 5,
+        "v051-kept-unbalanced.jsonl|no|clause_not_in_pool": 2,
+        "v051-kept-unbalanced.jsonl|no|not_clearly_wider": 213,
+        "v051-kept-unbalanced.jsonl|yes|clause_in_test": 3,
+        "v052-kept-unbalanced.jsonl|no|not_clearly_wider": 81,
+        "v052-kept-unbalanced.jsonl|no|repeat": 3,
+        "v052-kept-unbalanced.jsonl|yes|repeat": 116
+      },
+      "file": "training/surgical-wide-v053/teacher/combined-traces.jsonl",
+      "sha256": "af36be7fa8adaba6a03e3c49f5b9255ccabbde6e0ae335f7f1c2bdd4bc5162fd"
+    },
+    "leakage_check": "A trace is dropped if its original clause text is the original of any v0.53 test item, or its redline equals a test input (8 earlier traces dropped). Checked afterwards: no training example shares an original clause or a redline with a v0.53 test item.",
+    "recipe": "training/surgical-verifier-v051/plan.json student recipe, unchanged (2 epochs, lr 5e-5, batch 8, r16 alpha 32, final epoch only).",
+    "cost_guard": "Estimated from the two earlier runs: training 40 to 50 minutes, measurement about 18 minutes, about $4 to $4.6 in total. Spend is checked before each paid step and the $30 cap is not exceeded."
+  },
+  "erratum_for_v052": "While building this pool it was found that the v0.52 leakage statement was wrong: 12 of the 477 v0.52 test items share their original clause text (not the redline) with 9 training examples of the v0.52 model, and with 8 of the v0.51 model. Recorded in training/surgical-agent-v052/erratum.json. No v0.52 score or label is changed.",
+  "fewshot_control": {
+    "registered_at": "2026-11-10T17:28+0300",
+    "registered_before": "Any output on the control. The main results were known: trained model 85.9%, Astra 74.8%, heuristic 66.6%.",
+    "why": "In the main comparison Astra gets only the instruction, while the trained model has seen this source's attorney markups. A reader will ask whether showing Astra examples closes the gap.",
+    "design": "The same 289 test items with the same ids and labels (datasets/attorney-surgical-wide-fewshot-control-v0.53). The instruction is the v0.51 system prompt followed by eight worked examples from the model's training file with the teacher's reasoning: four yes, and four no that are agent redlines of the v0.53 training split, chosen in salted hash order (scripts/fewshot_control_v053.py). No example is from a test clause.",
+    "run": "Astra once, same runner and subscription. The example set and wording are fixed here and are not revised after the output.",
+    "reporting": "A separate control row next to the main table. The main table and its claim stand whatever the control shows. The same claim rule is applied to the trained model against few-shot Astra and the outcome is reported either way.",
+    "not_done": "The trained model is not re-measured with examples; it was trained on them and there is no Modal budget left this month."
+  }
+}

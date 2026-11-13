@@ -1,0 +1,48 @@
+{
+  "note": "Post-hoc diagnostic written after the Astra, heuristic and v0.51 model outputs were seen. No label or score depends on it.",
+  "no_items": 347,
+  "groups": {
+    "agent_marks_less": {
+      "items": 164,
+      "called_no": {
+        "astra": 35,
+        "heuristic": 4,
+        "v051-model": 8,
+        "trained-27b": 24
+      }
+    },
+    "agent_marks_more": {
+      "items": 127,
+      "called_no": {
+        "astra": 31,
+        "heuristic": 12,
+        "v051-model": 3,
+        "trained-27b": 12
+      }
+    },
+    "same_amount": {
+      "items": 11,
+      "called_no": {
+        "astra": 2,
+        "heuristic": 0,
+        "v051-model": 1,
+        "trained-27b": 2
+      }
+    },
+    "whitespace_only": {
+      "items": 45,
+      "called_no": {
+        "astra": 5,
+        "heuristic": 0,
+        "v051-model": 0,
+        "trained-27b": 5
+      }
+    }
+  },
+  "runs": {
+    "astra": "bfa33c4423d5296b0367a8e60fe30be454bd06bd417a2b7e160c6fb8f24ea5a0",
+    "heuristic": "7e0b5f70b6c54ac7d8c3b67b0cc7391b847b82b180a6cd2bb9ef794e97498d37",
+    "v051-model": "0bb6a4b029db77059fbf395152c1b49ddf51c121056740e87b2b6aafbfe727e7",
+    "trained-27b": "a385d981450406110fbae1550e60fd1eb184009bc8e4c5f0e830eee1f5e12190"
+  }
+}

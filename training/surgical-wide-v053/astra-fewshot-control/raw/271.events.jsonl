@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-28f7-7662-aaad-1bd665d4eb38"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire provision is replaced, unnecessarily deleting and reinserting shared language such as “Tenant shall” and “at Tenant's cost.” Targeted edits could preserve that text while marking the changed recording right and review requirement.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7481,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":53,"reasoning_output_tokens":0}}

@@ -1,0 +1,52 @@
+{
+  "note": "Paired paragraph bootstrap, 2000 draws, seed 42 (scripts/score_surgical_wide_v053.py --compare). Claim threshold from plan.json: 0.975.",
+  "comparisons": [
+    {
+      "first": "training/surgical-wide-v053/trained-27b",
+      "second": "training/surgical-wide-v053/astra",
+      "first_minus_second": 0.11145194274028625,
+      "share_of_draws_first_higher": 1.0
+    },
+    {
+      "first": "training/surgical-wide-v053/astra",
+      "second": "training/surgical-wide-v053/trained-27b",
+      "first_minus_second": -0.11145194274028625,
+      "share_of_draws_first_higher": 0.0
+    },
+    {
+      "first": "training/surgical-wide-v053/trained-27b",
+      "second": "training/surgical-wide-v053/heuristic",
+      "first_minus_second": 0.19308111792774363,
+      "share_of_draws_first_higher": 1.0
+    },
+    {
+      "first": "training/surgical-wide-v053/astra",
+      "second": "training/surgical-wide-v053/heuristic",
+      "first_minus_second": 0.08162917518745738,
+      "share_of_draws_first_higher": 0.998
+    }
+  ],
+  "fewshot_control": {
+    "note": "Same items and ids; Astra with eight worked examples in the instruction (plan.json fewshot_control). scripts/fewshot_control_v053.py compare.",
+    "comparisons": [
+      {
+        "first": "training/surgical-wide-v053/trained-27b",
+        "second": "training/surgical-wide-v053/astra-fewshot-control",
+        "first_minus_second": 0.07357094166910116,
+        "share_of_draws_first_higher": 0.9945
+      },
+      {
+        "first": "training/surgical-wide-v053/astra-fewshot-control",
+        "second": "training/surgical-wide-v053/trained-27b",
+        "first_minus_second": -0.07357094166910116,
+        "share_of_draws_first_higher": 0.0055
+      },
+      {
+        "first": "training/surgical-wide-v053/astra-fewshot-control",
+        "second": "training/surgical-wide-v053/astra",
+        "first_minus_second": 0.03788100107118508,
+        "share_of_draws_first_higher": 0.993
+      }
+    ]
+  }
+}

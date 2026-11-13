@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e8-d335-7f61-b3b0-d227b85c231f"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The markup needlessly deletes and reinserts shared text, including “equal to,” “thereafter,” the damages clause opening, and the succeeding-tenant clause. The changed percentages could be targeted replacements, and the new condition and final sentence could be separate insertions.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7790,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":63,"reasoning_output_tokens":0}}

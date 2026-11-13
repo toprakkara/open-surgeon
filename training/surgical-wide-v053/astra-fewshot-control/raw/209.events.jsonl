@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e7-d50e-7721-8e51-90ae23159d95"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits replace a whole party name, remove complete words, and adjust the list at natural boundaries. Shared text is preserved, with no needless deletion and reinsertion.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7636,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":43,"reasoning_output_tokens":0}}

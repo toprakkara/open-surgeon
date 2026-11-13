@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e4-944a-79d1-bcfe-a9369af5b3ff"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert substantial shared language, including the indemnification exception, “ARTICLE 4,” and much of the aggregate-liability clause. Separate insertions and targeted substitutions would make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7868,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":55,"reasoning_output_tokens":0}}

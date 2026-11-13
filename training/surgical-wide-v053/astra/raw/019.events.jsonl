@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c551-838b-7582-8b05-c8f9bcdd6edb"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The redline unnecessarily deletes and reinserts substantial unchanged text. It should target the addition of “out of pocket” and the replacement of the review-fee language with the cap.\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":5014,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":61,"reasoning_output_tokens":13}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5ea-0b48-7ae0-a6bc-4bf09d8dd68d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire clause is deleted and reinserted even though only a final phrase is added. The heading and existing sentence text should remain untouched, with the new language inserted before the period.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7531,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":47,"reasoning_output_tokens":0}}

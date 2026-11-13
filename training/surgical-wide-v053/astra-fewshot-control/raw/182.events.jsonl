@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e6-06dc-7571-8750-eaa9ff34343d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared phrases, including “and such failure,” “Tenant,” “itself,” and “the reasonable, documented cost thereof.” More targeted edits would preserve that language and make the changed emergency and reimbursement provisions easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7701,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":61,"reasoning_output_tokens":0}}

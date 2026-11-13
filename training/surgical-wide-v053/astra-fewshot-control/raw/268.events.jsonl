@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-0006-7c81-9839-e9f3cf80e3e6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edit unnecessarily deletes and reinserts “are exclusive to Sponsor”; the added language could be inserted directly after that unchanged phrase. This creates avoidable tracking noise rather than a precise incision.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7557,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":47,"reasoning_output_tokens":0}}

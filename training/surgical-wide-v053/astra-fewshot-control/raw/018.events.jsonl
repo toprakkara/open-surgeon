@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dc-e45e-7461-b123-ccc94a2383a9"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The proviso is inserted at a natural clause boundary before the existing period. All shared text remains untouched, and the insertion is a complete, readable unit.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7485,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":41,"reasoning_output_tokens":0}}

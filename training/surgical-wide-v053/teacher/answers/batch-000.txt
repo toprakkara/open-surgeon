@@ -1,0 +1,111 @@
+### 2d6229ac8126ef74303e9a09ad09186bd393d5ee9fc7d1214ea03342839e560d
+The whole opening sentence is deleted and a near-identical sentence reinserted. The shared opening "Ee L. Kew may use Customer's Data to train the AI system" and the shared proviso "provided that any Customer Data used will be anonymized and all Personal Information has been removed" are both deleted and retyped. The real changes are only replacing "and to improve and update its products" with a narrower purpose and adding new sentences at the end. A careful attorney would leave the shared text alone and mark just those changes. This forces the reviewer to re-read unchanged language to find what moved.
+{"surgical":"no"}
+
+### 75805cdd827087fdb66a11f7e39a2c3c4e7462cd60ea1206bb04c38d0fad5ba0
+The structure has equal anchors, but the deletions and insertions are large and repeat shared text. The first delete removes "legal right to grant this license and this license is given and accepted without any other warranty or recourse" only to reinsert it verbatim around a short new phrase. "Producer warrants" is likewise deleted and retyped. The indemnity sentences are replaced wholesale even though parts such as "hold Producer harmless" and "Producer's breach of any of its representations or warranties contained herein" survive. Insertions at the right points would have shown the additions without making the reviewer compare two long passages.
+{"surgical":"no"}
+
+### a9b4adaf364c71062a13c439659edc5592398d69f37c5bd1eca82ff9f867f45f
+The delete begins in the middle of the phrase "in the aggregate", removing "in the " and leaving the equal text ending "$3,000,000 ". The insert then restarts with "aggregate; (b)...". This splits a readable unit and discards "aggregate" only to retype it. The malpractice limits in the old text are deleted and reinserted with small changes, and the certificate-of-insurance sentence is deleted and rewritten even though it overlaps the new text. A single large delete and a single large insert make the reviewer compare the two blocks. Targeted insertions after the CGL clause would have been clearer.
+{"surgical":"no"}
+
+### a571d2e29926fa10011100d3f3e08cccb745ecebcd6b45f9cd11917a69b15950
+The first replacement deletes "to the other" and reinserts it unchanged, because the old text and new text share that prefix. The change is really an expansion of the marking test. The final sentence is also deleted and reinserted: "circumstances of disclosure." appears in both the delete and the insert just to append a new sentence after it. Shared text is touched twice without need, and the closing sentence could have been added as a pure insertion after the existing period. The incisions do not isolate what actually changed.
+{"surgical":"no"}
+
+### 5bf21d46a9049bbade3236d4289052a4a1dcefb7d3eb7fdce5429a71f89d7e0b
+This is a clean cross-reference edit. "Articles" is replaced by "Sections 1," as a whole word swap, "14, " is inserted as a standalone list item, and "14.3" becomes "13.5" as whole numbers rather than digit fragments. Everything else in the survival list is left as equal text. Punctuation and list flow are preserved. Each tracked change is a readable unit and nothing is needlessly deleted or retyped. A reviewer sees exactly which references changed.
+{"surgical":"yes"}
+
+### 45d3a7ec4bebb7870b6fd0e0d4af171b6d92b9414cfea486688ad78a6d3c1653
+The deletion removes "perform its obligations under this Agreement." and the insertion retypes the same words, adding only "only with Customer's prior written approval in each instance (email being sufficient)." before the period. The substance is a pure addition, but the shared phrase and the period are marked as removed and reinserted. The reviewer must compare the two strings to see what is new. A single insertion after "Agreement" would have shown the change directly without touching the shared text.
+{"surgical":"no"}
+
+### aa3812a5cdcb3792786b6bec43d749cfd2cef2ff215d3274f3191cb12a79e348
+The first change deletes "damaged or destroyed by" and inserts "damaged by", retyping "damaged" and "by" when only "or destroyed" needed to go. The final change deletes a long clause starting "fully abate from the date of such damage..." and replaces it with a new one, which is reasonable because the substance reverses, but the shared phrase "from the date of" is touched too. The deletion of the middle patient-access clause is a clean whole-clause removal. Overall the redline deletes and reinserts shared words in at least two places, so it is not as targeted as it could be.
+{"surgical":"no"}
+
+### 586f3245275e68df4a1f2615b22075757e15e32af5ce448b2f5e0d34e273658e
+The first replacement deletes "applicable advertising laws and regulations. Agency is responsible for format and delivery compliance." and reinserts the same text with additions in the middle and end. "applicable advertising laws and regulations" and "Agency is responsible for" and "format and delivery compliance" all reappear in the insertion. The last replacement does the same with "for Agency's use." deleted and retyped before the new sentence. All of the additions could be shown as pure insertions at the right points. The reviewer is made to diff long strings by eye.
+{"surgical":"no"}
+
+### 27650f7b06edfde83648879634f2dd4e80167ae7913bdbcf13636007b78f856e
+This redline makes many small edits, and several of them delete and retype shared text. "VIII (as opposed to repairing it), " becomes "VIII, " when only the parenthetical needed deleting. "life of the replaced system, " becomes "life, ", and "through, " becomes "through " just to remove a comma, which retypes the word. The last change deletes "IV, only the portion..." and inserts "IV." rather than editing the tail. The result is a choppy set of changes that churn shared words and punctuation. It would be cleaner to delete only the removed phrases and insert only the new ones.
+{"surgical":"no"}
+
+### 702154b88967065e1744b2a73caf4c00df8ffa499d24aaceb543acd2869e58d2
+Some edits are reasonable, but the redline touches shared text. The change from "services offered by Tenant as of the Commencement Date (the" to "services specifically listed as of the Commencement Date on an exhibit approved by Landlord (the" deletes and retypes "services", "as of the Commencement Date" and "(the". The first replacement also retypes the leading space and "provider". The final replacement removes the entire proviso and remedies and inserts a new block, which suits a rewrite but still begins by deleting a comma and retyping punctuation. The effort needed to confirm what stayed the same is higher than necessary.
+{"surgical":"no"}
+
+### 47724f3d0b6b66ff43376e6653c8c6aa38f791a6a2e4ff598744395de8fdf3de
+The edits are made at word and phrase level and shared text is left as equal. "OR FOR LOST PROFITS," is a clean insertion, "AGGREGATE " and "ARISING OUT OF OR RELATING TO THIS AGREEMENT, INCLUDING ITS INDEMNITY OBLIGATIONS, " are inserted where they belong, and "ROYALTIES PAID OR PAYABLE" is swapped for "AMOUNTS ACTUALLY RECEIVED" as whole phrases. Deleting "EITHER PARTY'S INDEMNITY OBLIGATIONS, " and ", OR GROSS NEGLIGENCE, BAD FAITH," is a clean removal that follows the list punctuation. There are many changes, but each is a readable unit and no shared text is retyped.
+{"surgical":"yes"}
+
+### 878f7fea40f19565c833417a659ce0493ce817ee3826c23a9925f1771a6846a8
+The deletion removes "sixty (60) days after such notice to cure the failure." and the insertion retypes "ninety (90) days after such notice to cure the failure." with only the number changed. "after such notice to cure the failure" and "If Licensee does not cure the failure within" are shared but are deleted and reinserted. The cleanest edit would swap "sixty (60)" for "ninety (90)" and then insert the force majeure sentence and revise the remedy. Instead the whole tail is replaced, so the reviewer has to hunt for the single changed number.
+{"surgical":"no"}
+
+### d064b5760b2cba4aba79b0f40eb36a6b7beca23e02f0aa17986fc5ac16817802
+The redline uses small, well-placed insertions and deletions. "incurred a monetary Event of Default, and has not " is inserted as a lead-in before the shared "been more than ten (10) business days late". The net-worth clause is inserted after the shared text at the comma. "automatically " and " by fifty percent (50%)" are deleted as whole words and phrases, and the closing change swaps the tail of the sentence while leaving the final period as equal text. No shared text is retyped and the edits follow the sentence's punctuation.
+{"surgical":"yes"}
+
+### efb86a6aab73cda5ee41a7002387ffe5e8f71a4826da4004d5774af36f78d80a
+The core flip is from a permitted-transfers right to a consent requirement, and the redline retypes shared text to do it. "Tenant may, without Landlord's consent, assign this Lease or sublet all or any portion of the Leased Premises to" is deleted and "Tenant shall not assign this Lease or sublet all or any portion of the Leased Premises without Landlord's prior written consent including any transfer to" is inserted, so "assign this Lease or sublet all or any portion of the Leased Premises" appears on both sides. The ", provided that, in " swap and the clause at the end also replace more than needed. The reviewer cannot see the real changes at a glance.
+{"surgical":"no"}
+
+### d0f3c6c6cf360159eef196af8ab3af1e7f1040d69e494f368b93a5cf57622433
+The delete and insert both start with "in its sole discretion," and both end with ", and", so the shared opening and closing are deleted and retyped. The only actual change is replacing "without abatement of any amount owed by Tenant to Landlord under this Lease" with "subject to Sections 2.5 and 3.11 and Tenant's express abatement and other rights under this Lease". Marking just that middle phrase would leave the shared words alone. As marked, the reviewer must compare the two strings to find the change.
+{"surgical":"no"}
+
+### c66b11af4b56f63a489cd583c7dde9cfbfcf485adaed8106ddb252bb8f573ff3
+The first replacement deletes the whole availability clause and retypes it, changing only "99.9%" to "99.5%" and extending the exclusions list. "not less than", "per calendar month, excluding Permitted Downtime" and "Force Majeure events" are shared but retyped. The second replacement does the same with the termination sentence, and the third deletes "as quickly as practicable." only to retype it before an added sentence. Number changes and list additions could have been made as small edits. The redline makes the reviewer re-read three long sentences to find a few changes.
+{"surgical":"no"}
+
+### 10f04cec951b20569c45fbd43cdd193f83864a88e299a301c6fe7c470629a5eb
+The entire governing-law paragraph is deleted and then reinserted word for word, followed by two new sentences. Nothing in the first two sentences changed, yet they are marked as removed and retyped. The new content is a pure addition at the end and could have been a single insertion after "Utah County, Utah." The reviewer is forced to compare the old and new blocks to confirm nothing changed in the shared text.
+{"surgical":"no"}
+
+### 3de1e35274817e39bc66efeec59d2daf42c8cbe5a6a541e481d3fd0c5edfd26b
+The whole Section 1 paragraph is deleted and reinserted with the same opening text, with additions at the end of the first sentence and several new sentences. Everything up to "federal Drug Enforcement Administration registration" is identical in both operations. The additions could have been shown as insertions after that phrase, with the period handled in place. Marking the whole paragraph as replaced hides the real changes and makes the reviewer diff the text by eye.
+{"surgical":"no"}
+
+### 0989da7c8fd2f95156dd360b2b1727bede396cfe3cc4e1d0afb44654c46095fd
+The incisions break the sentence flow. The insertion after "Section 4.1" adds ", the Deliverables shall be works made for hire ... and, to the extent not" and the next equal text begins with ", Agency hereby assigns", so the accepted text reads "to the extent not, Agency hereby assigns", which is broken. The period after "including all Intellectual Property Rights therein" is deleted and retyped as ", effective upon delivery." instead of inserting before the period. The edits do not follow the punctuation or flow of the document.
+{"surgical":"no"}
+
+### bbf489a7bbac89bbe506fdc66010ef04d48fa17a19ec0a9129ce9f1305c55e0a
+After the shared lead-in "Tenant may", the whole remainder of the section is deleted and a new remainder inserted. The two blocks repeat shared concepts and wording: "install, modify..." is gone, but "which shall not be unreasonably withheld, conditioned, or delayed", "Landlord's consent", "without Landlord's consent", "plans and specifications" and "structural components" appear on both sides. The deletion also removes the leading comma and retypes the structure. A more targeted edit would keep the consent standard and change the thresholds and notice period individually. As marked, the reviewer must compare two long paragraphs.
+{"surgical":"no"}
+
+### 40b689d3570775b0db337c36e532657fcaa07192745bf0afce4db94717c92a46
+The edits are made at word and phrase level and keep the shared text. "Commercial licensing" is replaced with the new lead-in, ", " becomes ". Commercial licensing of ", "is strictly forbidden without" becomes "requires", "express" becomes "prior", and "non-requesting party" becomes "other Party". Each swap is a whole readable unit, the equal text between them stays untouched, and the punctuation change is handled where it occurs. There are many small changes, but each is meaningful and none splits a word.
+{"surgical":"yes"}
+
+### 8b6336dc77b10aa29b618a67a391e23b4f4b9aec0a58bb0d752e0d9055107813
+The two sentences of the original are deleted wholesale and replaced with a new two-sentence block. The substance changes from a one-way to a mutual assignment clause, so some rewriting is justified, but shared phrases such as "may not assign this Agreement without ... prior written consent" and "to a successor" are deleted and retyped in the insertion. The reviewer cannot tell which parts of the consent requirement changed. A tighter edit would have kept the shared consent language and changed the parties and exceptions around it.
+{"surgical":"no"}
+
+### 0e8954eac2b51c4b1df69b0ec1e70038c423daeb012e12a1e1abacbeb174a45e
+Several shared words are deleted and retyped. "Producer shall furnish" is deleted and reinserted as "Producer shall promptly furnish" when only the 30-day phrase needed to go and "promptly" added. "SESAC), and shall simultaneously" is replaced by "SESAC) and shall simultaneously" just to drop a comma, which retypes the whole phrase. "copy of same to Licensor." is deleted and retyped before the added sentence. The inserted text also contains a typo, "availableto". These are needless deletions and reinsertions of shared text.
+{"surgical":"no"}
+
+### 37bd8d636732314c1c6220d6f0442454b4d492d08b8f28c5be9f0ef98c672c4b
+The entire paragraph is deleted and reinserted, with the first sentences and most of the rest identical. The real changes are an added "such approval to not be unreasonably withheld or delayed", a switch from "shall not be deemed approved" to "shall be deemed approved", the removal of the Reminder Notice mechanics, and "also" inserted. None of these are shown as targeted edits. The reviewer would have to compare two long blocks word by word.
+{"surgical":"no"}
+
+### 45152101db7f72440c7a257cc3e90b6f3b3f135d14f1a9fb95ca834a09d6975b
+The first replacement deletes "the game format, mechanics, rules, game software, and the daily" and inserts "the game format, rules, and the daily". Shared words "the game format," "rules," and "and the daily" are deleted and retyped, when only "mechanics, " and "game software, " needed removing. The second replacement likewise retypes "solution keys," and "all provided" while dropping only "and the rolling puzzle archive,". Pure deletions would show the change clearly and leave the shared text untouched.
+{"surgical":"no"}
+
+### 3bf9a93545fcd4d5be78b9411274be4051dcaba79ebcc7279854d92c74609f13
+The edits are made at word and phrase level around shared text. The list of triggering conduct is replaced item by item, leaving the connecting " or " and "resulting in" as equal text. "immediately " is deleted as a whole word, " not" is a standalone insertion, "twelve (12) hours" becomes "five (5) business days" as whole units, and the cure proviso is added after "terminate this Agreement". The sentence punctuation is followed. The redline is busy, but each incision is a readable unit and no shared text is retyped.
+{"surgical":"yes"}
+
+### 83d28724b272d32d1a0503abe5fdd434e43d5e6747329f3d648631e523330052
+After the shared lead-in, the deletion removes "(or immediately in the case of an emergency affecting patient safety or Tenant's ability to operate), and such failure..." and the insertion retypes "(or promptly in the case of an emergency affecting patient safety or Tenant's ability to operate)" with one word changed. The parenthetical is retyped just to swap "immediately" for "promptly", when a word-level swap would suffice. The remainder is a legitimate rewrite, but the redline hides the small change inside a big block.
+{"surgical":"no"}
+
+### 04f672606cff838f7d3310ee43ab9f23a1294f3829343a28c03deb542b619e5d
+The deletion starts with "Testing Data, including Testing Data specific to Client's products, subject only to the license granted in Section 5.2." and the insertion starts with "Testing Data, excluding Testing Data specific to Client's products." The shared "Testing Data," and "Testing Data specific to Client's products" are deleted and retyped. The change could have been a swap of "including" for "excluding", a deletion of the license tail, and an insertion of the new sentence. As marked, the shared text is touched needlessly.
+{"surgical":"no"}

@@ -1,0 +1,79 @@
+### 70515fa5e83565105c992f2e202d980deafac10582109f9bd704acf959170560
+The redline deletes the entire assignment clause and reinserts it in full. Comparing the two versions, the only edit is the added phrase "or in connection with any reorganisation, merger, or sale of all or substantially all of the assets of the assigning Party's business to which this Agreement relates" after "without the consent of the other Party". Everything else, including the heading, the consent requirement and the final sentence about not unreasonably withholding consent, is identical. Striking and reinserting roughly fifty words of shared text forces the reviewer to compare two long blocks to find a single added phrase. The correct incision is one insertion placed before the period, leaving the rest of the clause untouched.
+{"surgical":"no"}
+
+### 0c66ebbaf1743016915977722662fd7e2ff9608f0a33421b7a319a3eda25f7d1
+Two changes are marked in an otherwise untouched late-charge clause. "eight " is replaced with "four ", and "(8%) " is replaced with "(4%) ". Both edits swap whole readable units, the spelled-out number and its parenthetical numeral, rather than fragments, so the reviewer sees at a glance that the rate drops from eight to four percent. The shared word "percent", the definition of "Late Charge" and the rest of the paragraph remain as equal text. The trailing space carried inside each delete and insert is a conventional whole-word selection and creates no visual noise. The changes follow the document's flow and need no further effort to verify.
+{"surgical":"yes"}
+
+### 79e732fd670d1a8eeb6585ca2fe285a80d359248b9a93524af000895e135d05e
+The whole termination-for-convenience clause is deleted and reinserted. The revised text keeps most of the original verbatim: the heading, "Either Party may terminate this Agreement or any SOW for convenience", the thirty-day notice language, and "Client shall pay Agency for all Services performed through the termination date". The actual edits are discrete: a comma after "convenience", the new proviso about the Power Nap Suit 2.0 launch, the qualifiers "documented, verifiable," and "previously authorized by Client and incurred", "receipt of the" before "notice", and the closing exclusion of lost profits and similar claims. Each could be marked as a targeted insertion or short replacement. Bundling them into a full strike and reinsertion hides them inside a large block and makes the reviewer re-read the entire clause to locate them.
+{"surgical":"no"}
+
+### 84e758cda7a6377deebf2e2114aafd84f10e11cd3e5567dc04a31f9bdb60f841
+The redline strikes "expiration or earlier " as whole words, keeps "termination of this Agreement", and inserts " for material breach by Producer" immediately before the existing comma, so the new qualifier sits correctly inside the clause punctuation. A separate one-character deletion removes the space after that comma; this mirrors the revised text exactly and could not be marked any more narrowly. The reversion language and the survival sentence are left untouched, including the later "expiration or earlier termination" phrase, which is correctly not changed. Each incision falls on word boundaries, no shared text is struck and reinserted, and the reviewer can read both the deletion and the insertion as coherent phrases.
+{"surgical":"yes"}
+
+### 9ec01ecbf2b5caf4cf0fef1ef63d37d87017e7c626db1cc124dd5b3e8b71fe12
+The full sentence is deleted and reinserted, yet the two versions differ only by the words "or termination" in "notice, cure, and conversion or termination provisions". All the surrounding text, including the reference to Section 6.3 of the Agreement, is identical. A reviewer must compare two near-identical sentences word by word to find the change. The surgical marking would be a single deletion of "or termination" with its adjoining space, leaving the rest of the sentence as equal text. Striking and restating the whole sentence is a needless deletion and reinsertion of shared text.
+{"surgical":"no"}
+
+### dba32885eab2bef2be65ea67c25386eb6ae536f9051014e2d8aba991c31955a3
+The heading loses the whole word "No ", turning it into "Limitation of Landlord's Liability". In the body, "Nothing in this " is replaced by "This ", a whole-word swap that also handles the capitalisation without splitting "this". The long middle passage about limiting liability to the equity interest in the Leased Premises stays as equal text. The final clause, from "and Landlord shall remain fully liable" through the period, is struck as one block, starting at a word boundary after the existing comma. No shared text is deleted and reinserted, no word is split, and each change reads cleanly on its own. The ending of the revised clause is reproduced exactly as intended.
+{"surgical":"yes"}
+
+### c4a2f5b538219b1ef50e3ca74eddcd99ffdf1a98dddb7e175f3ba71133b6fcfe
+The only change is the section number, which moves from 4.2 to 4.1. The redline keeps "4." as equal text and swaps only the digit "2" for "1". A section number is a single readable unit, and splitting it leaves the reviewer reading a number struck midway rather than a clean replacement of "4.2" with "4.1". The heading and the body of the termination-for-breach clause are correctly untouched, but the incision falls inside the number instead of around it. A careful marking would delete "4.2" and insert "4.1" as whole units.
+{"surgical":"no"}
+
+### 7d9b14a7c80f98b8bf20d5c19f7d6ad2886597bbc85c809c9adeac48cfc64f8d
+The early edits are clean: the parenthetical about extending posting dates is inserted before the comma, the Whitelist Period opener is struck as a block, and " not" is inserted after "Company shall". The problem is the tail of the sentence. The original ", and Influencer hereby agrees to provide Company with any applicable permissions that it needs to do so in accordance with this Section" is replaced by "unless Influencer consents in writing to such "whitelisting" prior to use", but the redline shreds it into word-for-word swaps (and/unless, hereby/consents, agrees/in writing, provide/such, Company/"whitelisting") anchored on single spaces and a coincidental "to". The reviewer must reconstruct both versions from alternating fragments. This rewritten clause should be one deletion and one insertion.
+{"surgical":"no"}
+
+### d456b2075fbcb7c1570f0fc334e3698bac05c5b0dada118f0194ec5314ff792c
+The heading insertion " and Deliverables" and the "Platinum"/"Client" swap are fine, but the rest of the clause is rewritten and marked as a long chain of alternating one-word swaps anchored on spaces: "including" to "and", "Testing" to "Platinum", "Data" to "hereby", "specific" to "assigns the same", "only" to "to", "license" to "Client-Specific", and so on. The possessive "'s" is cut off "Client's", splitting a word, and the cross-reference "6.2" becomes "6.4" by swapping only the final digit. The old and new sentences share almost no meaning at these anchor points, so the reviewer cannot read either version without reassembling fragments. The rewritten portion should be shown as a block deletion and a block insertion.
+{"surgical":"no"}
+
+### 57ae45df92e206be1e047d7772e4c4a9abb4c4f8b1ce6167465b35a5caafd48e
+The deliverables paragraph is left untouched and new text is added at the end, which is the right approach. However, the new "Delivery Schedule" sentence is split into two insertions: "  Delivery" before the original trailing space and "Schedule: Contractor shall deliver..." after it. That anchors the new heading on a stray shared space, so the label "Delivery Schedule" is broken across an equal segment. A clean marking would keep the original text and its trailing space as equal and add the whole new sentence as one insertion. The extra split adds needless fragmentation to what should be a single, easily read addition.
+{"surgical":"no"}
+
+### 10297b0bca3951f551667f774f617427ed76765578f4027ab309269353ed7d54
+Some edits are clean: "immediately " is struck and the ten-business-day cure language is inserted as a block. But "at any time" becoming "upon thirty (30) days' prior written notice" is marked as alternating swaps (at/upon, any/thirty, time/(30) days' prior written notice). The same pattern repeats for "as determined by Company in its reasonable discretion" versus "or (y) fifty percent (50%) of the Fee", and again across "and Influencer shall have no claim for any other compensation, lost profits or foregone opportunities", which is interleaved word by word with the new influencer termination right. These anchors are coincidental spaces and short words, so neither version can be read without reassembly. A single space is also swapped for a double space. The rewritten passages should be block replacements.
+{"surgical":"no"}
+
+### 44d99a414aec4649f5fc7e11246766636d00e457a156d957ff07b435aba3d7e4
+The entire subclause is deleted and reinserted, but the only difference is the added phrase "by Agreement between parties" at the end, before the period. The item label "(e)" and the text "any other liability that may not lawfully be limited or excluded" are identical in both versions. Striking and restating the whole line makes the reviewer compare two sentences to find a short addition. The surgical marking is a single insertion of " by Agreement between parties" placed before the existing period, leaving all shared text untouched.
+{"surgical":"no"}
+
+### 112b9002db41e07a82c45dbae0035317a5025ba97ef4fae024a197cff81c2447
+"the" is replaced by "commercial" as a whole word, which is fine. The remaining changes replace the nonprofit-coverage language with new limits, additional insured status and a certificate obligation, but the redline anchors on a coincidental " and ". In the original, that "and" joins "will maintain" with "makes no representation"; in the revised text it sits inside "primary and non-contributory". The result is a delete-insert-equal-delete-insert pattern in which the reviewer must stitch "on a primary" and "non-contributory basis" together across a struck clause. Since the whole tail of the sentence is rewritten, it should be shown as one deletion of the old language and one insertion of the new, keeping only the final period.
+{"surgical":"no"}
+
+### c7421e17cf15562566fd7903ad7772ca943f416fbe4a9ab81d51163df8479c31
+The existing client representation is left entirely untouched as equal text. The only change is a single insertion appended after the final period: a new sentence in which Calloway gives the reciprocal export control and sanctions representation. The insertion begins with a space and ends with its own period, so it follows the document's punctuation and sentence flow. Nothing is deleted, no word or defined term is split, and the reviewer sees one clean block of new text. This is precisely how a reciprocal obligation would be added to an existing clause.
+{"surgical":"yes"}
+
+### 2e9052535d54d6b7e4fc0becfa93e3eae3aac1ef8b3cb749ebaba3998a5c2c44
+The lease term definition is kept intact, and the new proviso is added at the end, which is the right place. But the insertion is anchored on the original sentence's closing period: the first insertion ends with "Section 1", the original "." is kept as equal, and the second insertion begins "8 and the date of such delivery." The section reference "1.8" is therefore split across an equal segment, with the old full stop repurposed as the decimal point. A careful marking would insert the proviso, ending with "Section 1.8 and the date of such delivery", before the existing period and keep that period as the end of the sentence.
+{"surgical":"no"}
+
+### be01786f34877fde9428968aa60a5d0044095e3c32918d079ca2849b58b49ae2
+The release becomes mutual through a series of whole-unit swaps. "Tenant " becomes "the releasing party " twice and "Each party " once, and "Landlord or Landlord's" becomes "the other party or the other party's", keeping the possessive phrase intact rather than splitting "Landlord's". The opening "Tenant hereby releases Landlord" is replaced as one short phrase with "Each party hereby releases the other party"; restating "hereby releases" is a small cost that keeps the new subject and object readable as one clause. The long lists of property, the insured-risks language and the subrogation waiver text are all untouched. Each change falls on word boundaries and follows the existing punctuation.
+{"surgical":"yes"}
+
+### 8fbd389d62bd2c9a9786b1c41fd9bfce48f4b16247e187256f6542b057e85af2
+"'s sole remedy is to " is replaced with " may ", which cuts the possessive off "Licensee's". More seriously, "request" becomes "require" by keeping the fragment "requ" and swapping "est" for "ire", splitting a word mid-stem so the reviewer sees a broken word rather than a clear verb change. The new redaction, patent-delay and business-reasons language is inserted before the period, and the old final sentence is struck, which is reasonable in itself. But the in-word incision on "request" and the split possessive are exactly the fragmentary marking a careful attorney would correct by replacing whole words.
+{"surgical":"no"}
+
+### 74abe3f2f353649bbb5bb4bd5cea4eee67aa14f921793038205f652828716617
+Almost the entire vendor access clause is deleted and then reinserted, with only the final period kept as an equal anchor between the two blocks, and the reinsertion starting with a stray leading space. Comparing the versions, the only edit is the added phrase "and will respond to Licensee in writing within twenty (20) business days," after "in good faith". Everything else, including the heading, the request mechanism, the approval limits and the vendor agreement requirement, is identical. The reviewer must compare two long paragraphs to find one added phrase. The surgical marking is a single insertion after "good faith".
+{"surgical":"no"}
+
+### 3557e2e69a403d9dd433756f09892a0c5d1903e3d5d24be03221ea29676e0fbb
+The segregation clause is left untouched up to "under this Agreement". The redline strikes the closing period and inserts ", provided that (i) ... (iii) Calloway bears the costs of segregation." That is the conventional way to extend a sentence with a proviso: the old full stop gives way to a comma and the new sentence end carries its own period. The insertion is one coherent block with its internal numbering intact, no words or numbers are split, and no shared text is struck and reinserted beyond the single period being replaced. The reviewer sees one clear addition and can read both versions easily.
+{"surgical":"yes"}
+
+### 1369c2e634227078b3211536a155d74eed5e7b6137dfddefd2622dc76797c60f
+The renewal condition is rewritten from a material-default-beyond-cure test to a no-Event-of-Default test at exercise and commencement. The redline inserts "no Event of Default exists either when " before "Tenant ", replaces "is not then in material default beyond any " with "exercises an option or when the ", keeps "applicable ", and replaces "notice and cure period, " with "Renewal Term begins, ". Each change is a whole-word phrase, and the retained words keep their roles: Tenant remains the subject of the condition and "applicable" remains a modifier. Both the struck condition and the inserted condition read as coherent text. The rest of the clause, including the three five-year options and the notice period, is untouched.
+{"surgical":"yes"}

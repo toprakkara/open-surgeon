@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e9-643f-7721-a648-24a28e0bb7d9"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The additions occur at natural clause boundaries and preserve all shared wording. Replacing the period with a comma and proviso follows the sentence’s flow; no words are fragmented or needlessly reinserted.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7633,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":50,"reasoning_output_tokens":0}}

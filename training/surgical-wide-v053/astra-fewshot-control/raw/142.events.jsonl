@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e3-cb35-7491-92c4-61d5367aefd6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is deleted and reinserted even though the heading and lengthy condition remain unchanged. Only the remedy language changes; preserving the shared text would make the edit precise and easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7660,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":49,"reasoning_output_tokens":0}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dc-de82-7120-bf13-8fdc43da5feb"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The definition is replaced wholesale, unnecessarily deleting and reinserting the shared phrase “application of thermal imaging or computer vision technology.” More targeted edits would make the changed scope easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7487,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":46,"reasoning_output_tokens":0}}

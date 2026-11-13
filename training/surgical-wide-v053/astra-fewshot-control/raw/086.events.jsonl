@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e0-a3ef-7571-a3f5-3f92cec7bbb1"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The redline unnecessarily deletes and reinserts shared language, including “return the,” the unapplied-balance language, and “required by Section 13.” The staged returns and interest sentence could be inserted separately, with targeted changes to the existing return deadline.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7708,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":61,"reasoning_output_tokens":0}}

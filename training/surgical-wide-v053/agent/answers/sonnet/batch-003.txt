@@ -1,0 +1,171 @@
+### 22db7af5844cb68e7c3d5861fe6d51847da416dfc4ab0c5108f709ed7bbeb16e
+{"old": "of Landlord’s choice", "new": "selected by Tenant’s insurer, or if Tenant’s insurer declines the tender of defense, with counsel reasonably acceptable to Landlord"}
+{"old": " including the furnishing of material and completion bonds,", "new": ""}
+{"old": "loss due to a lien.", "new": "loss due to a lien.  Nothing in this Article shall limit Tenant’s right to contest, in good faith and by appropriate proceedings, the validity or amount of any lien claim, provided that Tenant furnishes a bond or other security sufficient to protect Landlord’s interest during the pendency of such contest.  Landlord acknowledges that Tenant’s Equipment (as defined in Section 10.2) and Tenant’s inventory may be subject to a purchase-money or other security interest granted by Tenant to an institutional lender.  Landlord hereby waives any statutory or contractual landlord’s lien and any other claim against Tenant’s Equipment and Tenant’s inventory, and within fifteen (15) days after Tenant’s written request Landlord shall execute and deliver to Tenant’s lender a landlord waiver and consent, in the lender’s customary form, confirming (a) the lender’s first-priority security interest in Tenant’s Equipment and Tenant’s inventory, (b) Landlord’s waiver of any landlord’s lien or other claim to that collateral, (c) the lender’s right to enter the Premises to remove that collateral for a period of sixty (60) days following the expiration or earlier termination of this Lease, and (d) Landlord’s agreement to give the lender written notice of any Default by Tenant, together with a period of thirty (30) days from the lender’s receipt of such notice within which to cure the Default."}
+### a25ea4069f3ec757f21cf92d050d2640c8916fdff84c2c5baabd2281b0070804
+{"old": "Invention submission.", "new": "Invention submission. Upon any termination or expiration of the Term, Company shall immediately cease all use of the Invention, destroy all copies and reproductions of materials containing or embodying the Invention, and certify such destruction in writing at Inventor’s request."}
+### b1ab8bea41cd482afacb6bb45e94fd2380702e3a8886fed3d9867c8d8432f850
+{"old": "one (1) month’s", "new": "six (6) month’s"}
+{"old": "The Security Deposit shall be held in", "new": "At Landlord’s election, Security Deposit may be required to be provided in the form of an irrevocable, evergreen letter of credit reasonably acceptable to Landlord. The Security Deposit shall not be held in"}
+{"old": ", and all interest accrued thereon shall belong to Tenant and shall be paid to Tenant annually or credited against the next installment(s) of Base Rent, at Tenant’s election.", "new": ", unless required by applicable law "}
+### 1752c0e23c7ad5cbf2fa46c35b037af81380ec1a8c5ca31cd814444148ad7232
+{"old": "provided Landlord shall not be entitled to charge such late fee more than twice with respect to the same delinquent payment and no late fee shall accrue interest", "new": "together with interest on the delinquent amount at the rate of one and one-half percent (1.5%) per month accruing from the original due date until paid"}
+### 8344442a6ed66859c93a42f8041c1da27a3b959534826244e7a487000a8867d5
+{"old": "two hundred seventy (270)", "new": "one hundred eighty (180)"}
+{"old": "receipt of the estimate.", "new": "receipt of the estimate. Tenant may also terminate this Lease by written notice given within thirty (30) days after the casualty if the casualty occurs during the final eighteen (18) months of the Term."}
+### 6a803c7b874feea98cb40f2d4c6f65574c10ba31d88d8daa3947e4150b788b4b
+{"old": "automatic conversion under Section 2.2.", "new": "automatic conversion under Section 2.2, provided that during the Term Calloway will not grant any license under the Licensed Patents or Licensed Technology, in any field, to any entity identified on the schedule of Restricted Competitors attached to Exhibit A, and will notify Licensee promptly upon entering negotiations with any such entity. Calloway will notify Licensee in writing before granting any license outside the Field of Use in an adjacent aerial application, and Licensee will have twenty (20) business days to exercise a right of first refusal on the same terms."}
+### 7004fcc3e86b2ae4c0ca348d4e8726cf1bb19859e4c17c6e2cec0d6512e5ee99
+{"old": "Cap on Operating Expenses.  Notwithstanding Section 3 of this Article IV, in no event shall the aggregate Operating Expenses passed through to Tenant in any calendar year increase by more than three percent (3%) over the aggregate Operating Expenses passed through to Tenant for the immediately preceding calendar year, on a cumulative, non-compounding basis, regardless of the category of expense giving rise to such increase.", "new": "No Cap on Additional Rent.  No annual cap shall apply to Tenant’s share of real estate taxes, insurance premiums, or Operating Expenses."}
+### fe070c08878ba60f7dcede1fd161b8ca0d55710c1aa48d604f4a5656d256de14
+{"old": "or other economic advantage).", "new": "or other economic advantage), except that this limitation shall not apply to amounts payable to third parties in respect of Claims indemnified under this Section 11 or to Ee L. Kew’s breach of confidentiality, gross negligence, or willful misconduct."}
+### 7d8be98352b10a6991f93b58ea9421396e01e47964ab385cd7d99b7638a684f6
+{"old": " or Licensed IP.", "new": ", Licensed IP, Puzzle-Generation Engine, or any improvements, modifications, or derivative works of any of the foregoing."}
+### 12deb4c09f13a6d94661751350e4fa616108dba4fd912d9fb36973e159c5f10d
+{"old": "During the Term", "new": "During and after the Term"}
+{"old": "for the express purpose of participating in", "new": "to recipients who need to know solely for"}
+{"old": "pursuant to a confidentiality", "new": "pursuant to a written confidentiality"}
+{"old": "with such third parties.", "new": "with such third parties. Company shall be responsible for any breach of those obligations by the recipient. These obligations shall continue until the applicable details of the Invention become publicly available through no breach of this Agreement by Company or any recipient."}
+### de3acbb4463e3ae4b2035122bf00e951bcf5b412eab00b0b703e4440cd4f8447
+{"old": ", applicable state healthcare facility licensing requirements as to base building conditions, and all", "new": " and all"}
+{"old": ", such that Tenant may, subject to Tenant’s own build-out and licensure obligations under Article XIX, lawfully operate an outpatient medical facility from the Leased Premises.", "new": ". Landlord makes no representation or warranty regarding the suitability of the Leased Premises for Tenant’s specific clinical use, licensure, accreditation, or healthcare-program participation."}
+### 649759c169fae81c8a7f1f78d8b10ffd340c50c244585adbe548b08b4f73754f
+{"old": "approximately ", "new": ""}
+### 8e636464de9523fadd530a3253c649c23db0aa97934df9a12dc87e35ebc0af68
+{"old": "no Event of Default", "new": "no monetary Event of Default"}
+{"old": " and Tenant is in occupancy of the entire Premises", "new": ""}
+{"old": "Landlord given not less than twelve (12) months", "new": "Landlord, given not less than nine (9) months"}
+{"old": "shall be the prevailing", "new": "shall be at ninety five percent (95%) of the then prevailing"}
+{"old": "as determined by Landlord", "new": "as agreed by Landlord and Tenant"}
+{"old": "that no further extension, allowance or abatement is available.", "new": "that no allowance or abatement is available (and that after the second option period, no further extension would be applicable absent a written agreement between the parties to the contrary).  In the event that Landlord and Tenant cannot agree on the market rental rate, then each party shall designate their own appraiser to provide each of their recommendations on the prevailing fair market rental rate (with each appraiser having minimum qualifications of at least ten (10) years commercial brokerage experience within a thirty (30) mile radius of the Property).  In the event that the appraisers selected cannot agree on the prevailing fair market rental rate, then each appraiser shall jointly select a third appraiser to determine the prevailing fair market rental rate, which will become binding upon the parties."}
+### 32d21fb36aec86faccfccb608a3933a324d416c03a1839bd483c9b91bae690fd
+{"old": "Allowance. Any portion of the Allowance not requisitioned within eighteen (18) months after the Commencement Date is forfeited.", "new": "Allowance.   The allowance may be used towards all costs incurred by Tenant in connection with all improvements, furnishings, and equipment related to the Premises.  Any portion of the Allowance which is not paid by Landlord to Tenant within ten (10) days of Tenant’s submission of a request, shall be applied towards the Rent payable under this Lease."}
+### bfa8ac3ecd390b7117fab383bef0725bf93f5659b4744e8c4276a7c7b3756808
+{"old": "personal property remain", "new": "personal property (in all instances, whether affixed to the Property or not), remain"}
+{"old": "shall remove them at the end of the Term and repair any damage caused by their removal.", "new": "shall have the right to remove them at the end of the Term.  Should Tenant decide to remove such items, then Tenant shall repair any damage caused by their removal.  Should Tenant decide to leave such items behind, then they shall become the property of Landlord after the end of the Term."}
+### 3d670423b883de52af39da1a05da3847e09fd1398fc9de1a2318b995cd63d19d
+{"old": "leased to Tenant in its current “AS-IS” and “WHERE-IS” condition, “WITH-ALL-FAULTS”.", "new": "leased to Tenant as follows:  Landlord shall deliver the Premises as a grey shell that is (a) clean, broom-swept, and free of debris and prior tenant improvements; (b) demised, weather-tight, and structurally sound; (c) stubbed to the Premises with electrical service, domestic water, and gas service; and (d) connected to a functioning grease interceptor of sufficient capacity for Tenant’s Permitted Use."}
+{"old": ", and Tenant will take possession of the Premises in its current “AS-IS” and “WHERE-IS” condition, “WITH-ALL-FAULTS”", "new": ""}
+{"old": "with respect to the Premises.", "new": "with respect to the Premises, except that Landlord covenants that the building systems serving the Premises are in good working order as of delivery."}
+### 802735c8157fec89528157fd5e94f5cbb0fed5269cadf95f38a8051b55ed8bb1
+{"old": "8.1 Usage-Based", "new": "8.1 Recoupable Advance and Usage-Based"}
+{"old": "Publisher shall pay Licensor ", "new": "Publisher shall pay Licensor a non-refundable, recoupable advance against Per-Gamestart Royalties in the amount of $[AMOUNT] within five (5) business days after the Effective Date (the \"Advance\"). Publisher shall recoup the Advance solely by crediting Per-Gamestart Royalties otherwise payable under this Agreement. Publisher shall pay Licensor "}
+{"old": " This is Licensor's sole and exclusive compensation under this Agreement. No fixed monthly fee or minimum guarantee applies.", "new": " After the Advance has been fully recouped, Publisher shall pay Per-Gamestart Royalties in accordance with Section 8.3. No deduction or offset applies except as expressly provided in Section 8.4."}
+### aabd4c489bf30af76fcdbbfaaff5d4b7129ffc81848aa41dc02ebe66aac735f5
+{"old": "of any kind that Tenant is licensed to provide", "new": "identified in a written service list approved by Landlord before the Commencement Date"}
+{"old": "Tenant may modify", "new": "Tenant shall not modify"}
+{"old": "without Landlord’s consent, provided such services remain consistent with outpatient (as opposed to overnight inpatient) care.", "new": "without at least thirty (30) days’ prior written notice to Landlord, delivery of applicable licenses, certifications, and updated insurance certificates, and Landlord’s prior written consent, provided, however, that Landlord’s consent shall not be unreasonably withheld with respect to changes limited to examination, consultation, non-radiologic diagnostic testing, physical therapy, or administrative functions."}
+### 9090142a9232e6c92a51e44aa2cdcd5b324edf5184079b05181e8fcaabed5882
+{"old": "if Party A has delivered the Party A Dataset to Party B prior", "new": "if a Party has delivered its Contributed Data to the other Party prior"}
+{"old": "Party B shall, at Party A’s written request", "new": "the receiving Party shall, at the delivering Party’s written request"}
+{"old": "use of the Party A Dataset", "new": "use of such Contributed Data"}
+### 70f9fd7ef764a86ee505bb376bc6b5dfd63cbe22d74546fa769c0fc8a661da6b
+{"old": "a direct or indirect change in the ownership of the Center, or any portion thereof or interest therein, ", "new": ""}
+{"old": "is due and payable to Landlord.", "new": "is due and payable to Landlord. Real Property Taxes recoverable from Tenant shall exclude any increase resulting from a sale or transfer of the Center or any portion of or interest in the Center."}
+### 7df8abfc8310ac7164e3553a14185196ca78048a0367063704d314edad4d73e3
+{"old": "of this Agreement shall prevail over those of such Order Form, unless the Order Form expressly references this Agreement and specifies the specific sections or provisions of this Agreement, if any, that are to be modified or superseded by the Order Form.", "new": "of such Order Form shall prevail over those of this Agreement with respect to the Services ordered thereunder."}
+### 2c82cf97f4a3cf356e1e10ecc7ea742db5ecb1c3dbb20380d0bc5f22c6efe679
+{"old": ". Sponsor may make", "new": ". Subject to the license granted in Section 7.2, Sponsor may make"}
+{"old": "in Sponsor's sole discretion", "new": "within the Field of Use"}
+### ce134ea6f762324c28edc74478f0ecf66429ee1cf3b1e222af74f14b48ec15a1
+{"old": "LANDLORD AND TENANT EACH AGREE AND DO HEREBY WAIVE TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM BROUGHT BY EITHER OF THEM AGAINST THE OTHER IN RESPECT OF ANY MATTERS ARISING OUT OF OR IN ANY WAY CONNECTED WITH THIS LEASE, THE RELATIONSHIP OF LANDLORD AND TENANT, THE TENANT’S USE OR OCCUPANCY OF THE PREMISES, ANY CLAIM OF INJURY OR DAMAGE, OR ANY STATUTORY REMEDY.  TENANT HEREBY REPRESENTS AND ACKNOWLEDGES THAT NEITHER LANDLORD, NOR ANY AGENT OF LANDLORD (INCLUDING, BUT NOT LIMITED TO LANDLORD’S ATTORNEYS), HAS REPRESENTED OR OTHERWISE INDICATED THAT LANDLORD WILL NOT SEEK TO ENFORCE THIS WAIVER OF JURY TRIAL UNDER ANY CIRCUMSTANCES WHATSOEVER.", "new": "[Intentionally omitted.]"}
+### 9cf882138dfe1e1ac4161a9814530812ffa91e059d0ef0abbf981fc11ebc7179
+{"old": "current audited financial", "new": "current unaudited financial"}
+{"old": "Landlord shall have the option to terminate this Lease with Tenant and enter into a new direct lease with the transferee.", "new": ""}
+### e296424c089dd6435d9773a58f7a6861ce3c7dead874e8a7f6aa3509c3b5d81c
+{"old": "request permission to enforce", "new": "enforce"}
+{"old": "prior written consent and Calloway's right to control or participate in any resulting action", "new": "right to participate at its own expense"}
+### 6a2df3d35f8367ba1d480bc39e476f428780a8b40d3bd74e2f68d8e363bde472
+{"old": " subject to the cap in Section 4 of Article IV", "new": ""}
+### e5dad8f6a06866c2830f510329356d3a9978f0690ecb5174ac1feb9fee9dbd92
+{"old": "performed, or Work Orders accepted, prior", "new": "actually performed prior"}
+### 0cd967ef7691dd641ac463cd860cfb875dad71ba320e9d76ec31175abe9c9925
+{"old": "except to the extent retention is required by applicable law or regulation.", "new": "except: (a) specimens required to be retained under applicable FDA or USDA regulation; and (b) longitudinal canine specimens with documented ongoing scientific research value, in each case subject to a written inventory delivered within thirty (30) days after termination identifying each retained specimen, the legal or scientific basis for retention, and the expected end date, and (in the case of (b)) quarterly status reporting until destruction, which shall occur within thirty (30) days after the documented purpose concludes. Chain-of-custody and biosafety classification for each retained specimen shall be documented consistent with Exhibit C, Section 3."}
+### 7919700a7e297b82a3c6f2afd443057e38e3440c4bbb35eb847a9f3694a8439f
+{"old": "permitted under Article VIII.", "new": "permitted under Article VIII, except for capital items required by a law enacted after the Commencement Date, and except for capital items that reduce Operating Expenses, in the latter case only to the extent of the actual savings, in each case amortized over the useful life of the item."}
+{"old": "reasonable prior notice,", "new": "reasonable prior notice given within twelve (12) months after delivery of the applicable annual reconciliation, and not by any auditor compensated on a contingency fee basis,"}
+### a06cc27117ea01ee4fed813473b83a6470e8090fd7f5c7deffd0156d543ae4ec
+{"old": "£250,000", "new": "£250,000, payable following Company’s acceptance of the Services against the agreed specifications and acceptance criteria."}
+### 6c3f5af3db2ae237a19a6aa77c4e31dcc4454064690099910238f6db8e032fc4
+{"old": "occurring during such period.", "new": "occurring during such period and the Minimum Guarantee."}
+### 34985e46d4cb12044a102aeadd5211a867885eaa7dbd00e3fe08a04f0e1f1c58
+{"old": "outside the United", "new": "outside the United Kingdom"}
+### f523d8f5195c26d505357f93fe631c511f3c00fa8526ac6e4c06fb6bc639354e
+{"old": "absent a signed Change Order.", "new": "absent a signed Change Order, and Client shall not be responsible for any fees or costs  related to any work performed by Agency which is not subject to an approved SOW.  "}
+### d8e56741323d6db8fddf3adb1c425d6c19bf067bdcf3fdde10333ebd5874a4d5
+{"old": "accountants who", "new": "accountants and, in the case of the Ambassador, her business representatives, in each case who"}
+### 863171d23e2a4156b28b017bb2371422c65d9255ac6abd1a9b5c387dab4b50d5
+{"old": "prior written consent.", "new": "prior written consent; provided that this restriction does not apply to governmental or other non-corporate funding or to internal or student research."}
+### 45859d0db3d1463d9705b5671be963ca64a4be6267336b0a50821cd7aed1483d
+{"old": "solely by means of the exhibition methods set forth herein", "new": "by any means, including festival and awards exhibition, at no additional consideration"}
+{"old": "For clarity, Producer shall have", "new": "For clarity, except for festival and awards exhibition permitted as in-context advertising and promotion above, Producer shall have"}
+### feeb5496f7e578d20b31449668cc17f9a14be2f0408da9cc0622afd25acafce9
+{"old": "on behalf of Landlord to Tenant.", "new": "on behalf of Landlord to Tenant; provided that, if the failure cannot reasonably be cured within thirty (30) days, Tenant shall have such additional time as is reasonably required if Tenant commences cure within that period and diligently pursues it to completion."}
+### a5b72fa48cc5c36bca3b5740b97ecb3269c3e6a8d83913e2937db4a4c9be1218
+{"old": "Binding Effect.", "new": "24.3\tBinding Effect."}
+### 97a73424750c9fd29b293ddcf10c2f9eeab876f158a2259ec814922c2abe33b9
+{"old": "or repossession.", "new": "or repossession however Landlord shall need not prioritize reletting the Leased Premises over other vacancies or to lease it on below-market terms. Furthermore, upon a termination of this Lease resulting from Tenant’s default, Landlord shall be entitled to recover the unamortized portion of the rent abatement and any other transaction costs actually incurred by Landlord in connection with this Lease."}
+### 261fdbd2dd2eb0da7bb3752a1cf83990dae96bfd7c467b7623254c9c7b1f7249
+{"old": "provide feedback on", "new": "approve or reject"}
+{"old": "Failure to respond within this period shall constitute approval.", "new": ""}
+### f7295e31bb40927172aa140ae3adcf26a411ef895bafd039b2b4ddacacff3325
+{"old": "Except for removing", "new": "Except as provided in Section 7.2, for removing"}
+### cfabb889a9304ec9ebfafebae8ad6f9f252992c4aa41bef79b1c5211bafd701b
+{"old": "Subject to Section 4.5, each Party may exploit Joint Foreground IP without accounting to or seeking consent from the other Party, to the maximum extent permitted by applicable law.", "new": "Neither Party shall grant a license or sublicense of any Joint Foreground IP to any third party without the prior written consent of the other Party, such consent not to be unreasonably withheld, conditioned, or delayed, and deemed given if not denied in writing within thirty (30) days after receipt of a written request identifying the proposed licensee."}
+### 801915c1a0b1e9c6a49ff5579be78ae18153060d9d416cbc798e223311200f85
+{"old": "within sixty (60) days", "new": "within thirty (30) days"}
+### 8f3573cdd271b8ea3a6d806282e542193ed4b3dfc2645d5029b66c592ef374c4
+{"old": "relieve you of your obligation to pay Thomson Reuters or its agent any amounts you owe up to and including the date of termination", "new": "relieve Company of its obligation to pay Darkside any undisputed amounts properly due for Services performed up to the effective termination date"}
+{"old": "those that expressly state shall survive", "new": "that expressly survive"}
+### 71cfa4b1fb75ff4fe61115b3799ace9bcec386484d78aff032b09cbdb6e8c476
+{"old": "(non-binding)", "new": "(Committed Turnaround)"}
+### 4a6a445a78e27ef79b487cfe7f2e0377ffc09d4242ab7a77958dc262c28e7468
+{"old": "five (5) days after", "new": "five (5) business days after"}
+{"old": "twelve percent (12%)", "new": "eight percent (8%)"}
+### 4f571c36cee31d1d85249115e2b64e75045f9c59e4f9d30613101be2b96d52b3
+{"old": "Right of First Negotiation. Calloway will notify Licensee of any Improvement Calloway makes available for licensing. For a period of ninety (90) days after such notice, Licensee has the exclusive right to negotiate a license to that Improvement on commercially reasonable terms to be agreed by the Parties, including an additional license fee or royalty specific to that Improvement. If the Parties do not execute a written amendment incorporating the Improvement within that ninety (90) day period, Calloway may license the Improvement to any third party, including a competitor of Licensee, without further obligation to Licensee.", "new": "Automatic Inclusion During Enhancement Window. All Improvements conceived or developed by or on behalf of Calloway during the Enhancement Window are automatically included within the Licensed Technology, without requiring a separate written amendment, subject to an incremental royalty adjustment not exceeding one (1) percentage point over the running royalty rate set forth in Exhibit A."}
+### d3d961b24c2cc0922a41c60bb12c2cf58cfc9ba913697a12e592130494c31317
+{"old": ". Platinum may use, retain", "new": ". Only in cases where Platinum performs statistical aggregation of Client’s data with at least ten other customer’s data before use, and where such data is not attributable to the Client or any other customer, Platinum may use, retain"}
+{"old": " without restriction and without further consent from or compensation to Client,", "new": ""}
+### 2f2604000b4d7a41f9e00a91d352d98582ae2a1ef1ed2ecebaa1f0099e44c481
+{"old": "five (5) business days", "new": "two (2) business days"}
+{"old": "scheduled posting date.", "new": "scheduled posting date, and Agency shall respond within twenty-four (24) hours. If Agency does not respond within twenty-four (24) hours, the Content shall be deemed approved to post."}
+### 39f5845bf2f49b2b880d8d3ef24a72a01116f80da72c9d3d5f5c34f3c4e99650
+{"old": "Landlord may relocate Tenant during the Lease Term, which in the opinion of Landlord is essential to the continuing success of the Center, in Landlord’s sole and absolute discretion.  In this event, Landlord will give Tenant no less than sixty (60) days prior written notice, to provide Tenant with new premises within the Center which shall be similar in area and at the same rate of the Base Rent and Direct Costs (based upon a pro rata adjustment for the size of the new space, compared to the old space, on a square footage basis).  Tenant shall have the right to accept or reject the new premises, by providing Landlord with written notice of its decision within twenty (20) days of delivery of the notice by Landlord.  Should Tenant reject the offer for new premises, this Lease will automatically terminate, and Tenant shall surrender possession of the Premises to Landlord, before the sixty-first (61st) day after Landlord’s original notice to Tenant.  If Tenant accepts the relocation, Landlord and Tenant shall coordinate the transition to the new space, execute an amendment to this Lease reflecting the same, and Landlord shall reimburse Tenant for the reasonable cost and expense of building out the new premises in a manner similar to that of the Premises, the actual cost of relocation, and for the reprinting of stationary.", "new": "[intentionally omitted.]"}
+### d378bb1d67fe4c86cb2c16e3b65aee28b0b64a304b18c459d9d545d0564166a3
+{"old": "shall the aggregate ", "new": "shall the aggregate controllable "}
+{"old": "three percent (3%)", "new": "five percent (5%)"}
+{"old": "over the aggregate ", "new": "over the aggregate controllable "}
+{"old": "non-compounding basis, regardless of the category of expense giving rise to such increase.", "new": "compounding basis. Real estate taxes and assessments, insurance premiums, utilities, and snow and ice removal are not controllable Operating Expenses and are excluded from this Section 4 in all cases."}
+### 8ee14a87e146b3e704d0e3b4cbc0581688493d81998ab5a0543f64a9d7ed4eb0
+{"old": "prior written consent.", "new": "prior written consent, provided that Sponsor’s consent is deemed given where substitution of a graduate researcher arises from departure, illness, graduation, degree completion, or other academic progression event outside Calloway’s control, and Calloway gives prompt written notice and proposes a comparably qualified replacement."}
+### 885884cf1e35befb34e129b3c7852f475c924fae9d4077a2d12a5aba848dd506
+{"old": "In no event shall either Party be liable to the other Party for any amount in excess of the amount", "new": "Subject to clause 9.3, Company’s aggregate liability arising out of or in connection with this Agreement shall not exceed the Fees"}
+{"old": "twelve months", "new": "twelve (12) months"}
+{"old": "giving rise to such liability, provided that neither (i) damages resulting from a breach of confidentiality obligations, nor (ii) liability under the indemnification provisions of this Agreement, shall be subject to any such cap.", "new": "giving rise to liability, and Darkside’s aggregate liability shall not exceed two hundred percent (200%) of the total Fees paid or payable under this Agreement. Neither cap shall apply to liability for breach of confidentiality obligations or arising from wilful misconduct or gross negligence. Darkside’s cap shall also not apply to its liability under clause 10.2 to the extent arising from infringement or misappropriation of third-party Intellectual Property or to its breach of data protection or security obligations."}
+### 2cdcb3cd8e8e10afe89c2e5993b836f592a5d5a5c8ab9e2d2b7494880c89f142
+{"old": "funding commitment", "new": "funding or research commitment"}
+### f3288961878a2cf5524b951f9d8c5053826b9367e4a4089f565e2b73e887ad9c
+{"old": "and not as prepayment of any rent.", "new": "and not as prepayment of any rent.  The Security Deposit shall be held in accordance with California Civil Code § 1950.7.  Provided that no monetary Default by Tenant has occurred and remained uncured beyond the applicable cure period during the preceding twenty-four (24) consecutive months, the Security Deposit shall be reduced to an amount equal to one (1) month of the Base Rent and Direct Costs then payable, and Landlord shall refund the balance to Tenant within thirty (30) days after Tenant’s written request."}
+### 6a97c5f9d995739d37cd4e4f1927437788a4db43af467d767912161546923c65
+{"old": "The Ambassador shall clearly and conspicuously", "new": "The Company shall bear primary responsibility for ensuring that all advertising and promotional content created or distributed under this Agreement complies with the FTC Guidelines and all other applicable advertising laws. The Ambassador shall, using the disclosure language the Company provides, clearly and conspicuously"}
+{"old": "or other applicable law. Such disclosures", "new": "or other applicable law. The Company shall provide the Ambassador with all required disclosures, including any campaign hashtag, prior to the Ambassador formulating post content, and the Ambassador shall be entitled to rely on the Company's approval of the Ambassador's draft content as confirmation that such content complies with all applicable disclosure requirements and the FTC Guidelines. Such disclosures"}
+### 75dce867008f8cdaa40f209b184311f370b6c878002ed88deeff319e6cc35ed4
+{"old": "Party A Internal Use. Notwithstanding Section 13.2(a), Party A may use Biological Materials received from Party B in Party A's own existing commercial programs outside the scope of the Research Program, subject to the following conditions: (a) Party A shall submit a written request to Party B describing the proposed use, including the specific commercial program involved and the manner in which the Biological Materials will be used; (b) Party B shall respond to any such request in writing within thirty (30) days of receipt, such approval not to be unreasonably withheld; (c) Party A shall not submit more than three (3) such requests in any calendar year; and (d) Party B shall have no right to audit or inspect the specific commercial programs in which Party A uses Biological Materials under this Section 13.2.1. Any Biological Materials used pursuant to an approved request under this Section 13.2.1 remain subject to", "new": "No Use Outside the Research Program.  For the avoidance of doubt, Party A shall not use CB-7 or any other Biological Materials received from Party B for any purpose outside the Research Program, including in any of Party A’s other research, commercial, or athletic-performance programs, without Party B’s prior written consent, which Party B may grant, condition, or withhold in its sole discretion. Any use so consented to shall remain subject to"}
+{"old": "(No Implied License).", "new": "(No Implied License) and to Party B’s right to audit such use upon ten (10) business days’ notice."}
+### a6b22da8f7e015031fb9c12da111d84eb11298f5740a09e3a7a334a9324dac9d
+{"old": "permitted under Section 5.3.", "new": "permitted under Section 5.3. Confidential Information includes all non-public information disclosed in connection with the engagement, whether written, electronic, oral, or visual, without requiring formal marking. The obligations of this Section 6 shall survive for five (5) years following termination or expiration of this Agreement, provided that trade secrets shall be protected indefinitely."}
+### 9c52768fcaf123226932a4c7e345d8fad133c247bc78fdc24254381f77c9ff0a
+{"old": "to any third party, including a competitor of Licensee, without further obligation to Licensee.", "new": "to a third party, provided that Calloway will first offer the Improvement to Licensee on terms no less favorable than those offered to that third party, and Licensee will have twenty (20) business days to accept those terms."}
+### 29c4226a24273ce54d10e4b1bf2e30390bf9a0f3b708d9f623174de67823f901
+{"old": "such a Claim arises, and notwithstanding anything to the contrary in this Agreement, Company’s sole remedy shall be for Darkside to, at Darkside’s option:", "new": "of an Intellectual Property Claim under clause 10.2.1, and without limiting Company’s other rights and remedies, Darkside shall, at its option:"}
+### 9e7d218c7123a6a18609bdb3ab2886e3869c33e66d7f81664cfdf51e08ef0e5d
+{"old": "was independently developed.", "new": "was independently developed. Calloway’s pre-existing algorithms, models, and general research techniques are Calloway Background IP retained outright, and no assignment, work product, or further assurances provision in this Agreement transfers any interest in them to Sponsor."}
+### 2b8acc60d424a1a408a2c9264729028801caa94ab3d911d78b8803acdacaef8f
+{"old": "Phase deliverable.", "new": "Phase deliverable. Sponsor acknowledges that data made available under this Section 8.1 is preliminary and unvalidated, and Sponsor will bear the cost of any repository or transfer method other than Calloway’s standard repository."}
+### f064e8d12311c81c56431a02c587fbecdc2eca4f185a419c25924ef212567fc4
+{"old": "Additional Scopes;", "new": "Additional Scopes, Amendments to Work Orders;"}
+{"old": "new Certification Services, at any time", "new": "new Certification Services including in new certification scopes, at any time"}
+{"old": "as of the Effective Date.", "new": "as of the Effective Date. Additionally, Work Orders may be modified, amended, or expanded without renegotiating this Agreement."}
+### 20a7d22fc94db79c0b82e79a2c7367c49a6dae7598987c832ee5022e8f779058
+{"old": "in addition to any other relief awarded.", "new": "in addition to any other relief awarded.  This recovery of attorneys’ fees does not apply to any action related to an award of attorney’s fees to Tenant in an action related to Tenant’s obligation to pay Base Rent Additional Rent, and any other sums due under this Lease."}

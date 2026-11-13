@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e5-16fc-7ea2-b3a7-bfd5e8069a74"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The block replacement unnecessarily deletes and retypes shared phrases, including “conceived,” “reduced to practice,” and “in the performance of the Research Program.” Targeted edits could preserve those anchors while separately marking the new limitations and exclusions.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7573,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":58,"reasoning_output_tokens":0}}

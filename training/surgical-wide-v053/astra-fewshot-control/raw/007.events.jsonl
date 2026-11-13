@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dc-558a-7b70-b3ae-06290afcc842"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The markup needlessly deletes and reinserts shared phrases, including “INDEMNIFICATION OBLIGATIONS UNDER,” “DAMAGES ARISING FROM,” and “EXCEED THE TOTAL.” These could remain untouched with targeted edits to the parties, cross-references, and cap language.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":8031,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":66,"reasoning_output_tokens":0}}

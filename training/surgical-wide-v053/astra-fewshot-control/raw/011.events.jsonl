@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dc-7ea8-7963-be2b-f2403252d88e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edit deletes and retypes the defined term and the surviving cash-or-letter-of-credit language. The reduction provision could be inserted separately, with targeted changes to the delivery wording, preserving shared text.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7592,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":49,"reasoning_output_tokens":0}}

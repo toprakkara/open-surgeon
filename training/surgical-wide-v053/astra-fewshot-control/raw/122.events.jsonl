@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e2-b7e2-7792-81df-fa6d85eeb2c8"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The markup needlessly deletes and retypes the heading and “shall indemnify” around a new exception. It also replaces the entire remaining block rather than preserving shared fee, causation, and infringement language and targeting the changed scope.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7737,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":56,"reasoning_output_tokens":0}}

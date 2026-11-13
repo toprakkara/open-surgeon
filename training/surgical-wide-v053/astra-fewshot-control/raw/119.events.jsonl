@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e2-808d-7de0-bc07-2ba964b3f0c8"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire clause is deleted and reinserted even though nearly all of it is unchanged. The notice requirement and added access protocols could be marked as targeted insertions, preserving the shared text.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7622,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":48,"reasoning_output_tokens":0}}

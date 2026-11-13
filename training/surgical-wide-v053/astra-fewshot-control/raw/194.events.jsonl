@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e6-c16f-7a50-bd8f-4316675d21bc"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The insertions and deletions follow whole phrase and sentence boundaries, preserving shared text. The new Landlord obligation is appended separately without needless retyping. The drafting errors in that new sentence do not affect the precision of the markup.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7622,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":56,"reasoning_output_tokens":0}}

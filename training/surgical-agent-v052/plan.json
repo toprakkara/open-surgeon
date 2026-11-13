@@ -1,0 +1,65 @@
+{
+  "version": "attorney-surgical-agent-v0.52",
+  "registered_on": "2026-11-09",
+  "user_decision": "On 2026-11-09 the user asked for a test built the same way as Crosby's, with no attorneys. This replaces v0.51's targeted-diff negatives, which made the test about attorney style rather than redline quality. The gate record is not changed.",
+  "reference": "https://crosby.ai/blog/how-to-train-your-surgeon",
+  "crosby_method": "Items are redlines proposed by Crosby's AI agent. Restricted to cases where the agent's final text equals the attorney's, the label is 1 when the agent's tracked changes exactly match the attorney's sent-out version and 0 otherwise. Crosby's test labels were then reviewed by attorneys; that step is not possible here.",
+  "replication": {
+    "agent": "Claude Sonnet through Claude Code subagents, acting as a redlining assistant. It sees the original and the revised clause, never the attorney's markup, and writes the tracked changes inline as [-deleted-] and {+inserted+}.",
+    "agent_instruction": "scripts/agent_redlines_v052.py AGENT_TASK, unchanged across batches",
+    "same_text_restriction": "An agent redline is kept only if rejecting all changes gives exactly the original and accepting them gives exactly the revised clause. Others are dropped, as Crosby dropped cases with different text.",
+    "edge_whitespace": "When the original and the revised clause share the same leading and trailing whitespace, the agent gets the clause without it and it is restored as unchanged text afterwards.",
+    "label": "yes when the agent's canonical tracked changes equal any attorney markup of the same original and revised clause; no otherwise",
+    "class_ratio": "Natural, whatever the agent produces. Balanced accuracy handles imbalance."
+  },
+  "data": {
+    "dataset": "datasets/attorney-surgical-agent-v0.52",
+    "test": "Every fold 2 clause (484 rows, 479 unique clause pairs) with a valid agent redline",
+    "train": "Every fold 0 and fold 1 clause with a valid agent redline, for v0.52 training only",
+    "leakage_rule": "Clause pairs that occur in scenarios of more than one fold are left out, and so are training clause pairs whose original text appears in the test fold. The counts are in extraction.json.",
+    "note": "Fold 2 clauses were also used in the v0.51 test, with different redlines. No model was trained on fold 2."
+  },
+  "measurements": {
+    "metric": "Balanced accuracy, invalid outputs wrong, paragraph bootstrap standard deviation (2000 draws, seed 42)",
+    "prompt": "The v0.51 system prompt, unchanged, so the v0.51 model can be measured without retraining",
+    "astra": "scripts/run_astra_parallel.py on the ChatGPT subscription",
+    "heuristic": "core.measure with the threshold already fixed in v0.51 (81), applied unchanged",
+    "v051_model": "training/artifacts/modal-adapter-v051-27b, measured as is",
+    "v052_model": "Trained from the base model on teacher traces for the agent training items plus the v0.51 synthetic traces, with the v0.51 recipe, rejection sampling and class balance. Trained only if at least $9 of Modal credit remains; otherwise left for December."
+  },
+  "claims_fixed_before_outputs": {
+    "beats_astra": "A model beats Astra on this test only if its balanced accuracy is higher and the paired paragraph bootstrap shows it higher in at least 97.5% of draws.",
+    "otherwise": "Report the numbers and say no difference was shown.",
+    "wording": "Say the test is built like Crosby's training labels, with a Claude agent instead of Crosby's agent and attorney-match labels instead of attorney review, and that the numbers are not comparable with Crosby's."
+  },
+  "training_data": {
+    "recorded_at": "2026-11-09T22:32+0300",
+    "recorded_before": "Any output of a model trained on this data. The heuristic score was known; the Astra and v0.51 model runs were still in progress and unscored.",
+    "teacher": "Claude Sonnet through Claude Code subagents, blind to the label, one sample per item, same instruction as v0.51. 15 batches, 741 items.",
+    "teacher_missing": "The teacher skipped one item of batch-011 (b4d7dc39...). It is left out, not asked again.",
+    "teacher_verdicts": {
+      "answers": 740,
+      "yes_correct": "249/278",
+      "no_correct": "87/462",
+      "note": "The teacher called most agent redlines surgical, so few no traces survive rejection sampling. Labels were not changed."
+    },
+    "pooling": "scripts/combine_traces_v052.py: the v0.51 kept traces (311 yes, 427 no, before balance) first, then the v0.52 kept traces. A v0.52 redline with the same text as a v0.51 item is skipped (116 yes, 3 no; none with a different label). Then equal yes and no in salted hash order.",
+    "result": {
+      "examples": 888,
+      "yes": 444,
+      "no": 444,
+      "from_v051": {
+        "yes": 311,
+        "no": 369
+      },
+      "from_v052_agent": {
+        "yes": 133,
+        "no": 75
+      },
+      "file": "training/surgical-agent-v052/teacher/combined-traces.jsonl",
+      "sha256": "f23dc4bd7880ee1f03eef749001e2f5c097fa48376c2dc78f0dcea8c140c98e7"
+    },
+    "leakage_check": "No training paragraph group is in the v0.51 or v0.52 test, and no training redline text equals a v0.52 test input.",
+    "recipe": "training/surgical-verifier-v051/plan.json student recipe, unchanged (2 epochs, lr 5e-5, batch 8, r16 alpha 32, final epoch only)."
+  }
+}

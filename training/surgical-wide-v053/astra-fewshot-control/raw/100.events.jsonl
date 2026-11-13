@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e1-736b-7441-89ba-8fa95961a90f"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement needlessly deletes and reinserts shared language, including “Each Party shall,” “correspondence, inquiry, or other communication,” and “the Research Program.” Targeted edits would make the changed deadlines and regulatory scope easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7554,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":59,"reasoning_output_tokens":0}}

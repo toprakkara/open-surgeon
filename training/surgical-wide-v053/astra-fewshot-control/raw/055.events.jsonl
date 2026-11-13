@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5de-f13c-7493-a037-6975b5963441"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"Most edits preserve shared text and replace whole phrases, but the change from “14.2” to “14” leaves “14” untouched and deletes “.2” together with the following party reference. Replacing the complete section number separately would make the citation change clearer and avoid fragmenting a numbered reference.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7870,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":103,"reasoning_output_tokens":29}}

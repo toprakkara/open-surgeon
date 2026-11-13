@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dd-e52b-7830-97a2-c0374d6a6ee5"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is deleted and reinserted, although only a parenthetical and a qualification to the final sentence are added. Targeted insertions would preserve the substantial unchanged text and make the changes easy to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7775,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":53,"reasoning_output_tokens":0}}

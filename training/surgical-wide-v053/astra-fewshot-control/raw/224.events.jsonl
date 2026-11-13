@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e8-b804-7eb2-8bf6-314d8e9e6d61"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits preserve shared text and change whole words, numbers, and phrases at natural boundaries. The added qualifications and appraisal procedure are clean insertions, with no needless deletion and reinsertion.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":8075,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":47,"reasoning_output_tokens":0}}

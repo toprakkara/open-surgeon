@@ -1,0 +1,25 @@
+{
+  "plan_sha256": "08fe1d6fae6575e3ab1e9ff8c3fff9eee2ec3f8ec4f08680fe99071269b343cd",
+  "script_sha256": "27bab36aa16c41a32f9327f2882cbc0945244948379ffcb29c0c7a87dc74888a",
+  "dataset": "datasets/attorney-surgical-wide-v0.53",
+  "dataset_protocol_sha256": "d4d6b445fe6204f06d845355fa90ddb268ca9cdcf5750cab61cbecd8a19b307c",
+  "inputs_sha256": "098a149c3d36b005715606e5c818afa2a8e99290d0aa95506330a69baf794e93",
+  "runner": "modal",
+  "gpu": "H100",
+  "model": "Qwen/Qwen3.8-27B",
+  "revision": "37561816e66b5b9153b1b64c10968c18c1e6f4a0",
+  "dtype": "bfloat16",
+  "adapter": "v053-27b",
+  "adapter_tensors_checked": 992,
+  "versions": {
+    "torch": "2.15.0+cu132",
+    "transformers": "5.22.1",
+    "peft": "0.21.2",
+    "device": "NVIDIA H100 80GB HBM3"
+  },
+  "batch_size": 8,
+  "temperature": 0,
+  "thinking": false,
+  "seed": 42,
+  "max_new_tokens": 512
+}

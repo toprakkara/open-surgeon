@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dc-a51e-7801-a52d-a16e3fa130f9"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared language, including “During the Term of this Agreement, Company will,” “not disclose,” and “shall be made pursuant.” Targeted insertions and a narrower replacement would make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7604,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":59,"reasoning_output_tokens":0}}

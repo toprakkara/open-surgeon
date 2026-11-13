@@ -1,0 +1,25 @@
+{
+  "log": [
+    {
+      "epoch": 1,
+      "train_loss": 1.0660848146562025,
+      "seconds": 1182
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.8230466468924494,
+      "seconds": 2294
+    }
+  ],
+  "steps": 156,
+  "examples": 622,
+  "trainable_parameters": 116727808,
+  "versions": {
+    "torch": "2.15.0+cu132",
+    "transformers": "5.22.1",
+    "peft": "0.21.2",
+    "device": "NVIDIA H100 80GB HBM3"
+  },
+  "resumed": false,
+  "finished": true
+}

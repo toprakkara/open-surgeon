@@ -1,0 +1,24 @@
+{
+  "plan_sha256": "08fe1d6fae6575e3ab1e9ff8c3fff9eee2ec3f8ec4f08680fe99071269b343cd",
+  "script_sha256": "e82f4799d7859655cfa09955e6d14555d6ce637d3813571b011afb92e1b5eebe",
+  "dataset_protocol_sha256": "19acf03af6de171e1a4a177232017f45d1088ae5b7498388c57a9a851d268ce1",
+  "inputs_sha256": "aaf99901cd35685d0991c2e3fa81117372151baa4ad1683122e5ff1d49363175",
+  "runner": "modal",
+  "gpu": "H100",
+  "model": "Qwen/Qwen3.8-27B",
+  "revision": "37561816e66b5b9153b1b64c10968c18c1e6f4a0",
+  "dtype": "bfloat16",
+  "adapter": null,
+  "adapter_tensors_checked": 0,
+  "versions": {
+    "torch": "2.15.0+cu132",
+    "transformers": "5.22.1",
+    "peft": "0.21.2",
+    "device": "NVIDIA H200"
+  },
+  "batch_size": 8,
+  "temperature": 0,
+  "thinking": false,
+  "seed": 42,
+  "max_new_tokens": 512
+}

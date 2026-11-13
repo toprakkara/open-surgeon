@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dd-7ecd-7f32-9925-507fc98379d8"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The additions sit at natural phrase and sentence boundaries, while shared text remains untouched. The deadline changes replace whole words and numbers, and the deletion cleanly preserves “surrender of the Premises.” No needless retyping or fragmented units.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7799,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":57,"reasoning_output_tokens":0}}

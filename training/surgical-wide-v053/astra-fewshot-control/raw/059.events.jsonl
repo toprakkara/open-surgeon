@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5df-2f41-7752-8b76-7da45d28efa6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"Most edits are targeted and preserve shared text, but inserting “.2” onto the unchanged “7” fragments the section number. Replacing “7” with “7.2” as a whole readable unit would be cleaner.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7673,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":94,"reasoning_output_tokens":36}}

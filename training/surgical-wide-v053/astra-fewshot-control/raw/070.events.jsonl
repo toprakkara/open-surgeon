@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5df-c4b4-7411-b08f-f6a78599d647"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is replaced, unnecessarily deleting and reinserting the unchanged opening and substantial shared lease-restriction language. Targeted edits could preserve that text while clearly marking the revised obligations and remedies.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7661,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":49,"reasoning_output_tokens":0}}

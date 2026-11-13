@@ -1,0 +1,32 @@
+{
+  "answers": 740,
+  "kept_before_balance": {
+    "yes": 249,
+    "no": 87
+  },
+  "kept": 336,
+  "by_label_status": {
+    "yes|wrong": 29,
+    "yes|kept": 249,
+    "no|kept": 87,
+    "no|wrong": 375
+  },
+  "sources": {
+    "training/surgical-agent-v052/teacher/answers/batch-000.txt": "58d895bf7e923edfce36f1e330f18ae0b4a2bd1f7909491af463f24e698456d7",
+    "training/surgical-agent-v052/teacher/answers/batch-001.txt": "8da50966ff77df00dfc01da3a4a4b0bd87f82bf3d07bc48dc88ee9b32894d48b",
+    "training/surgical-agent-v052/teacher/answers/batch-002.txt": "7ceebad32b86e9140f5e3d821cc6cb6a2a81f3606bc55008d558eb995e0f64cd",
+    "training/surgical-agent-v052/teacher/answers/batch-003.txt": "c8354da256c6f36937aa94ee71fbc299c033a3502cb2f0859f3ecf6849a32a71",
+    "training/surgical-agent-v052/teacher/answers/batch-004.txt": "c41322e0b7b576e49d5371737867279179a9f35d8f46f9780b44f36a52f7dff4",
+    "training/surgical-agent-v052/teacher/answers/batch-005.txt": "b826b07e7b527bbf7b138c7a846dc010f64dff64e3aec95ce078bf24288722d4",
+    "training/surgical-agent-v052/teacher/answers/batch-006.txt": "f6f5251fb656c4c6402147f9782a01682f25e60693bdb0b0fcad890420d20e30",
+    "training/surgical-agent-v052/teacher/answers/batch-007.txt": "6198939a0631ccf835bbfde1438da7e60da80c22c357df52f844a9ad685dcb19",
+    "training/surgical-agent-v052/teacher/answers/batch-008.txt": "7995d5512f7112db60ee525b7fdab93defcd27772f0ff3ff27fb2506c7657616",
+    "training/surgical-agent-v052/teacher/answers/batch-009.txt": "6950b51b0da33fbafb351a5a54f592d6d03aff6b60a1e9851b2763478ea175b1",
+    "training/surgical-agent-v052/teacher/answers/batch-010.txt": "8d722c6907dd4754929fca6a254617c193cebc93f717bf4461e0027205e6e81f",
+    "training/surgical-agent-v052/teacher/answers/batch-011.txt": "89067b44acc3469a3ae05ce09ac5fe575500dbf046b48254e4c4e9370304a4e5",
+    "training/surgical-agent-v052/teacher/answers/batch-012.txt": "acceb8563f278173b5eaa781eb7bcfa40395dad77463d35bec6a28d0de0bba4c",
+    "training/surgical-agent-v052/teacher/answers/batch-013.txt": "f2ea95728bd1f1367f1f529393a25594bdfbf27a5faf6738d246108ffa88ce95",
+    "training/surgical-agent-v052/teacher/answers/batch-014.txt": "226e3debdd0db93d3b8273177e4c5932ca4980e9ec5140b556fc648e41ff05e9"
+  },
+  "out_sha256": "60dff836694a855a72addbf30cd075e7015d71f79617b92d0cb130fc7be2cc49"
+}

@@ -1,0 +1,36 @@
+{
+  "before_balance": {
+    "v051-kept-unbalanced.jsonl|no": 207,
+    "v051-kept-unbalanced.jsonl|yes": 308,
+    "v052-kept-unbalanced.jsonl|no": 3,
+    "v052-kept-unbalanced.jsonl|yes": 133,
+    "v053-kept-unbalanced.jsonl|no": 196,
+    "v053-kept-unbalanced.jsonl|yes": 27
+  },
+  "dropped": {
+    "v051-kept-unbalanced.jsonl|no|clause_in_test": 5,
+    "v051-kept-unbalanced.jsonl|no|clause_not_in_pool": 2,
+    "v051-kept-unbalanced.jsonl|no|not_clearly_wider": 213,
+    "v051-kept-unbalanced.jsonl|yes|clause_in_test": 3,
+    "v052-kept-unbalanced.jsonl|no|not_clearly_wider": 81,
+    "v052-kept-unbalanced.jsonl|no|repeat": 3,
+    "v052-kept-unbalanced.jsonl|yes|repeat": 116
+  },
+  "kept_each_class": 406,
+  "total": 812,
+  "after_balance": {
+    "v051-kept-unbalanced.jsonl|no": 207,
+    "v051-kept-unbalanced.jsonl|yes": 266,
+    "v052-kept-unbalanced.jsonl|no": 3,
+    "v052-kept-unbalanced.jsonl|yes": 114,
+    "v053-kept-unbalanced.jsonl|no": 196,
+    "v053-kept-unbalanced.jsonl|yes": 26
+  },
+  "max_user_chars": 5651,
+  "sources": {
+    "training/surgical-agent-v052/teacher/v051-kept-unbalanced.jsonl": "11cf24336bd3ce0d3986dae9062d240ded6076eafeecb1b7a382cafe7307f0fb",
+    "training/surgical-agent-v052/teacher/v052-kept-unbalanced.jsonl": "60dff836694a855a72addbf30cd075e7015d71f79617b92d0cb130fc7be2cc49",
+    "training/surgical-wide-v053/teacher/v053-kept-unbalanced.jsonl": "34edb27b2193e3365ce87ed455a1e90e11bd3cd5a4c86ad0858b14c5caeb10bf"
+  },
+  "out_sha256": "af36be7fa8adaba6a03e3c49f5b9255ccabbde6e0ae335f7f1c2bdd4bc5162fd"
+}

@@ -1,0 +1,62 @@
+{
+  "usage_example_sha256": "91150fdc32f3206afc91a5c935790b0e2e2f3c9fc6c48c4e969c647f9d0f3d4f",
+  "adapter": "v053-27b",
+  "card_example_output": "Only the payment period changes, from \"thirty (30)\" to \"sixty (60)\". The number and its parenthetical are replaced together as one unit, and the surrounding text is untouched. This is a minimal, readable edit.\n{\"surgical\":\"yes\"}",
+  "card_example_verdict": "yes",
+  "test_items": [
+    {
+      "id": "c14f3c7fd87a35f48978e6d2f839e0643d2baa973c0407edd20f76a5ebc89bc3",
+      "label": "no",
+      "verdict": "no",
+      "recorded_verdict": "no",
+      "same_text_as_recorded": true
+    },
+    {
+      "id": "5d0fdcceac23c7c929b18d6bf4f00939a7d54780f32679fe3c10ca8c1a08a69f",
+      "label": "no",
+      "verdict": "yes",
+      "recorded_verdict": "yes",
+      "same_text_as_recorded": false
+    },
+    {
+      "id": "a166a1bf224b2dbd4d6acd39900ff1dcce7460a98cb85ab1ce20fb7a5f7837ef",
+      "label": "yes",
+      "verdict": "yes",
+      "recorded_verdict": "yes",
+      "same_text_as_recorded": true
+    },
+    {
+      "id": "b3893a781784417b57d668dc85228212736181858c68283bb53c24f7c3074638",
+      "label": "yes",
+      "verdict": "no",
+      "recorded_verdict": "no",
+      "same_text_as_recorded": false
+    },
+    {
+      "id": "f0962a98478dba359ae4a739b4746999f413c152f8f5eb8ac1d46067e9ddaf1d",
+      "label": "yes",
+      "verdict": "yes",
+      "recorded_verdict": "yes",
+      "same_text_as_recorded": false
+    },
+    {
+      "id": "a29dd9fcdacf45953b41979669f8ba96a4aa54b039f6f64a53d5881408890ea6",
+      "label": "no",
+      "verdict": "yes",
+      "recorded_verdict": "yes",
+      "same_text_as_recorded": false
+    }
+  ],
+  "same_verdict_as_measurement": 6,
+  "n": 6,
+  "note": "The measurement decoded in batches of 8 with left padding; this run decodes one item at a time, so texts may differ slightly.",
+  "load_seconds": 44,
+  "total_seconds": 137,
+  "versions": {
+    "torch": "2.15.0+cu132",
+    "transformers": "5.22.1",
+    "peft": "0.21.2",
+    "device": "NVIDIA H100 80GB HBM3"
+  },
+  "completed_at": "2026-11-13T15:02:29+0300"
+}

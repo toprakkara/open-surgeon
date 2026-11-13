@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-720b-7333-9457-6e8ee2b0d4fa"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The first replacement is targeted, but the second needlessly deletes and reinserts shared text, including “months” and “the Security Deposit shall.” The financial-condition insertion and revised reduction terms could be marked separately while preserving that language.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7656,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":56,"reasoning_output_tokens":0}}

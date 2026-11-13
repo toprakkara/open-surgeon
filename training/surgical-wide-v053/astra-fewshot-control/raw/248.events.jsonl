@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e9-f8ac-7c63-9407-2945a94ce523"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The markup fragments “Any” by replacing only its initial letter and edits section references in pieces rather than as whole readable units. The first deletion also leaves the awkward phrase “broom clean condition.” These are not clean, attorney-ready incisions.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7884,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":59,"reasoning_output_tokens":0}}

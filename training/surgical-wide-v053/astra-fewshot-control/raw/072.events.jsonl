@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5df-ebe9-7ec0-8016-c6f16f4c722d"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"Three targeted replacements change whole party references while preserving all surrounding language and punctuation. No shared text is needlessly deleted and reinserted.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7671,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":37,"reasoning_output_tokens":0}}

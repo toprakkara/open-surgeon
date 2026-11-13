@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e3-8ff3-7a31-9a30-7bf88b5eba49"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement unnecessarily deletes and retypes shared language, including “in accordance with,” “plans and specifications,” and the approval standard. The revised notice procedure and new obligations could be marked with targeted edits rather than one large block replacement.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7766,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":56,"reasoning_output_tokens":0}}

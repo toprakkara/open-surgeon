@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dd-6a9c-7f72-bfac-af64589a5ce4"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The final block needlessly deletes and reinserts “supporting information” and substantial shared recapture and consideration language. Those provisions could be marked with targeted changes, with the new consent criteria inserted separately.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7730,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":50,"reasoning_output_tokens":0}}

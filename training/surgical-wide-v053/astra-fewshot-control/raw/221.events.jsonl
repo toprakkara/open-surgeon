@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e8-91cc-7be3-ae93-228dc3662994"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits insert complete phrases and a new sentence at natural boundaries, remove only “ material,” and preserve all shared text. No words are fragmented or needlessly retyped.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7602,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":44,"reasoning_output_tokens":0}}

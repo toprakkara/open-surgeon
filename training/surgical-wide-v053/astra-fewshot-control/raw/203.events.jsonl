@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e7-383c-71d2-8885-a8d04960cca8"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared language, including “shall abate,” the restoration timing clauses, and “returned in full.” Targeted edits to the thresholds, termination grounds, and abatement conditions would make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7912,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":59,"reasoning_output_tokens":0}}

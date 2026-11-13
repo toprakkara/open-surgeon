@@ -1,0 +1,199 @@
+### 84c7af1f02b06ad3c62e2773b8308703fceb29c15f03bfbe91e55ada883d4832
+The whole existing default clause is left untouched as shared text. A single insertion adds the extended cure period before the final period, so the full stop stays in place and the new language reads as a natural qualifier. No words are split and nothing is deleted. This is a precise, minimal incision that a reviewer can read at a glance.
+{"surgical":"yes"}
+
+### d33ac69e585de6e4c9da2ec16abde7df6e5653b80b44150ec4d3deb967b5b248
+The clause is rewritten through dozens of tiny alternating deletes and inserts, with single spaces and apostrophes held as equal text between them. Words like "Landlord" and "s" are removed separately from the apostrophe, and phrases such as "examination rooms" are replaced word by word with unrelated words. The reviewer cannot read the changes as coherent units. A cleaner redline would replace whole phrases or sentences instead of interleaving.
+{"surgical":"no"}
+
+### 1e023511f34463227396c57dfc1667855de5e4e035f03b683220e3110b6b75f4
+The phrase swap from "is strictly forbidden without the" to "requires" and the added proviso are sensible whole-phrase changes. However, the redline also deletes two spaces and inserts three after the final period. This whitespace change is needless noise that adds a tracked change without purpose. It slightly undermines an otherwise targeted edit.
+{"surgical":"no"}
+
+### b4a88bd71356f43cd74f3e1f73718dc72e50c1632f4953957537a22996570bb5
+Shared list text is preserved. Insertions add additional defined terms at the clause boundaries, with "or" removed from before item (d) as the list is extended. The new items (e) to (h) are appended before the final period. Changes align with punctuation and whole words, and the edit is easy to follow.
+{"surgical":"yes"}
+
+### 9c3b0cdacf2f65dc7378e31db41de8f9584fb76e889327e53604d1013a7bb3de
+The long clause stays as shared text. One insertion adds contractors and service providers after the advisors, and a second swaps "those advisors" for a longer whole-phrase replacement. Both edits fall on word boundaries and keep the flow of the sentence. This is a targeted edit.
+{"surgical":"yes"}
+
+### 198a84ed504c2596232241f322d46ba187fbc1fd83b6548ee11f511fc204ac36
+The entire paragraph is deleted and reinserted just to add a parenthetical at the end of one sentence. All of the shared text is needlessly marked as changed. The reviewer has to compare two identical blocks to find the actual edit. A single insertion would have sufficed.
+{"surgical":"no"}
+
+### b122858c7809124b391491ad843f91be13c471afc94d985b688733e479246a92
+The whole provision is deleted and reinserted, even though the only change is the appended sentence about set-off and interest. The unchanged first two sentences are needlessly marked. This forces the reviewer to re-read identical text and hides the real edit.
+{"surgical":"no"}
+
+### 047886a101142d0cfb3262efcecdd8fd45cc14b24b821d3445b0687448c71751
+The redline keeps shared text and removes specific warranties as whole phrases, such as "timely, workmanlike, and", the viruses list, and items (g), (i) and (j). The insertions add knowledge qualifiers and "as delivered" at clean word boundaries. No words are split and the incisions follow the list structure.
+{"surgical":"yes"}
+
+### d8ea4fb5f3c06a1f1cb9483c8fb014cb49a93ccc828f0b24f4192c107c80b9f6
+The changes are whole-phrase swaps: the default condition, "opts to exercise" to "exercises", "ninety (90)" to "sixty (60)", and the final transferability sentence. Numbers are replaced as units. Shared text between these is untouched. The edits are readable and well bounded.
+{"surgical":"yes"}
+
+### 3ec01913e14e6cba93fe55a0017b63aec5dee3120935eabc5dff41b34110fcee
+The whole assignment paragraph is deleted and reinserted although much of it is retained. Shared phrases such as the opening restriction are marked as changed. The reviewer must hunt for the added parenthetical, the subclause (b) and the subcontractor sentence. Targeted insertions would have been far clearer.
+{"surgical":"no"}
+
+### dd5aab447820979464a6f584870c4ee1c8aee04248604342941036add294c7a2
+The redline shreds words into character fragments, keeping letters like "l", "s", "n re" and "co" as equal text between inserts and deletes. Words such as "Leased", "commercially" and "customary" are split. The result is unreadable and does not present whole units. A clean replacement of the clause would have been better.
+{"surgical":"no"}
+
+### 378518b9e75291de4e3a74a2172eb9e1307e97725dece20326f72b4fac9f91f9
+A single insertion adds "by Agreement between parties" before the final period. The rest is shared text and the punctuation is respected. It is minimal and readable.
+{"surgical":"yes"}
+
+### 22cb955b0a0f3146a474e2bdad901bad7afc0413aec9fd98c9555725b02b8510
+The entire sub-clause is deleted and reinserted to change the final sentence and add a reciprocity sentence. The identical first two sentences are needlessly marked. Only the tail of the clause changed, so equal text should have been preserved.
+{"surgical":"no"}
+
+### 4d1a4b5adec3c90b4e009b450d51ad94c6b27567730604ae6d77dfad09c94af2
+The shared sentence is preserved. The specific list of foods is deleted as a phrase and replaced with "food and beverages". The change is on word boundaries, requires no fragmenting, and is easy to read.
+{"surgical":"yes"}
+
+### b00b0453942f9ebfed718fa2e96d3f0a85ce42711a40473daa0e15f413c5d9c3
+The revision is carried out by replacing individual words one by one, with leftover words such as "testing", "certification vendor" and "written" kept as equal text in the middle of a new sentence. The possessive "Calloway'" is deleted with the apostrophe while "s" is retained, splitting the unit. The interleaving makes the result hard to read. A phrase-level replacement would be clearer.
+{"surgical":"no"}
+
+### 42221a0febc8d9fd5298ff9c42ad4853784eeaa8a868d83cf864fd1f8d3e42ae
+The edits are small word-level changes. "and " is deleted, a list continuation is inserted after "business information", and a phrase is inserted before "disclosed". All incisions are on word boundaries and shared text is left alone. The insertion placement is somewhat awkward but the units are intact and the redline is compact.
+{"surgical":"yes"}
+
+### 9d07f8c0c7a4a78755ace326409f783d617a061326a090e5cd901ff08066772c
+The shared opening is preserved. "immediately" becomes "promptly" as a clean word swap, and the long remedy clause is deleted as a block and replaced with the new cure and no-offset language. The replacement follows the sentence structure and punctuation and does not split words.
+{"surgical":"yes"}
+
+### 7a9e5b042e507faa6d72e7ee6481035967b0dc7c2d9dbc02a9684efc1d51199b
+The sentence is reworked through alternating single-word swaps such as "fully"/"abate", "abate"/"in proportion...", "are"/"or" and "restored"/"common-area". Words are moved around rather than replaced in readable units. The reader must reconstruct the sentence from interleaved pieces. A cleaner phrase-level replacement is called for.
+{"surgical":"no"}
+
+### fc76c6d197743a3be6adf92a85c5c08899126d381418cce58c3730cf0f666516
+The last sentence is rewritten word by word, with scattered equal words like "THIS", "TO", "OF" and "OR" held between replacements. The result is an unreadable mixture of deleted and inserted fragments. The numeric change from "25" to "250,000" and the later "$500" with ",000" kept are also split. A single block replacement would have been clearer.
+{"surgical":"no"}
+
+### ff79f33c941b643db282ee919bc0343dce4fde35f7d6cb408639c6df0b418b0e
+The number is changed as whole units: "three" to "five" and "3" to "5". Everything else, including parentheses and the trade-secret exception, is shared text. Both changes are precise and keep the word and numeral consistent.
+{"surgical":"yes"}
+
+### 2087232001ac9c44936dbd46eb4483f38de1d5df668c86a61fa188dc460e5e5d
+The whole paragraph is deleted and reinserted although only the last sentence changed. The long shared clause is needlessly marked. The reviewer must compare two near-identical blocks to find the edit.
+{"surgical":"no"}
+
+### 18da995e5b1eb4f094afcc9cd875485eed65efe5fe544b1272e8581fec2a7fc5
+Shared text is preserved. One insertion adds the thirty-day period, " and" is removed as a clean unit to fix grammar, and a refund clause is appended before the period. Each change is on word boundaries and follows the punctuation.
+{"surgical":"yes"}
+
+### 28fb133860578f03ba502b7e9b63ae0cc819f4e353ce9c5db780987c2f5a04a5
+The phrase "this Lease commences" is changed to "the Rent Commencement Date occurs" through word-level swaps that leave only the spaces as shared text. Each swap is a whole word or defined term, so no fragments are created. The result reads cleanly and the scope is narrow.
+{"surgical":"yes"}
+
+### 3ae23bbe6fb7421652547371d4d4ca1e24bbab0d6175a044713b10f0255c7d86
+Deleting "mechanics, " and ", game software" is clean. The last deletion, however, keeps the letter "a" as shared text and splits "and" and "all": "a" equal, "nd the rolling puzzle archive, a" deleted, "ll" equal. This breaks whole words into fragments. The deletion should have been "and the rolling puzzle archive, " as a unit.
+{"surgical":"no"}
+
+### 2d7aebeb2880cde2e1a74e995b25319886d8d945308fb81ac336336e65c0a497
+The whole disclaimer paragraph is deleted and reinserted, although several sentences are carried over. Shared text is needlessly marked, hiding where the warranty language and proviso were actually changed. The reviewer cannot easily see the differences.
+{"surgical":"no"}
+
+### 83d905c02b680bbde38165d7db3177b57fc00537439923befc97c1988040a455
+The heading is shared and the single sentence is replaced with a new one. The replacement is a whole-sentence swap on sentence boundaries. It is compact and easy to read.
+{"surgical":"yes"}
+
+### 9ca80fc6aba708fb083450cfc77b1730145b53c574b25da152c85ff5f153fbd8
+This redline is shredded into character-level fragments, with letters like "N", "o", "t", "i" kept as equal text between inserts and deletes. Words such as "Negotiation", "Enhancement" and "exclusive" are built from scattered pieces. It is unreadable. A clean replacement of the clause would be required.
+{"surgical":"no"}
+
+### 0240189abc535b46f5ba871ffd367baf7b7023b0c94cc58cf123edee970fe5cd
+The state name is changed by deleting "Colorad" and inserting "Ohi", keeping the final "o" as shared text. This splits the word into a fragment. The whole state name should have been replaced as a unit.
+{"surgical":"no"}
+
+### cc18ce88294c90e283feb004489d3f537473001e8c1cf77dc7a05d24fb64b9ae
+The entire paragraph is deleted and reinserted just to append new sentences on consent and review rights. The identical first three sentences are needlessly marked. A single insertion at the end would have been precise.
+{"surgical":"no"}
+
+### 705e17fa5ece8eb18cd9c9051d162975fc3e7e497491bba2b245e6b1d4674f97
+The edit changes "any third party" to " third party" by deleting "ny " from the word "any" and inserting a space, leaving the "a" as shared text. That fragments a word and is odd. The tail replacement is otherwise fine, but the split of "any" shows the incision is not on readable units.
+{"surgical":"no"}
+
+### 776cf2e6fa4260bfcd0728e52205ab82461aaecc9c113d909c09348d42dc7de9
+A single insertion of ", tools" extends the list of items. Shared text is untouched and the comma follows the list punctuation. It is minimal and readable.
+{"surgical":"yes"}
+
+### 501c582b07364f76905803071e1e40162a816b13ffac2966ddd5c6eed0b800d3
+The entire assignment clause is deleted and reinserted though most text is the same. Changes such as "Ee L. Kew" to "either party" and the added "reorganization" and "or equity" could be tracked as small edits. The block replacement needlessly marks shared text.
+{"surgical":"no"}
+
+### 1e6b81da39b9dc38cc1de8caa4daea022b0ac5b881c6b603878d87c4ed5d6a99
+The section number is preserved. The old heading and sentence are deleted and replaced by a new heading and sentence, since the substance is entirely different. This replaces one whole short provision with another and does not touch shared text. The block replacement fits because nothing carried over.
+{"surgical":"yes"}
+
+### c759a257096af17b8952bf027a5f4c1548d97533622e9e122087bf6af5448d41
+The redline shreds words, keeping fragments like "er", "a", "o" and "se" between inserts and deletes. "Neither Party" becomes "Imperial" through partial letters, and "Darkside" is split into "D" and "arkside". The result is unreadable and not whole units. A phrase-level replacement is needed.
+{"surgical":"no"}
+
+### e97a5ef8e8e0f04f6580fdebd06e96772155ac3d9f3d3b9fc5f8be9127b5c166
+Many edits split words and apostrophes, such as "g|r|o|s|s" turning into "accreditation" through inserted letters while "r", "o" and "s" remain as equal text. Straight apostrophes are swapped individually and "Platinum's" is built from fragments. This makes the redline hard to read. Whole-word replacements are needed.
+{"surgical":"no"}
+
+### 510840f4410e0670f8a6874ee53766dd3851375da37cd490d49a7a8c8da5b9b6
+The redline is broken into character fragments: "o" to "identi" with "f" kept, "k" to "wr" with "i" kept, and many similar splits. Words such as "identified", "written" and "approved" are assembled from scattered letters. The result is unreadable. A clean phrase replacement would be better.
+{"surgical":"no"}
+
+### 3b335fff5b5b024969f8491852fb6a0ca1146a28fb5d0709c24b8002d6e8c192
+One insertion adds ", itemized" after "reasonable", matching the list punctuation, and a stray space in "$ 100.00" is deleted. Both are tiny and on clear units. Shared text is untouched, so the edit is precise.
+{"surgical":"yes"}
+
+### c2da2023a3e3f9feb49ce8e25f4830c956b07d2558c7598611d3a1a361fe0599
+The existing sentence is left intact and the new sentences are added as one insertion at the end. No shared text is touched and sentence boundaries are respected. It is clean and minimal.
+{"surgical":"yes"}
+
+### 289b83e67d6363890a3ca1ee60ebba0503fe1d29db93152cbbcf814707808c8a
+The condition clause is rewritten through character-level fragments: "AS-IS" is deleted while letters of "deliver", "clean" and "swept" are assembled from kept and inserted pieces. Words are split and the result is hard to read. A phrase-level replacement would be much clearer.
+{"surgical":"no"}
+
+### 9db1eff4400d38a8261d177a5919bad289a14afb9a8c10f8dea1ae3bce3c9761
+The final period is replaced by a semicolon and a proviso. This is a clean, small change at the sentence end. The shared text is kept and the punctuation is handled properly.
+{"surgical":"yes"}
+
+### c0b203831f0b2da74fa467721a98159e4a0b29bca4c2a95755730a538e884d17
+Two insertions are made: a parenthetical after "this Agreement" and new sentences at the end. Shared text is untouched and nothing is deleted. Both insertions are on clean boundaries.
+{"surgical":"yes"}
+
+### 0e348cfa24b3c356ca56e2ea5d63f9118199bbcc2dbf0ccd875c61739b39dfde
+Shared text is preserved. A parenthetical is inserted, " two (2) times" is deleted as a whole unit, and the carve-out list is trimmed by deleting whole phrases. Each edit is on word and phrase boundaries and follows the punctuation.
+{"surgical":"yes"}
+
+### e5622e9f27708bd934eeb592df89dd25005ec1c79d24332242a619ab97b7ee7f
+Edits are small and phrase-based: the counsel selection language is replaced, "third-party" and "outside" are inserted, and "therefrom." becomes "therefrom, but only to the extent caused by Tenant." The last swap re-deletes "therefrom" unnecessarily, but the units remain whole and readable.
+{"surgical":"yes"}
+
+### 2a39b08bf3995abd956caaf8ed17c50b5e680ecf6c460816cc3e8d109955a66c
+A single deletion removes the trailing clause before the final period. Shared text is retained and the punctuation is respected. It is minimal and readable.
+{"surgical":"yes"}
+
+### 982d3d63f43282628c7f18ff9f87308830e94b83b7e4df3a4e09404a33d88420
+The entire section is deleted and reinserted though the only change is removing the trailing cap reference. The shared text is needlessly marked, and the final period is dropped. A single deletion would have done.
+{"surgical":"no"}
+
+### 815699f5e561d4aed9d604a671bab7f44bdf8740001a84774b32b7f1ea73e643
+The whole section is deleted and reinserted even though only a heading word and added sentences change. The identical first sentence is marked as changed. Small insertions would have been more precise.
+{"surgical":"no"}
+
+### 138985414f0d1330b8a1b984d3c1353b2d9b7987ae6d33c7ad98f7bdab1472e0
+The existing text is untouched and the new representation and notice sentences are appended as a single insertion. No shared text is marked, and the edit is easy to review.
+{"surgical":"yes"}
+
+### 2dd9ee5258f323c0e273bb221742fef116b02df8625776436fa816e6a8c85a64
+The whole paragraph is deleted and reinserted just to append two new sentences. The unchanged original sentences are needlessly marked. A single insertion at the end would have sufficed.
+{"surgical":"no"}
+
+### 68c7e6efd74b3208075e426326908160ba13db32420df1e46250c85acb14a0aa
+Shared text is preserved. "(i) " is inserted before the existing exception and the new second exception is added after it with a comma. Both insertions are on clean boundaries and follow the sentence flow.
+{"surgical":"yes"}
+
+### e8f7026bd4a2f83a95d33d80f6f1f86bb91d0682ee5301eceb61a06763d0efeb
+Edits are small whole-word changes: "Exhibits" to "Exhibit", " and C" removed, and "or alleged breach of this Agreement or" replaced by "of". Each is on word boundaries and the surrounding text is kept. The edits are precise and readable.
+{"surgical":"yes"}

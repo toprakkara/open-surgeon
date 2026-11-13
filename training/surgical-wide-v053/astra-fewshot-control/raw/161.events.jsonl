@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e4-d504-7a31-9e1e-7e538e8491dd"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits unnecessarily delete and reinsert shared text, including “Ambassador,” “Company,” “Services,” and “live appearance content.” Targeted punctuation changes and phrase insertions would preserve those words and make the additions easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7673,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":57,"reasoning_output_tokens":0}}

@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-4eb6-7f40-ba27-4ad1e64d38b7"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement needlessly deletes and retypes shared language, including “the unamortized portion of the abated Base Rent” and “becomes.” Targeted edits to the default trigger and a separate calculation-method insertion would preserve that text.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7533,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":59,"reasoning_output_tokens":0}}

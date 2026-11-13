@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dd-a623-7720-aa60-1b71250eb214"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits replace whole party references, remove the administrative charge as a complete phrase, and append a new sentence. Shared wording remains untouched, and the changes follow natural word and sentence boundaries.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7709,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":47,"reasoning_output_tokens":0}}

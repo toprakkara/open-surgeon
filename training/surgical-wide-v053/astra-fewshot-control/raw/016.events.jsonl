@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dc-c59f-7f50-bb6c-137b765a9693"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared language, including “prior notice,” “of the Term,” and the laboratory protocols clause. Targeted insertions and a separate deletion would make the changes clearer without re-marking unchanged text.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7656,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":56,"reasoning_output_tokens":0}}

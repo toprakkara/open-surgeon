@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5ea-bc29-7600-a168-0ed5851dddad"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The first replacement unnecessarily retypes “promptly notify” and “the other Party of any correspondence.” The second deletes and reinserts “The Parties shall cooperate in responding” merely to prepend a new sentence. Targeted insertions and deletion of “material” would preserve shared text and make review easier.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7614,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":70,"reasoning_output_tokens":0}}

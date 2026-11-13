@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e8-5610-7420-b9b1-f781c559d19f"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The threshold changes and “controllable” insertions are precise, but the final replacement needlessly deletes and reinserts “basis.” A surgical markup would replace “non-compounding” with “compounding,” preserve “basis,” and separately replace the trailing qualification with the exclusions sentence.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7729,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":141,"reasoning_output_tokens":73}}

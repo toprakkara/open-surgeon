@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5dd-0c44-7b50-ab1a-6a6ffb0e4e6e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is deleted and reinserted despite most wording remaining unchanged. The added license restrictions, approval qualifier, cross-reference, and termination/payment conditions could be marked as targeted insertions while preserving the shared text.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7691,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":53,"reasoning_output_tokens":0}}

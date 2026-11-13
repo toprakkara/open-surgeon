@@ -1,0 +1,38 @@
+{
+  "answers": 1018,
+  "kept_before_balance": {
+    "yes": 311,
+    "no": 427
+  },
+  "kept": 622,
+  "by_label_status": {
+    "no|wrong": 140,
+    "yes|kept": 311,
+    "yes|wrong": 140,
+    "no|kept": 427
+  },
+  "sources": {
+    "training/surgical-verifier-v051/teacher/pilot-sonnet.txt": "c0637bd7b524d6ffb6f6c485ab0650014e61cb8c0801ecaf5c97f3c8c0b821fe",
+    "training/surgical-verifier-v051/teacher/answers/batch-000.txt": "a9953f58adf871b39cd323485b76ae3bd3fdd16289eeb7ec14183c4efdcbe9d3",
+    "training/surgical-verifier-v051/teacher/answers/batch-001.txt": "b0646083dec6c258f0aa92a3b611ee24fe9f4d3b66c32992fc2d8aff225038a2",
+    "training/surgical-verifier-v051/teacher/answers/batch-002.txt": "53f90aa4aed62cfa9fda77fc625954d32b68875eeb71ff6562f6178c91aa1ff8",
+    "training/surgical-verifier-v051/teacher/answers/batch-003.txt": "d54370d1dca565969a5786811dd805fb3b9d6cdcacea060778171b26568c91f7",
+    "training/surgical-verifier-v051/teacher/answers/batch-004.txt": "23248d21281a2eff9423fbf83b2b963412b27a5f602abea45192281fc918bf99",
+    "training/surgical-verifier-v051/teacher/answers/batch-005.txt": "8b09b92a4ffef64842791c4fdeffd585a1d52e5a3ecde6ba609bfd12e6c15a07",
+    "training/surgical-verifier-v051/teacher/answers/batch-006.txt": "31d5701bddaf361c486672d49c16d79fd49d84d59fd606f9afed2732ca2ed87d",
+    "training/surgical-verifier-v051/teacher/answers/batch-007.txt": "71634d2e8fcad3c4673001c63b1cfabd8a40f79a5ce0246a999f3d519395c0d1",
+    "training/surgical-verifier-v051/teacher/answers/batch-008.txt": "dcf20a85918233339cd63d7c3fbf8cff38df54af8d5590a73e404291ebe3d5f9",
+    "training/surgical-verifier-v051/teacher/answers/batch-009.txt": "2de9129eb1e2b2b0c5928388be886bcc1f6912e27f469ba668a0a66db9ef07ec",
+    "training/surgical-verifier-v051/teacher/answers/batch-010.txt": "a402c63dbdf0d1374d7501df8bd11def2cd5eb0bf9afd009ae63f24531a8385c",
+    "training/surgical-verifier-v051/teacher/answers/batch-011.txt": "2129d6005bbfcf5b1bb0cc87a5c650e759e349a6838b21e1fea8dae31db31211",
+    "training/surgical-verifier-v051/teacher/answers/batch-012.txt": "0bf58bc035b50091753715717289096af215ebd754a2021897e575d4afe7bf0d",
+    "training/surgical-verifier-v051/teacher/answers/batch-013.txt": "6ea63f4dc6f5406989fa15bb961d7c5a6c5f232847c9c1d0784f11e366d07996",
+    "training/surgical-verifier-v051/teacher/answers/batch-014.txt": "ca00872306c33fea8d53d7cf42fe00409ed260b65dd3c4f79fb708b173f2de47",
+    "training/surgical-verifier-v051/teacher/answers/batch-015.txt": "694438fd9d005606fa2da47130b6352ea70af1aabe1fdac71d06c8a1f2e273d8",
+    "training/surgical-verifier-v051/teacher/answers/batch-016.txt": "4657f325c293f96bf3307ee2c769e8e99b0880febb043af23887ae1e8f148253",
+    "training/surgical-verifier-v051/teacher/answers/batch-017.txt": "3808724e5923bc14a7a2df802d3423ed2cd007970d292ddbcf5bd52c04ab7c30",
+    "training/surgical-verifier-v051/teacher/answers/batch-018.txt": "6221e8e44009e3d3a130de89aeb26d2ddf82cadfd1461282ce603079714ece3f",
+    "training/surgical-verifier-v051/teacher/answers/batch-019.txt": "e815d8d177eb311fbe865c5c7c619257287046897912e4ea37d0e1c7a0cbfc1f"
+  },
+  "out_sha256": "a9e5026bad2b1afb4c58274e48b5f0ce5d9bab89171064218c35ccfa8cc1e5fe"
+}

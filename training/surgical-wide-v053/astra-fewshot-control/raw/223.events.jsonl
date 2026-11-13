@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e8-b41b-72d0-a02c-95b74f4aaa91"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The first replacement needlessly retypes “for review and approval” and “prior to any” instead of inserting the notice period. The larger replacement also deletes and reinserts shared approval language rather than preserving it and targeting the changed standards.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7634,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":57,"reasoning_output_tokens":0}}

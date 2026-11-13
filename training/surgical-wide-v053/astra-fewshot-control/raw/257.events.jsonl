@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5ea-675e-7c20-8710-c4bf0e376b37"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire provision is replaced, unnecessarily deleting and reinserting shared language such as “Provided Tenant has not,” “during the preceding twenty-four (24) months,” and “the Security Deposit shall.” Targeted edits would make the changed conditions, timing, and reduction amount easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7622,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":67,"reasoning_output_tokens":0}}

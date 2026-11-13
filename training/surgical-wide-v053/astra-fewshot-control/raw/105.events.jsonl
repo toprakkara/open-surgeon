@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e1-b44e-72f3-92d6-72986d0a99cb"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is deleted and reinserted even though only the language after “any Event of Default” changes. The heading, opening language, and full replenishment sentence should remain untouched.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7535,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":48,"reasoning_output_tokens":0}}

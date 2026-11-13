@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c555-bf88-7303-a9c0-c288203e2216"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The redline unnecessarily deletes and reinserts the unchanged heading and shared clause language rather than targeting the changed notice requirements.\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":5064,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":55,"reasoning_output_tokens":20}}

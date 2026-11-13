@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c558-6b5d-76f3-b88a-b80f1309ea34"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement needlessly deletes and reinserts shared language, including “personnel, contractors or invitees” and “from any breach of this Lease.” More targeted changes would make the substantive revisions easier to review.\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":5133,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":73,"reasoning_output_tokens":19}}

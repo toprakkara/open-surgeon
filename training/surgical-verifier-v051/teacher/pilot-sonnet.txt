@@ -1,0 +1,79 @@
+### 70515fa5e83565105c992f2e202d980deafac10582109f9bd704acf959170560
+The entire Assignment paragraph is deleted and then reinserted in full. The only real change is a short added phrase after "without the consent of the other Party" ("or in connection with any reorganisation, merger, or sale..."). Everything else, including the final sentence about consent, is identical text that was needlessly struck and retyped. A reviewer must compare two long blocks to find one clause. The incision should have been a single insertion at the right spot, so this is not how a careful attorney would send it.
+{"surgical":"no"}
+
+### 0c66ebbaf1743016915977722662fd7e2ff9608f0a33421b7a319a3eda25f7d1
+The shared sentence is left untouched. Two small changes are made: "eight " becomes "four " and "(8%) " becomes "(4%) ". Each change swaps a whole readable unit, a number word and its numeral, and the unchanged word "percent" sits between them. No fragments are split, nothing is deleted and reinserted needlessly, and the punctuation is untouched. A reviewer sees exactly the two places where the figure moves. This is the kind of precise number change a practising attorney would send.
+{"surgical":"yes"}
+
+### 79e732fd670d1a8eeb6585ca2fe285a80d359248b9a93524af000895e135d05e
+The whole Termination for Convenience clause is deleted and reinserted. The revision adds a comma, a proviso about Agency's termination right, and extra payment qualifiers and a no-lost-profits tail. The opening title, the notice period language and the "Client shall pay Agency for all Services performed" wording all survive unchanged inside the reinserted block. None of this shared text was left as equal text, so the reviewer cannot see the actual edits without a manual comparison. This is a wholesale replacement rather than targeted incisions.
+{"surgical":"no"}
+
+### 84e758cda7a6377deebf2e2114aafd84f10e11cd3e5567dc04a31f9bdb60f841
+The deletion of "expiration or earlier " and the insertion of " for material breach by Producer" are sensible whole-phrase edits. The problem is the third change: the space after the comma is deleted on its own, which leaves ",all rights" once changes are accepted. That breaks the document's punctuation and spacing flow and looks like an artifact rather than a deliberate edit. The survival clause at the end still refers to "expiration or earlier termination", which this redline leaves inconsistent. The stray space deletion makes this not ready to send as marked.
+{"surgical":"no"}
+
+### 9ec01ecbf2b5caf4cf0fef1ef63d37d87017e7c626db1cc124dd5b3e8b71fe12
+The only substantive change is removing the words "or termination" from a single sentence. Instead the whole sentence is deleted and reinserted, with every other word identical. The shared text, including the section reference, is touched needlessly. A surgical version would delete just "or termination " (or the comma and words around it) and leave the rest as equal text. The reviewer has to read the full sentence twice to spot the difference.
+{"surgical":"no"}
+
+### dba32885eab2bef2be65ea67c25386eb6ae536f9051014e2d8aba991c31955a3
+The edits are word-level: "No " is removed from the heading, "Nothing in this" becomes "This", and the closing clause is deleted. The heading and shared middle text stay untouched, and the units replaced are whole words. However, the final deletion starts after the comma and space that follow "Leased Premises", so once accepted the sentence ends with a dangling comma and trailing space. The incision does not follow the punctuation, and the comma should have been removed with the clause. That leftover makes the markup incomplete as sent.
+{"surgical":"no"}
+
+### c4a2f5b538219b1ef50e3ca74eddcd99ffdf1a98dddb7e175f3ba71133b6fcfe
+The change is from section number 4.2 to 4.1, but it is marked by deleting the lone digit "2" and inserting "1" between the shared "4." and the shared text. A section number is a single readable unit. Splitting it leaves the "4." as unchanged text and tracks only a fragment of the number, so the reviewer sees an odd single-character change and not the reference changing. The whole number "4.2" should be replaced by "4.1" as one unit.
+{"surgical":"no"}
+
+### 7d9b14a7c80f98b8bf20d5c19f7d6ad2886597bbc85c809c9adeac48cfc64f8d
+The first insertion, the day-for-day extension parenthetical, is clean. The whitelisting passage, though, is shredded into many single-word swaps: "and" to "unless", "hereby" to "consents", "agrees" to "in writing", "provide" to "such", "Company" to "“whitelisting”", and so on. The unchanged spaces between them act as anchors, so the markup reads as scattered word substitutions that do not correspond to the actual meaning change. A reviewer cannot follow the new sentence from this. The tail should have been one deletion and one insertion of the clause.
+{"surgical":"no"}
+
+### d456b2075fbcb7c1570f0fc334e3698bac05c5b0dada118f0194ec5314ff792c
+The ownership sentence is rewritten as a long run of one-word substitutions held together by shared spaces: "including" to "and", "Testing" to "Platinum", "Data" to "hereby", "specific" to "assigns the same", "license" to "Client-Specific", "granted" to "Methodology", and a stray "2" to "4". The equal text consists largely of spaces and function words, so the markup is confetti. A reviewer cannot read what changed without accepting everything. The section reference is also split to a single digit. This is not how an attorney would present it.
+{"surgical":"no"}
+
+### 57ae45df92e206be1e047d7772e4c4a9abb4c4f8b1ce6167465b35a5caafd48e
+The existing text is untouched and the new delivery schedule sentence is added at the end, which is the correct kind of change. The problem is how the insertion is split. It is marked as "  Delivery", then an unchanged space, then "Schedule: Contractor shall deliver...". The existing text ends with a period and no trailing space, so the space is not shared text from the original. Splitting the insertion around an equal space is a needless fragmentation of one new sentence, and it adds a double space. One contiguous insertion would be cleaner.
+{"surgical":"no"}
+
+### 10297b0bca3951f551667f774f617427ed76765578f4027ab309269353ed7d54
+The first changes, deleting "immediately " and inserting the ten-business-day cure language, are fine. The rest of the paragraph becomes a long chain of single-word swaps: "at" to "upon", "any" to "thirty", "time" to "(30) days’ prior written notice", then "as" to "or", "determined" to "(y)", "by" to "fifty", "Company" to "percent", and so on. Unchanged spaces and words like "and" and "or" are used as anchors, so the markup does not match the sense of the edits. The reviewer cannot read it. It should be replaced by contiguous phrase-level deletions and insertions.
+{"surgical":"no"}
+
+### 44d99a414aec4649f5fc7e11246766636d00e457a156d957ff07b435aba3d7e4
+The whole subparagraph (e) is deleted and reinserted just to add "by Agreement between parties" before the final period. Nothing else changes. The shared text, including the item letter and the entire first part of the clause, is needlessly struck and retyped. A single insertion before the period would show the change exactly. Reviewers must compare two near-identical lines to find the added words.
+{"surgical":"no"}
+
+### 112b9002db41e07a82c45dbae0035317a5025ba97ef4fae024a197cff81c2447
+The insurance sentence is substantially rewritten, and the markup uses the unchanged words " general liability insurance " and " and " as anchors. As a result "the" becomes "commercial", a long phrase becomes "and product-liability insurance, each with limits...on a primary", and the retained " and " is then followed by "non-contributory basis...". The shared "and" is coincidental, since it now connects different ideas. The reviewer sees the new sentence stitched around accidental matches rather than as clear replacements. Given the amount of change, a cleaner replacement of the clause would be easier to review.
+{"surgical":"no"}
+
+### c7421e17cf15562566fd7903ad7772ca943f416fbe4a9ab81d51163df8479c31
+The existing Client Representations sentence is left untouched as equal text, and the reciprocal Calloway representation is added as a single contiguous insertion at the end. It starts with a leading space that follows the period of the prior sentence, which follows document flow. Nothing is deleted or retyped, no units are split, and the reviewer sees exactly the added warranty. This is an ideal targeted insertion.
+{"surgical":"yes"}
+
+### 2e9052535d54d6b7e4fc0becfa93e3eae3aac1ef8b3cb749ebaba3998a5c2c44
+The proviso is meant to follow the closing parenthetical of the definition, and the first insertion is placed correctly. But the insertion then runs "...between the date set forth in Section 1", the original period is kept as equal text, and "8 and the date of such delivery." is inserted after it. That splits the section reference "1.8" in the middle, using the existing period as a decimal point. The sentence's real terminal period is also now supplied by the insertion. Splitting a number this way is confusing and not how a careful attorney would mark it.
+{"surgical":"no"}
+
+### be01786f34877fde9428968aa60a5d0044095e3c32918d079ca2849b58b49ae2
+This converts a one-way tenant waiver into a mutual one. Each change replaces a whole readable unit or phrase: "Tenant hereby releases Landlord" becomes "Each party hereby releases the other party", "Tenant " becomes "the releasing party " in three places, "Tenant " becomes "Each party ", and "Landlord or Landlord’s" becomes "the other party or the other party’s". The long shared text between them is left alone, there are no split words, and punctuation is respected. The edits are numerous but each is purposeful and easy to read.
+{"surgical":"yes"}
+
+### 8fbd389d62bd2c9a9786b1c41fd9bfce48f4b16247e187256f6542b057e85af2
+The markup splits the word "request" into "requ" plus "est" deleted and "ire" inserted, which turns a word swap into a fragment edit. The "'s sole remedy is to " deletion and " may " insertion also produce uneven spacing around "Licensee". The new insertion before the period is long, and the closing sentence is deleted from the end while a rewritten version of it is inserted earlier, so the text moves rather than being edited in place. Splitting a word and shuffling a sentence make this hard to review.
+{"surgical":"no"}
+
+### 74abe3f2f353649bbb5bb4bd5cea4eee67aa14f921793038205f652828716617
+The entire Vendor Access Requests paragraph is deleted and then reinserted. The real change is one added phrase, "and will respond to Licensee in writing within twenty (20) business days", plus a moved period. Every other sentence is identical, yet it is all marked as removed and retyped, with only the final period kept as shared text. The reviewer must compare two long blocks to find a single insertion. It should have been one short insertion.
+{"surgical":"no"}
+
+### 3557e2e69a403d9dd433756f09892a0c5d1903e3d5d24be03221ea29676e0fbb
+The sentence is left as equal text through "under this Agreement". The terminal period is deleted and replaced by a single insertion that begins with a comma and continues with the "provided that (i)... (ii)... (iii)..." conditions, ending in a new period. This follows the punctuation exactly: the period is the natural point of change, and the conditions are added as one contiguous clause. No shared text is touched and no units are split. This is a precise, readable incision.
+{"surgical":"yes"}
+
+### 1369c2e634227078b3211536a155d74eed5e7b6137dfddefd2622dc76797c60f
+The condition clause is rewritten with a few interleaved edits. "no Event of Default exists either when " is inserted before "Tenant", the old "is not then in material default beyond any " is replaced with "exercises an option or when the ", then "notice and cure period, " is replaced by "Renewal Term begins, ". The shared word "applicable" is kept as an anchor and the long remainder of the section is untouched. Each change is a whole phrase, there are no split words, and the result reads smoothly with correct commas. Acceptable and reviewable.
+{"surgical":"yes"}

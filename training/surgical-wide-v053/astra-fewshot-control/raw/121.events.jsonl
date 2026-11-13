@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e2-ab4f-77e2-97a6-4fdc38febdb6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The first replacement needlessly deletes and reinserts “cure any Event of Default.” The second retypes “within” and “business days after written demand” when only “ten (10)” needs replacement with “twenty (20).” These shared phrases should remain untouched.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7603,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":66,"reasoning_output_tokens":0}}

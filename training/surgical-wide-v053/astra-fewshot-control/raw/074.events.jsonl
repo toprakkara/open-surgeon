@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e0-132f-7151-b078-e3c8d3947843"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The opening edits are targeted, but the latter half preserves isolated words such as “the,” “any,” and “other” across unrelated clauses and a new sentence. This fragments the replacement into awkward micro-edits. Replacing the affected clauses as coherent units would be easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7918,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":87,"reasoning_output_tokens":18}}

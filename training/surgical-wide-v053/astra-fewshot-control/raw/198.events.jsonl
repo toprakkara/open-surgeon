@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e6-eee5-7080-aedf-eb325303f57a"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire passage is deleted and reinserted despite only the final phrase changing. A surgical redline would preserve the shared text and replace “with reasonable justification” with “in her sole discretion.”\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7441,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":49,"reasoning_output_tokens":0}}

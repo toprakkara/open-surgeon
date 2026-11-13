@@ -1,0 +1,19 @@
+{
+  "before_balance": {
+    "v051-kept-unbalanced.jsonl|no": 427,
+    "v051-kept-unbalanced.jsonl|yes": 311,
+    "v052-kept-unbalanced.jsonl|no": 84,
+    "v052-kept-unbalanced.jsonl|yes": 133
+  },
+  "repeats_skipped": {
+    "v052-kept-unbalanced.jsonl|yes": 116,
+    "v052-kept-unbalanced.jsonl|no": 3
+  },
+  "kept_each_class": 444,
+  "total": 888,
+  "sources": {
+    "training/surgical-agent-v052/teacher/v051-kept-unbalanced.jsonl": "11cf24336bd3ce0d3986dae9062d240ded6076eafeecb1b7a382cafe7307f0fb",
+    "training/surgical-agent-v052/teacher/v052-kept-unbalanced.jsonl": "60dff836694a855a72addbf30cd075e7015d71f79617b92d0cb130fc7be2cc49"
+  },
+  "out_sha256": "f23dc4bd7880ee1f03eef749001e2f5c097fa48376c2dc78f0dcea8c140c98e7"
+}

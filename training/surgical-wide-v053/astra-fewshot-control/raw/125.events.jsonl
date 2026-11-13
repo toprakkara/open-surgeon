@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e2-e1f3-7941-bf22-3f2d484646d1"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is deleted and reinserted although only “ten (10)” changes to “fifteen (15)” and a reciprocal obligation is appended. Those should be targeted edits, leaving the heading and shared text untouched.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7571,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":56,"reasoning_output_tokens":0}}

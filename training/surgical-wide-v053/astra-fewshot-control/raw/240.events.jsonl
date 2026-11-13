@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e9-97d9-7cc1-b165-ee7a3d44de46"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The heading and opening clause are replaced wholesale despite substantial shared text. Targeted edits could preserve that text while changing the section references, adding subleases, and replacing “automatically” with “not.” The final proviso deletion is precise, but the unnecessary retyping elsewhere is not.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7617,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":67,"reasoning_output_tokens":0}}

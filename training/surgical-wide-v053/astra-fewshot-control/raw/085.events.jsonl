@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e0-9d0b-7512-b2e6-ba1753daa037"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"A single insertion adds a whole phrase before the existing period. All shared text remains untouched, and the edit respects word boundaries, spacing, and punctuation.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7487,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":40,"reasoning_output_tokens":0}}

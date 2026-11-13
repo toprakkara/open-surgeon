@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e5-d84d-7c31-a22c-3b9367a3f989"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The markup preserves isolated words such as “the,” “for,” and “If” while replacing the surrounding clauses, obscuring the actual changes. The new step-in sentence should be inserted separately, with “one” changed to “either” in the existing sentence. The spacing change after the heading is also unnecessary.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7943,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":73,"reasoning_output_tokens":0}}

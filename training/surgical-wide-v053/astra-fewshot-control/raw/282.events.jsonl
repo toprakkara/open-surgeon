@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-a923-75c2-b08e-df34a874b342"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The redline unnecessarily deletes and retypes shared language, including the mortgagee provision and “months of the Term.” It should target the changed durations, delete the insurance-proceeds ground, renumber the surviving ground, and separately insert the new re-offering requirement.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7651,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":63,"reasoning_output_tokens":0}}

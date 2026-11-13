@@ -1,0 +1,41 @@
+### 6eed2416c7a69fc927530b09b46728f8947cd14dbc060a2ec1ac025df247ce3c
+{"old": " by Calloway. Calloway", "new": ". Client"}
+{"old": "thirty (30) days' written notice to Client.", "new": "sixty (60) days’ written notice to Calloway. Calloway may terminate this Agreement for convenience upon ninety (90) days’ written notice to Client, provided that Calloway will complete all Work Orders accepted before such notice at the prices in effect and will comply with Section 5.4 upon any such termination."}
+### b0947141b23d458591ba48aa86ab594e2647f56cf1e140e33c69d3071e92f4fb
+{"old": "Confidentiality).", "new": "Confidentiality), and Calloway may terminate immediately, without opportunity to cure, if Sponsor breaches Article 11 (Publication and Public Disclosure) or Article 12 (Confidentiality)."}
+### 641ebd426aaf6d535de81cd314d8aac10e95ca0e16d5788308855f7653255ec0
+{"old": "common areas provided Tenant retains reasonable access to the Premises.", "new": "common areas, provided that Tenant retains reasonable access to the Premises, no alteration materially and adversely affects Tenant’s access to the Premises, the parking ratio, loading facilities, or the visibility of Tenant’s signage, and any alteration is performed so as to minimize interference with Tenant’s operations."}
+### 0267939929b4745e54db3d161c4bb334b9f2529917254316c394a724a45205c1
+{"old": "permitted under this Agreement.", "new": "permitted under this Agreement. Sponsor has no right to modify, reverse engineer, separately sublicense, or independently commercialize Calloway's Background IP."}
+### 4eec4b03ad292474f7f369458f474fec5d483b7b76d4cc9472a0fcbfd25a42b4
+{"old": "repair the roof", "new": "repair, in good order, condition and repair and in compliance with applicable law, the common areas, elevators, parking areas, roof"}
+{"old": "Building, and the Building systems", "new": "Building, windows of the Building, and the Building systems"}
+### d59c7864251d414b4ac41e4cef1e7fe1bee278e057d60e66145ed9438200d89f
+{"old": "The only warranty Licensor makes to Licensee in connection with the Software is that media provided by Licensor on which the Software is recorded, if any will be replaced without charge, if Licensor in good faith determines that it was defective and not subject to misuse, and if the media and proof of purchase are returned to Licensor within ninety (90) days of the date of purchase.", "new": "Licensor warrants that, for a period of six (6) months from the date of delivery (the “Warranty Period”), the Software will perform substantially in accordance with the accompanying documentation. If the Software does not so perform during the Warranty Period, Licensor shall, at its option, repair or replace the non-conforming Software, which shall be the Licensee’s sole and exclusive remedy under this warranty."}
+{"old": "\tTHE USER", "new": " THE USER"}
+### 3efe58e124162ba2f6e55c909afe141a0d5d7f3bce1b7cd5d590f4a23e9b21c6
+{"old": "time to time. Landlord", "new": "time to time.  Any and all rules and regulations adopted by Landlord must be equally applicable to all tenants of the Property. Landlord"}
+{"old": "areas provided Tenant retains reasonable access to the Premises.", "new": "areas provided however, Tenant retains reasonable access to the Premises, and such modifications do not materially and adversely affect the parking ratio, use of the loading areas, or visibility of Tenant’s signage.  Any alterations must also be performed so as to minimize interference with Tenant’s business activity, and during Tenant’s non-business hours to the extent possible."}
+### 456f8e61b47845d572b297c96b36c80009fa19f080e7edc402d1ade3ad5653af
+{"old": "concept(s) further", "new": "concept(s) and a prototype further"}
+### e77031c3cbd1515c60a6a3ade4a277419c00735741cbf70a2e0fc0380cbef1c2
+{"old": "exclude, in all cases, capital expenditures, reserves, depreciation, debt service, leasing commissions, and costs of a capital nature except as expressly permitted under Article VIII.", "new": "exclude reserves, depreciation, debt service, and leasing commissions, but shall include capital items required by law or that reduce Operating Expenses and capital system replacements under Section 4 of Article VIII, in each case amortized over their useful lives."}
+{"old": "right to audit", "new": "right once per calendar year to audit"}
+{"old": "three percent (3%)", "new": "five percent (5%)"}
+### 081b1982198ba8279db554eb8d7218c7e0d7b33fdc1161766393af1551ee5faa
+{"old": "during the Term, the Parties agree to enter into a long-form", "new": "during the Term; the Parties shall negotiate in good faith toward a long-form"}
+### b70dd1a3702f16354f1a81a5f24ff1a135e1e8252047efb04428e086671ade2d
+{"old": "Background IP to Client.", "new": "Background IP to Client. Agency hereby grants Client a perpetual, irrevocable, royalty-free, non-exclusive license to use, modify, and deploy any Agency Background IP incorporated into the Deliverables solely as part of such Deliverables."}
+### 35f045ee18d00d1dc5c47909f3b18be9878a709d4c1a0b23bf64fa00fe5b2f66
+{"old": "the state or federal courts located in Denver, Colorado, to enforce Section 8", "new": "any court of competent jurisdiction to enforce Section 6.3 (Aggregated Data Rights), Section 6.4 (Data Portability and Exit Package), Section 8"}
+{"old": "(Confidentiality) or Section 14", "new": "(Confidentiality), or Section 14"}
+{"old": ", without first resorting to arbitration.", "new": "."}
+### 985fd6d1e278903bd49c4c6eebfc6a0bf8be63d0e661808bc849bcbfa4bf94d7
+{"old": "the information relating to the specific Services to be provided thereunder.", "new": "the project outcomes, deliverables, specifications, acceptance criteria, timetable and Fees for the specific Services, together with all Services reasonably necessary to achieve those outcomes and acceptance criteria at no additional charge."}
+### 373a84592a3219c32aa654c80b990d749017656646c8786672f85024eb3f53a3
+{"old": "Landlord has no liability for the delay.", "new": "Rent shall be abated on a day-for-day basis beginning on the estimated Commencement Date, with the abatement increasing to two (2) days of Rent for each day of delay after sixty (60) days."}
+{"old": "two hundred seventy (270)", "new": "one hundred eighty (180)"}
+{"old": "Tenant's sole remedy is to terminate", "new": "Tenant may terminate"}
+### 9a4da6ae250a9ba3994c16e75f98910662454d8a3d886c2d459f1f0c36f881f2
+{"old": "approximately sixty-two", "new": "sixty-two"}
+{"old": "(62,400) rentable square feet comprising", "new": "(62,400) rentable square feet, comprising"}

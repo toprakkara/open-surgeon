@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5df-93c9-7dd0-b4c6-23d6b3a1fa89"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire clause is replaced, unnecessarily deleting and reinserting substantial shared language in the exceptions and liability cap. Targeted edits could preserve that language and separately insert the Ambassador’s cap.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7799,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":46,"reasoning_output_tokens":0}}

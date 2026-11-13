@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c169-7a52-7601-be53-e8248d8e241c"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The redline unnecessarily replaces the entire sentence, deleting and reinserting shared language such as “all licences” and “granted under this Agreement shall.”\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":5022,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":62,"reasoning_output_tokens":20}}

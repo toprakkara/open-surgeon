@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e9-e847-70b1-82d0-43f489fc4331"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The heading is unnecessarily deleted and reinserted for spacing changes. The notice provision is also replaced wholesale, retyping shared language such as “the affected Party shall” and “shall cooperate in investigating and remedying the Security Incident.” Targeted edits would make the substantive changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7771,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":68,"reasoning_output_tokens":0}}

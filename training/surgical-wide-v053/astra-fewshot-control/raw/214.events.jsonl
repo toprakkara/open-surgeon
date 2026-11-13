@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e8-2b4b-7383-a15f-de0aa1029ffa"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The markup preserves incidental words such as “to” and “the” across unrelated clauses, fragmenting a substantial rewrite into hard-to-follow substitutions. It also splits “Tenant’s Work” across unchanged and inserted text. Coherent clause-level edits would make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7944,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":66,"reasoning_output_tokens":0}}

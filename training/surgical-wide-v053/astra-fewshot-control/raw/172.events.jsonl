@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e5-5fa2-7010-9edb-08455eb228ca"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edits replace whole words and phrases, preserve the shared prosecution language and cooperation sentence, and integrate the new timing and ownership language at a natural sentence boundary.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7612,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":61,"reasoning_output_tokens":18}}

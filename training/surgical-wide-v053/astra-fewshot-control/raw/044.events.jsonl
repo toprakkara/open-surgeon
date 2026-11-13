@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5de-5dcb-71d0-8765-780561d4a382"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The opening replacement needlessly deletes and retypes “Tenant shall make no alteration” instead of simply inserting the exception. The later block also retypes shared consent language rather than making targeted edits. These unnecessary replacements make the markup non-surgical.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7688,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":58,"reasoning_output_tokens":0}}

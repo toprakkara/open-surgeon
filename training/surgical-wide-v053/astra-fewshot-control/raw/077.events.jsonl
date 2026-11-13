@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e0-3531-7410-b171-c48a7a07dfc3"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is deleted and reinserted although only “(no surname),” changes to “Add Surname”. The heading and all surrounding shared text should remain untouched, with a targeted replacement at the name.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7511,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":53,"reasoning_output_tokens":0}}

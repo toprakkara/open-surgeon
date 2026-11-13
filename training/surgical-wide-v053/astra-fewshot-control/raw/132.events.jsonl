@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e3-4ebb-7b22-800a-79604d83a60a"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement unnecessarily deletes and retypes shared language, including “take more than,” “from the date of the casualty,” and “Tenant may.” Targeted edits to the threshold and a separate insertion for the actual-restoration trigger would make the changes clearer.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7527,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":61,"reasoning_output_tokens":0}}

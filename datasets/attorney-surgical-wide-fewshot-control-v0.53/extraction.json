@@ -1,0 +1,28 @@
+{
+  "control_of": "attorney-surgical-wide-v0.53",
+  "n_inputs": 289,
+  "examples": 8,
+  "example_verdicts": [
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no"
+  ],
+  "example_user_sha256": [
+    "c66bd390e3ce48270d3dbe674de3a0c2bdffb4af9c83c288084bd3bbc86049e1",
+    "bb70ed3a6601304eadf92a9e833ee99444e40c490758588083a33c290866ac0f",
+    "7c991cf39d0310099f0807ab2997fc36b8b38192b229c8b6e671756b7726719b",
+    "29aac7e4b1755f90bb8bc9536b1004b91125e386a3886f6f5802cc4e8d87f95c",
+    "fea8b84f5454d659825546ccfa1320baa7aff558a44078299ee436023c8d0cd2",
+    "fca9d21133d7e189765a2f64d3a1de67e55a3efff75f55a9923934efe985db24",
+    "6e6a64da49cf57c610e459ba04db8620c1fc9a67e37e4fd7d4863c33deb3e013",
+    "92636c2374a7f360314f0629fd587e2970ab69d27f0cc849842af08846fad663"
+  ],
+  "system_chars": 12146,
+  "traces_sha256": "af36be7fa8adaba6a03e3c49f5b9255ccabbde6e0ae335f7f1c2bdd4bc5162fd",
+  "agent_traces_sha256": "34edb27b2193e3365ce87ed455a1e90e11bd3cd5a4c86ad0858b14c5caeb10bf"
+}

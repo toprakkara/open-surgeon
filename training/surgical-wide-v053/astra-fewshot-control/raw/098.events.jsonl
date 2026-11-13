@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e1-5455-7631-aa14-eaac9d76e841"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement retypes shared language, including “Landlord may” and “at the end of the Term,” rather than preserving it. Targeted edits to the removal right and separate insertions for the new exceptions would make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7586,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":60,"reasoning_output_tokens":0}}

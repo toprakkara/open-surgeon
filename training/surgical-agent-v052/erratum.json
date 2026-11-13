@@ -1,0 +1,13 @@
+{
+  "recorded_at": "2026-11-10T15:55+0300",
+  "what": "plan.json training_data.leakage_check says no training paragraph is in the v0.52 test. That is wrong for a small part of the test.",
+  "finding": {
+    "v052_model": "12 of 477 test items share their original clause text with 9 of its 888 training examples",
+    "v051_model": "12 of 477 test items share their original clause text with 8 of its 622 training examples",
+    "identical_redlines": 0,
+    "v051_test": "not affected (0 of 216)"
+  },
+  "cause": "The v0.51 traces pooled into v0.52 training were not filtered against the fold 2 clause pool: a clause can occur in scenarios of different folds with different revisions.",
+  "effect": "Any effect favours the two trained models, which still scored below Astra. Scores and labels are unchanged; plan.json is left as it was because run protocols record its hash.",
+  "fixed_in": "scripts/combine_traces_v053.py drops such traces for the v0.53 test."
+}

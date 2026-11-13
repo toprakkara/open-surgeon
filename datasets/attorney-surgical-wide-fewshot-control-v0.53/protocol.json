@@ -1,0 +1,19 @@
+{
+  "version": "attorney-surgical-wide-fewshot-control-v0.53",
+  "frozen_at": "2026-11-10T14:28:00.476349+00:00",
+  "n_inputs": 289,
+  "frozen_sha256": {
+    "README.md": "302cb9a433520444bee2906d5bef78d99b9db982d37ba0500e4a328d41103550",
+    "system-prompt.txt": "9ad16316d64eb1057d2c6254d51b544b303876a190f6dd3ec21241d86a98c91b",
+    "extraction.json": "72705062509fcf535c64cbfcfcdafc98f934d07898454a5b9effb06a7e2b2a28",
+    "development/inputs.jsonl": "9cec200a5c6ffd585f3ac33da9026d49633550bb97187e97383899adafd27463",
+    "test/annotations.jsonl": "0fdc8cdd7fa795274b03156e6504e71fb401b25807c3228dd0841969e4d07d45",
+    "../../scripts/fewshot_control_v053.py": "9a25eb583fcbf56659f772ad21bd27ea6356c996afe76a1820dad55388a4a2a4",
+    "../../scripts/surgical_verifier_v051.py": "2b9145afe0d5fedbd01bf2b45d8e2077c26d8638cc056924e65d9c363f5acf26",
+    "../../scripts/score_surgical_agent_v052.py": "ac0a57bb5ca4c557eedb0fc5e7917d11f4aa280fa3409a1e0f56944d64a45d02",
+    "../../scripts/score_surgical_verifier_v051.py": "f7f1288080c06392f21bfe7fe48ebf1d7dc06a6078959dbcdc662cf335e7a3b7",
+    "../attorney-surgical-wide-v0.53/protocol.json": "d4d6b445fe6204f06d845355fa90ddb268ca9cdcf5750cab61cbecd8a19b307c"
+  },
+  "model_calls_at_freeze": 0,
+  "difficulty_gate_round": false
+}

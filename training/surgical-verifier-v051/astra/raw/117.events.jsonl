@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c169-de2e-7431-995c-173a9b05367e"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":5527,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":58,"reasoning_output_tokens":46}}

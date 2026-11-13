@@ -1,0 +1,27 @@
+{
+  "answers": 270,
+  "kept_before_balance": {
+    "no": 196,
+    "yes": 27
+  },
+  "kept": 223,
+  "by_label_status": {
+    "no|kept": 196,
+    "yes|kept": 27,
+    "no|wrong": 18,
+    "yes|wrong": 29
+  },
+  "sources": {
+    "training/surgical-wide-v053/teacher/answers/batch-000.txt": "133dd488be28050bb8daa32c6f420473665fc3928c10b5cbf644514e11a854c3",
+    "training/surgical-wide-v053/teacher/answers/batch-001.txt": "747ac7f87c72265422ede0365d19bd1eb438488e4e527e810bb6e0f2b4e500e7",
+    "training/surgical-wide-v053/teacher/answers/batch-002.txt": "ab1ef8793c42a46d93996c657eeb2f0326e9e6d1c640d2c74efdb69d5208e047",
+    "training/surgical-wide-v053/teacher/answers/batch-003.txt": "29da2894bf4f506abc5cb93286a5f526c0250f0dfcbece8d7fd19826b5387cd6",
+    "training/surgical-wide-v053/teacher/answers/batch-004.txt": "462ef4011c31e6a83fd37b66d8c6f260178f0bc924c74781f06168e56aafb352",
+    "training/surgical-wide-v053/teacher/answers/batch-005.txt": "9138b79523833296b058e2d233217dbf5b4d3cf1ed3d9e29104fe2031ea426ae",
+    "training/surgical-wide-v053/teacher/answers/batch-006.txt": "3b579aa55b10aa2869340ce11c0950779738e49ca06514b66a1c7458937cd281",
+    "training/surgical-wide-v053/teacher/answers/batch-007.txt": "46f866c29d3176c534fcbb15cee1c0bd2f455994d60f5eb8835b4482cdddd76f",
+    "training/surgical-wide-v053/teacher/answers/batch-008.txt": "86f1d030e942ccbf33693c05357ee8c8362d40148b18cd754cc51a8a10f12459",
+    "training/surgical-wide-v053/teacher/answers/batch-009.txt": "04e4797333af5a916a4c2055d6f995c33390cfb4c4f38827e7fb2593c9bc1040"
+  },
+  "out_sha256": "34edb27b2193e3365ce87ed455a1e90e11bd3cd5a4c86ad0858b14c5caeb10bf"
+}

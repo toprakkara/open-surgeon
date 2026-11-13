@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e7-a203-7e52-a5b3-e55efde1e9b6"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire paragraph is replaced, unnecessarily deleting and reinserting the heading and substantial unchanged language. A targeted deletion and separate additions would preserve the shared text and make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7543,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":47,"reasoning_output_tokens":0}}

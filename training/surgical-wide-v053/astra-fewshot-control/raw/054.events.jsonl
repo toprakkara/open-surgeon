@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5de-e066-7c93-b35f-0183919b3a8a"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The entire subsection is replaced, needlessly deleting and reinserting the heading, most of the definition, and the unchanged Taxes sentence. Targeted edits could isolate the fee cap, capital-improvement limits, exclusions, and insurance changes while preserving shared text.\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7815,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":60,"reasoning_output_tokens":0}}

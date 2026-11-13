@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e0-c269-74b1-86e6-fad9428cacfb"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement needlessly deletes and reinserts the shared phrase “in up to three (3) press or media opportunities arranged by the Company per year.” A surgical markup would target the opening change and separately add the discretion clause.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7470,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":55,"reasoning_output_tokens":0}}

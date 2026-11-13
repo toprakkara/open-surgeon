@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-b6ee-7510-a4c7-09884a8f4c25"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The numeric change fragments “110%” by replacing only its middle digit; the entire number should be marked as replaced. Although most other edits follow readable phrase boundaries, this prevents the redline from being surgical.\n\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7875,"cached_input_tokens":0,"cache_write_input_tokens":0,"output_tokens":52,"reasoning_output_tokens":0}}

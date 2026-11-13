@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5ea-4656-7262-bd0c-b6433a3b28be"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"A single insertion adds a complete proviso before the existing period. It preserves all shared text and uses a natural clause boundary with appropriate punctuation.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7470,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":38,"reasoning_output_tokens":0}}

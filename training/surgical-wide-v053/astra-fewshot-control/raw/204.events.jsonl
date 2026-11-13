@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e7-4e19-70c1-90de-9eeb15911036"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"Both insertions occur at natural phrase boundaries, preserve all existing text, and leave the sentence readable without fragmenting words or retyping shared language.\n{\"surgical\":\"yes\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7518,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":39,"reasoning_output_tokens":0}}

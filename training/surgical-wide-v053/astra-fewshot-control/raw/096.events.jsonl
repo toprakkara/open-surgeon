@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e1-3274-7311-baa4-54bda433e327"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacement needlessly deletes and retypes shared language, including “harmless Tenant” and “from and against all claims.” Targeted insertions and clause-level replacements would make the expanded indemnity easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7551,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":53,"reasoning_output_tokens":0}}

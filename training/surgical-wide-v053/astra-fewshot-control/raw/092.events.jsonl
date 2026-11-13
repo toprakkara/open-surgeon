@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e0-fbe3-7722-9dd9-ba940adeb750"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The markup needlessly deletes and retypes “encumbering the Property” and “similar instrument” through “a mortgagee requests within,” rather than preserving shared text and inserting the new conditions separately. The inserted “options,.” also disrupts punctuation.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7656,"cached_input_tokens":3712,"cache_write_input_tokens":0,"output_tokens":61,"reasoning_output_tokens":0}}

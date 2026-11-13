@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5ea-1635-7541-829f-1cfe0f95068b"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared text, including “Right to Perform. If,” “may perform it and,” and “as Additional Rent.” Targeted party substitutions, a charge deletion, and a separate sentence insertion would make the changes easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7613,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":62,"reasoning_output_tokens":0}}

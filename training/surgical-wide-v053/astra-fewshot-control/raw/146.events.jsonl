@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e4-00f6-7790-a5f5-b344c3d48203"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared phrases, including “at Sponsor's expense,” “the preparation,” “covering Foreground IP,” and “Calloway will reasonably cooperate.” Targeted word changes and a separate insertion would make the substantive edits easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7589,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":64,"reasoning_output_tokens":0}}

@@ -1,0 +1,32 @@
+{
+  "plan_sha256": "08fe1d6fae6575e3ab1e9ff8c3fff9eee2ec3f8ec4f08680fe99071269b343cd",
+  "script_sha256": "27bab36aa16c41a32f9327f2882cbc0945244948379ffcb29c0c7a87dc74888a",
+  "dataset_protocol_sha256": "19acf03af6de171e1a4a177232017f45d1088ae5b7498388c57a9a851d268ce1",
+  "traces": "training/surgical-wide-v053/teacher/combined-traces.jsonl",
+  "traces_sha256": "af36be7fa8adaba6a03e3c49f5b9255ccabbde6e0ae335f7f1c2bdd4bc5162fd",
+  "examples": 812,
+  "runner": "modal",
+  "gpu": "H100",
+  "model": "Qwen/Qwen3.8-27B",
+  "revision": "37561816e66b5b9153b1b64c10968c18c1e6f4a0",
+  "adapter_name": "v053-27b",
+  "recipe": {
+    "model": "Qwen/Qwen3.8-27B at revision 37561816e66b5b9153b1b64c10968c18c1e6f4a0",
+    "method": "LoRA SFT on the kept traces with scripts/modal_attorney_choice_v050.py's training loop; loss on the assistant reply and end-of-turn token only",
+    "r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.0,
+    "learning_rate": 5e-05,
+    "epochs": 2,
+    "batch_size": 8,
+    "warmup_ratio": 0.03,
+    "scheduler": "cosine to zero",
+    "seed": 42,
+    "adapter_used": "Final epoch only. No selection by test results.",
+    "not_done": "Crosby's second stage, GRPO with an LLM-judge reward, is left to a later version."
+  },
+  "resume": false,
+  "function_call_id": "fc-01M72RFYCSQ8CE6HNYSTP1DP7S",
+  "smoke_test": false,
+  "started_at": "2026-11-10T15:56:25+0300"
+}

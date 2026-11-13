@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5e3-5130-7333-81c4-ce5efa8e1654"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The edit splits the numeric change from “250” to “150” into a single-digit replacement, leaving “50” untouched. A surgical redline would replace the whole number for readability. The other edits largely follow natural boundaries.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7832,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":56,"reasoning_output_tokens":0}}

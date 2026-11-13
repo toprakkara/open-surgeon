@@ -1,0 +1,4 @@
+{"type":"thread.started","thread_id":"01a1c5eb-5d73-7552-876f-eea6aef00865"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"The replacements unnecessarily delete and reinsert shared phrases, including “jointly by the Ambassador and the Company,” “in connection with the Services,” and the existing content examples. Targeted insertions and punctuation changes would preserve that text and make the additions easier to review.\n{\"surgical\":\"no\"}"}}
+{"type":"turn.completed","usage":{"input_tokens":7579,"cached_input_tokens":6400,"cache_write_input_tokens":0,"output_tokens":63,"reasoning_output_tokens":0}}
